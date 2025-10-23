@@ -13,11 +13,12 @@
 ---
 
 ### Unidad 1 ✨
-<Algoritmos>
-[Ver documento](Unidad1. index.md)
+[Ver documento](Unidad1.md)
+
 
 **Objetivos**
 - Comprender algoritmos y abstracción.
+
 
 **Actividades**
 - [ ] Resolver pseudocódigos
@@ -26,23 +27,16 @@
 **Recursos**
 - MDN, apuntes de clase, vídeos.
 
-</details>
-
 ### Unidad 2 🧠
-<details>
 <summary>Ver objetivos y actividades</summary>
-
 (Contenido de la unidad 2...)
 
-</details>
+
 
 ### Unidad 3 🛠️
-<details>
 <summary>Ver objetivos y actividades</summary>
-
 (Contenido de la unidad 3...)
 
-</details>
 
 ### Conclusiones 📝
 - Reflexiona sobre lo aprendido.

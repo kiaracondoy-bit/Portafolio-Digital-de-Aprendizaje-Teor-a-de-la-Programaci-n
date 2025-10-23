@@ -1,4 +1,5 @@
-# 💼 Portafolio Digital de Aprendizaje
+# 💼Portafolio Digital de Aprendizaje
+
 <div align="center"> 
   
  <img width="320" height="132" alt="image" src="https://github.com/user-attachments/assets/e533f931-15cc-4298-94ed-267c0181a5dd" />
@@ -9,7 +10,7 @@
   *Teoría de la Programación*
 
 
-  Período Académico:
+Período Académico:
   
   *Septiembre 2025 - Febrero 2026*
   
@@ -21,6 +22,8 @@
 
   _Kiara Salomé Condoy Morocho_
   </div>
+
+<p class="texto-grande">Texto grande y coloreado</p>
 
 
 ### 📚 Contenido

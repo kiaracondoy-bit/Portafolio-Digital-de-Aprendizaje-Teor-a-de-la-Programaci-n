@@ -5,7 +5,7 @@
 ### 📚 Contenido
 - [Unidad 1](<Portafolio Digital de Aprendizaje.md###Unidad 1>) ✨
 - [Unidad 2](###%Unidad%2) 🧠
-- [Unidad 3](###%Unidad%3) 🛠️
+- [Unidad 3](<Portafolio Digital de Aprendizaje.md###%Unidad%3>) 🛠️
 - [Conclusiones](###%Conclusiones) 📝
 - [Referencias](####%Referencias) 📚
 - [Uso de la IA generativa](###-Uso-de-la-IA-generativa) 🤖

@@ -4,7 +4,7 @@
   
  <img width="320" height="132" alt="image" src="https://github.com/user-attachments/assets/e533f931-15cc-4298-94ed-267c0181a5dd" />
 
-<font size="7">***Universidad Nacional de Loja***</font>
+***Universidad Nacional de Loja***
   
   *__Carrera de Computación - Primer Ciclo__* 
   *Teoría de la Programación*

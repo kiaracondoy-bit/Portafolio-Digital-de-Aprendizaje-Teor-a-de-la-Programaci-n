@@ -11,6 +11,7 @@
 
 
 Período Académico:
+
   
   *Septiembre 2025 - Febrero 2026*
   
@@ -22,8 +23,6 @@ Período Académico:
 
   _Kiara Salomé Condoy Morocho_
   </div>
-
-<p class="texto-grande">Texto grande y coloreado</p>
 
 
 ### 📚 Contenido

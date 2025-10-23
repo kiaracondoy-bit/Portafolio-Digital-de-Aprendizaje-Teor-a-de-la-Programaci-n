@@ -43,7 +43,7 @@
     * ***Representación***: Existen dos formas:
         - Pseudocódigo: Es una forma clara y estructurada de representar un algoritmo usando lenguaje natural, como el español, para describir los pasos en un programa. Aunque no se ejecuta en la computadora, facilita la comprensión de la lógica, detección de errores y diseño de soluciones, especialmente para principiantes.
           
-        - Diagrama de flujo: Herramienta visual que representa la lógica de un programa mediante símbolos estandarizados, permitiendo comprender fácilmente el funcionamiento del algoritmo. Nos permite visualizar sus entradas, procesos y salidas, detectar errores y comprender la estructura en general del algoritmo.
+        - Diagrama de flujo: Herramienta visual que representa la lógica de un programa mediante símbolos estandarizados, facilitando la comprensión clara y ordenada del algoritmo. Permite identificar sus entradas, procesos y salidas, detectar posibles errores y entender de forma general la estructura del procedimiento.
 
 [Ver documento](Unidad1.md)
 

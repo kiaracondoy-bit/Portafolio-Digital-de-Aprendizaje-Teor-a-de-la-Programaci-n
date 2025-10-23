@@ -3,12 +3,12 @@
 
 
 ### 📚 Contenido
-- [Unidad 1](#unidad-1) ✨
-- [Unidad 2](#unidad-2) 🧠
-- [Unidad 3](#unidad-3) 🛠️
-- [Conclusiones](#conclusiones) 📝
-- [Referencias](#referencias) 📚
-- [Uso de la IA generativa](#uso-de-la-ia-generativa) 🤖
+- [Unidad 1](###-Unidad-1) ✨
+- [Unidad 2](###-Unidad-2) 🧠
+- [Unidad 3](###-Unidad-3) 🛠️
+- [Conclusiones](###-Conclusiones) 📝
+- [Referencias](####-Referencias) 📚
+- [Uso de la IA generativa](###-Uso-de-la-IA-generativa) 🤖
 
 ---
 

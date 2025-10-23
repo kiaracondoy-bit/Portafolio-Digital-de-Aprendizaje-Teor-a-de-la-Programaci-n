@@ -1,18 +1,26 @@
 # 💼 Portafolio Digital de Aprendizaje
-<p align="center"> 
-  <span style= "color:#912728; font-size:28px; font-weight:bold;">
-    UNIVERSIDAD NACIONAL DE LOJA
-    </span>
-  </p>
+<div align="center"> 
+  
+ <img width="320" height="132" alt="image" src="https://github.com/user-attachments/assets/e533f931-15cc-4298-94ed-267c0181a5dd" />
+
+<font size="7">***Universidad Nacional de Loja***</font>
+  
+  *__Carrera de Computación - Primer Ciclo__* 
+  *Teoría de la Programación*
 
 
-Carrera de Computación
- Teoría de la Programación
-Primer Ciclo
-Ciclo Acaadémico Septiembre 2025-Febrero 2026
-Docente: Ing. Lissette Lopez
-Kiara Salomé Condoy Morocho
+  Período Académico:
+  
+  *Septiembre 2025 - Febrero 2026*
+  
+  **Docente:**
+  
+  _Lissette Lopez_
+  
+  **Estudiante:**
 
+  _Kiara Salomé Condoy Morocho_
+  </div>
 
 
 ### 📚 Contenido

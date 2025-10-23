@@ -29,8 +29,8 @@
   ### UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br>
 </div>
 
-#### CONTENIDOS
-- Algoritmos:
+#### 🗃️ CONTENIDOS
+- ***Algoritmos***:
     * ***Definición***: Un algoritmo es una *secuencia* de pasos finitos que están *ordenados lógicamente* con el fin de resolver determinado problema. La solución definida puede ser una de muchas, por lo que se debe ingeniar la más eficiente.
     * ***Clasificación***: Se clasifican en:
         - Cuantitativos: Cálculos y fórmulas matemáticas
@@ -45,10 +45,18 @@
           
         - Diagrama de flujo: Herramienta visual que representa la lógica de un programa mediante símbolos estandarizados, facilitando la comprensión clara y ordenada del algoritmo. Permite identificar sus entradas, procesos y salidas, detectar posibles errores y entender de forma general la estructura del procedimiento.
 
-[Ver documento](Unidad1.md)
+[ACTIVIDADES EN PSEINT](Unidad1.md) <br><br>
 
+- ***Elementos Básicos de Algoritmos y Programas***:
+    * Dato e Información:
+    * Tipos de datos simples:
+    * Identificadores, variables y constantes:
+    * Instrucciones de control secuencial: asignación, lectura y escritura:
+    * Expresiones (Aritméticas, Lógicas y Relacionales) y literales:
+    * Pasos para escribir un algoritmo:
+    * Pruebas de escritorio:
 
-
+[EJERCICIOS DIAPO 2](Unidad1.md) <br><br>
 
 
 **Actividades**

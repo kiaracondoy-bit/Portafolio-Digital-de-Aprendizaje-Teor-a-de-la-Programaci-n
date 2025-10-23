@@ -4,7 +4,7 @@
 
 ### 📚 Contenido
 - [Unidad 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Digital%20de%20Aprendizaje.md#unidad-1-)✨
-- [Unidad 2](###%Unidad%2) 🧠
+- [Unidad 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Digital%20de%20Aprendizaje.md#unidad-2-) 🧠
 - [Unidad 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Digital%20de%20Aprendizaje.md#unidad-3-%EF%B8%8F) 🛠️
 - [Conclusiones](###%Conclusiones) 📝
 - [Referencias](####%Referencias) 📚

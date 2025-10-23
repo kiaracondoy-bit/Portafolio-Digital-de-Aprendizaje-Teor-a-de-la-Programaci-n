@@ -1,16 +1,9 @@
 # 💼 Portafolio Digital de Aprendizaje
 <p align="center"> 
-  <span style= "color:#912728; font-size:228px; font weight:bold;">
+  <span style= "color:#912728; font-size:28px; font-weight:bold;">
     UNIVERSIDAD NACIONAL DE LOJA
     </span>
   </p>
-
-
-  <p align="center">
-  <span style="color:#2E86C1; font-size:28px; font-weight:bold;">
-    🌟 PORTAFOLIO DIGITAL 🌟
-  </span>
-</p>
 
 
 Carrera de Computación

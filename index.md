@@ -64,10 +64,13 @@
       - **Escritura**: Es mostrar los resultados deseados al usuario.
       - **Comentarios**: Son textos o instruciiones que no se ejecutan, sirven de guía para ubicarse en el código.
     * ***Expresiones***: Son una combinación entre variables, constantes, paréntesis y operadores.
-      - **[Operadores](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#elementos-de-un-algoritmo-y-un-programa)**
-          * *Aritméticos o matemáticos*:
-          * *Lógicos*:
-          * *Relacionales*:
+      - **[Operadores](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#elementos-de-un-algoritmo-y-un-programa)**: Existen tres tipos de operadores:
+          * *Aritméticos o matemáticos*, *Lógicos* y *Relacionales*
+          * Prioridad entre operadores:
+            - Un operando entre operadores de distinta prioridad se asocia al de mayor prioridad.
+            - Entre operadores de igual prioridad, se asocia al de la izquierda.
+            - Las expresiones entre paréntesis se evalúan primero.
+
     * Pasos para escribir un algoritmo:
     * Pruebas de escritorio:
 

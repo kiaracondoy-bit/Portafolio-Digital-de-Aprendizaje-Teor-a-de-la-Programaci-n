@@ -71,8 +71,13 @@
             - Entre operadores de igual prioridad, se asocia al de la izquierda.
             - Las expresiones entre paréntesis se evalúan primero.
 
-    * Pasos para escribir un algoritmo:
-    * Pruebas de escritorio:
+    * ***Pasos para escribir un algoritmo en pseudocódigo y diagrama de flujo***:
+      - **Análisis del problema**: Comprender el problema a fondo. Esto incluye:
+            - Identificar los datos de entrada
+            - Definir la información que se desea obtener
+            - Establecer los métodos y fórmulas necesarios para llegar a los resultados
+      - **Desarrollo del algoritmo**: Codificar al traducir el análisis del problema en instrucciones o sentencias.
+      - **Pruebas de escritorio**: Simular manualmente la ejecución del algoritmo, paso a paso, con datos de entrada. Esto permite verificar si los resultados obtenidos son correctos. De no ser así, se debe revisar el análisis del problema y el código del algoritmo, aplicar las correcciones necesarias y repetir la prueba hasta obtener los resultados correctos.
 
 [EJERCICIOS DIAPO 2](Unidad1.md) <br><br>
 

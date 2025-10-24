@@ -64,7 +64,7 @@
       - **Escritura**: Es mostrar los resultados deseados al usuario.
       - **Comentarios**: Son textos o instruciiones que no se ejecutan, sirven de guía para ubicarse en el código.
     * ***Expresiones***: Son una combinación entre variables, constantes, paréntesis y operadores.
-      - **Operadores**
+      - **[Operadores](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#elementos-de-un-algoritmo-y-un-programa)**
           * *Aritméticos o matemáticos*:
           * *Lógicos*:
           * *Relacionales*:

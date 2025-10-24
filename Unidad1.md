@@ -1,9 +1,9 @@
 [🛑 Volver al Portafolio Digital de Aprendizaje](<Portafolio Digital de Aprendizaje.md>)<br><br>
 CONTENIDOS
-1. ALGORITMOS:<br>
+1. #### ALGORITMOS:<br>
    [Ejercicios de Algoritmos en PSeInt](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/tree/main/Ejercicios%20Psenit)<br><br>
 ---
-2. ELEMENTOS DE UN ALGORITMO Y UN PROGRAMA:<br>
+2. #### ELEMENTOS DE UN ALGORITMO Y UN PROGRAMA:<br>
    * **Operadores Matemáticos** <br>
      <img width="348" height="202" alt="image" src="https://github.com/user-attachments/assets/f2a208b4-7e1a-4753-9fcc-794a38a046dd" /> <br><br>
    * **Operadores Lógicos**

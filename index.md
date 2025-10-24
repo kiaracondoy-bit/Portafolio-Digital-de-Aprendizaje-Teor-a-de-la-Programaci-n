@@ -46,7 +46,7 @@
           
         - Diagrama de flujo: Herramienta visual que representa la lógica de un programa mediante símbolos estandarizados, facilitando la comprensión clara y ordenada del algoritmo. Permite identificar sus entradas, procesos y salidas, detectar posibles errores y entender de forma general la estructura del procedimiento.
 
-[ACTIVIDADES EN PSEINT](Unidad1.md) <br><br>
+[Ejercicios Prácticos en PSeInt](Unidad1.md) <br><br>
 
 - ***ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS***:
     * ***Dato e Información***: Un dato es la unidad mínima de la información, puede ser un símbolo, un número, etc.
@@ -65,9 +65,9 @@
       - **Comentarios**: Son textos o instruciiones que no se ejecutan, sirven de guía para ubicarse en el código.
     * ***Expresiones***: Son una combinación entre variables, constantes, paréntesis y operadores.
       - **Operadores**
-          * Aritméticos o matemáticos
-          * Lógicos
-          * Relacionales
+          * *Aritméticos o matemáticos*:
+          * *Lógicos*:
+          * *Relacionales*:
     * Pasos para escribir un algoritmo:
     * Pruebas de escritorio:
 

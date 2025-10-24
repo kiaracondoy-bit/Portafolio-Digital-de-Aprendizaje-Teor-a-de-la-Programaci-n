@@ -72,6 +72,10 @@
             - Las expresiones entre paréntesis se evalúan primero.
 
     * ***Pasos para escribir un algoritmo en pseudocódigo y diagrama de flujo***:
+      En clase trabajamos con la programación por bloques, una forma visual de crear programas usando piezas que se encajan como rompecabezas. Cada bloque representa una instrucción, como mover un personaje, repetir acciones o tomar decisiones. Usamos plataformas como Blockly Games y Pilas Bloques, que nos permitieron aprender conceptos básicos de programación de manera divertida y práctica, sin necesidad de escribir código.
+👉 [Ejercicios] realizados en clase.
+
+         
       - **Análisis del problema**: Comprender el problema a fondo. Esto incluye:
             - Identificar los datos de entrada
             - Definir la información que se desea obtener

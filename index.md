@@ -79,7 +79,7 @@
       - **Desarrollo del algoritmo**: Codificar al traducir el análisis del problema en instrucciones o sentencias.
       - **Pruebas de escritorio**: Simular manualmente la ejecución del algoritmo, paso a paso, con datos de entrada. Esto permite verificar si los resultados obtenidos son correctos. De no ser así, se debe revisar el análisis del problema y el código del algoritmo, aplicar las correcciones necesarias y repetir la prueba hasta obtener los resultados correctos.
 
-[EJERCICIOS DIAPO 2](Unidad1.md) <br><br>
+[Ejercicios PSeInt](<Ejercicios PSeInt Clase 2>) <br><br>
 
 
 **Actividades**

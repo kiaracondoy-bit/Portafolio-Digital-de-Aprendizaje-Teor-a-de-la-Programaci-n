@@ -74,8 +74,7 @@
     * ***Pasos para escribir un algoritmo en pseudocódigo y diagrama de flujo***:
       - **Programación por Bloques**:
       En clase trabajamos con la programación por bloques, una forma visual de crear programas usando piezas que se encajan como rompecabezas. Cada bloque  representa una instrucción, como mover un personaje, repetir acciones o tomar decisiones. Usamos plataformas como Blockly Games y Pilas Bloques, que nos permitieron aprender conceptos básicos de programación de manera divertida y práctica, sin necesidad de escribir código.
-👉 [Ejercicios] realizados en clase.
-
+👉 [Ejemplos de Ejercicios](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/Unidad1.md#programaci%C3%B3n-por-bloques-)
          
       - **Análisis del problema**: Comprender el problema a fondo. Esto incluye:
             - Identificar los datos de entrada

@@ -30,7 +30,7 @@
   ### UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br>
 </div>
 
-#### 🗃️ CONTENIDOS
+#### 🗃️ CONTENIDOS DE LA UNIDAD
 - ***ALGORITMOS***:
     * ***Definición***: Un algoritmo es una *secuencia* de pasos finitos que están *ordenados lógicamente* con el fin de resolver determinado problema. La solución definida puede ser una de muchas, por lo que se debe ingeniar la más eficiente.
     * ***Clasificación***: Se clasifican en:

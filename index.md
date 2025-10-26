@@ -197,7 +197,7 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 4. Asegurarse de que exista **una sola entrada y salida principal**.
 5. Revisar que el flujo sea **claro y secuencial**.
 
-📎 **Ejemplos visuales y ejercicios:** Diagramas en papel o software educativo.
+📎 **Ejemplos visuales y ejercicios:** 
 
 ---
 

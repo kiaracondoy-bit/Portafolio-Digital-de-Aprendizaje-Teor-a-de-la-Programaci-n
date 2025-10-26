@@ -25,10 +25,6 @@
 - [Referencias](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#referencias-) 📚
 - [Uso de la IA generativa](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#uso-de-la-ia-generativa-) 🤖
 ---
-<div align="center">
- 
-  ### UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br>
-</div>
 
 #### 🗃️ CONTENIDOS DE LA UNIDAD
 - ***ALGORITMOS***:
@@ -91,6 +87,249 @@
 
 **Recursos**
 - MDN, apuntes de clase, vídeos.
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+ 
+  ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br>
+</div>
+
+### 🗂️ CONTENIDOS DE LA UNIDAD
+
+### 🔹 1. **ALGORITMOS**
+
+Un **algoritmo** es una **secuencia finita, ordenada y lógica de pasos** que permiten **resolver** un problema o **realizar** una tarea específica.
+Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
+
+##### 📊 Clasificación
+
+* 🔢 **Cuantitativos:** Basados en operaciones matemáticas o cálculos numéricos.
+* 🔤 **Cualitativos:** Descritos con lenguaje natural, usando palabras y frases.
+
+##### ⚙️ Características Principales
+
+* *Preciso:* Cada instrucción tiene un significado claro.
+* *Finito:* Tiene un número limitado de pasos.
+* *Definido:* Produce el mismo resultado con los mismos datos de entrada.
+* *Ordenado:* Las instrucciones deben seguir una secuencia lógica.
+* *Eficiente:* Resuelve el problema en el menor tiempo posible.
+
+#### 🧩 Partes del algoritmo
+
+* *Entrada:* Datos proporcionados por el usuario.
+* *Proceso:* Cálculos u operaciones que transforman los datos.
+* *Salida:* Resultados obtenidos.
+
+📘 **Ejemplo de la vida diaria:**
+Seguir una receta de cocina 🍳, usar una aplicación 📱 o resolver una ecuación 📏 son ejemplos de algoritmos cotidianos.
+
+#### Proceso Para Resolver Un Problema Mediante Un Algoritmo**
+
+1. *Análisis del problema:* Comprender qué se necesita resolver.
+2. *Definición de entradas:* Identificar los datos que se requieren.
+3. *Definición del proceso:* Establecer las operaciones necesarias.
+4. *Definición de salidas:* Determinar los resultados esperados.
+5. *Diseño del algoritmo:* Representar la solución (pseudocódigo o diagrama de flujo).
+6. *Verificación:* Probar el algoritmo con datos de ejemplo.
+
+#### Diferencia Entre Algoritmo Y Programa
+
+Un **algoritmo** no es lo mismo que un **programa (software)**.
+
+| Concepto         | Descripción                                                                                                                                |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💡 **Algoritmo** | Es el método lógico o conjunto de pasos para resolver un problema.                                                                         |
+| 💻 **Programa**  | Es la implementación del algoritmo mediante un lenguaje de programación (como C++, Java o Python) que puede ejecutarse en una computadora. |
+
+---
+
+
+---
+
+### 🔹 2. **REPRESENTACIÓN DE ALGORITMOS**
+
+Los algoritmos se pueden representar de dos maneras:
+
+#### ✏️ Pseudocódigo
+
+El **pseudocódigo** es una forma textual y estructurada de representar un algoritmo.
+Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación.
+
+##### 🪜 Pasos para escribir un algoritmo en pseudocódigo
+
+1. Identificar **entradas, procesos y salidas**.
+2. Usar palabras clave como **Inicio**, **Leer**, **Escribir**, **Si**, **Mientras**, **Fin**, etc.
+3. Escribir **una instrucción por línea**.
+4. Usar **sangría** para indicar jerarquía.
+5. Mantener un **orden lógico y coherente**.
+6. Revisar la claridad del algoritmo.
+
+📘 **Ejemplo:**
+
+```
+Algoritmo CalcularPromedio
+    Definir A, B, C, Promedio Como Real
+    Escribir "Ingrese tres calificaciones:"
+    Leer A, B, C
+    Promedio = (A + B + C) / 3
+    Escribir "El promedio es:", Promedio
+FinAlgoritmo
+```
+  ***Encuentre los Algoritmos En PSeInt realizados en clase en:***
+📎 [**Ejercicios prácticos:**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/tree/main/Ejercicios%20Psenit)<br><br>
+#### 🔶 Diagrama De Flujo
+
+El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección**.
+
+##### 🧭 Pasos para elaborar un diagrama de flujo
+
+1. Definir **entradas, procesos y salidas**.
+2. Utilizar los **símbolos correctos**:
+3. Conectar con **flechas** que muestren el flujo.
+4. Asegurarse de que exista **una sola entrada y salida principal**.
+5. Revisar que el flujo sea **claro y secuencial**.
+
+📎 **Ejemplos visuales y ejercicios:** Diagramas en papel o software educativo.
+
+---
+
+### 🔹 5. **ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS**
+
+#### 💾 Datos e información
+
+Un **dato** es la unidad mínima de información.
+La **información** es el resultado del procesamiento de los datos.
+
+##### Tipos de datos simples
+
+* 🔢 **Enteros:** Valores sin decimales.
+* 🔹 **Reales:** Valores con punto decimal.
+* 🔤 **Carácter:** Un solo símbolo o letra.
+* 🔠 **Cadena:** Conjunto de caracteres.
+* ✅ **Lógicos:** Verdadero (True) o Falso (False).
+
+#### 🏷️ Identificadores
+
+Son los **nombres asignados a variables o constantes**.
+
+* 🔸 **Constantes:** No cambian durante la ejecución.
+* 🔹 **Variables:** Pueden cambiar durante la ejecución.
+
+#### 🧮 Instrucciones básicas
+
+* **Asignación:** Asigna un valor a una variable.
+* **Lectura:** Permite ingresar datos.
+* **Escritura:** Muestra resultados.
+* **Comentarios:** Aclaran el código sin ejecutarse.
+
+---
+
+### 🔹 6. **LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN**
+
+Los **lenguajes de programación** permiten traducir los algoritmos en programas que la computadora pueda ejecutar.
+
+#### 💬 Lenguajes de alto nivel
+
+Son más fáciles de aprender y se parecen al lenguaje humano.
+Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser **traducidos** para que la computadora los entienda.
+
+##### 🔹 Ejemplos de lenguajes
+
+C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
+
+#### ⚙️ Clasificación según la traducción
+
+* 🧩 **Lenguajes compilados:**
+  Traducen todo el código antes de ejecutarse.
+  Ejemplo: C, C++.
+
+* 🪄 **Lenguajes interpretados:**
+  Traducen línea por línea durante la ejecución.
+  Ejemplo: Python, PHP, JavaScript.
+
+📎 **Ver diapositiva de referencia.**
+
+---
+
+### 🔹 7. **PROGRAMACIÓN POR BLOQUES**
+
+La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
+Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
+
+#### 🧰 Herramientas utilizadas
+
+* 🧩 **Blockly Games**
+* 🎮 **Pilas Bloques**
+
+Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
+
+📎 **Ejemplos de ejercicios prácticos.**
+
+---
+
+### 🔹 8. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
+
+❌ Distinguir entre algoritmo y programa.
+❌ Comprender la lógica secuencial.
+❌ Recordar la prioridad de operadores.
+❌ Representar correctamente los diagramas de flujo.
+❌ Adaptarse a nuevas herramientas digitales.
+
+🧭 **Estrategias de mejora:**
+✔️ Revisión constante.
+✔️ Trabajo colaborativo.
+✔️ Práctica en **PSeInt** y **Blockly Games**.
+
+---
+
+### 🔹 9. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
+
+💬 *“Aprendí que programar no solo es escribir código, sino aprender a pensar de manera lógica, ordenada y estructurada.”*
+
+Comprendí la **importancia de los algoritmos** como base de todo programa, y la necesidad de **traducir ideas en instrucciones que la computadora pueda entender**.
+Este conocimiento **fortalece mi razonamiento lógico** y mi **capacidad para resolver problemas**, habilidades clave en mi formación como **ingeniera en computación**. 👩‍💻💡
+
+---
+
+### 🔹 10. **RECURSOS COMPLEMENTARIOS**
+
+📘 [Documento de referencia en Drive](https://drive.google.com/file/d/1pko741mali6orqm9QMUmXEaSiDf92Qcc/view)
+📊 [Presentación de la Unidad 1 (Google Slides)](https://docs.google.com/presentation/d/14b3xwO87_64AZcFfP4zhrQYh2o5QYAjU/edit?slide=id.g3819e9a3ea9_3_808#slide=id.g3819e9a3ea9_3_808)
+
+---
+
+¿Quieres que te agregue al final una **mini sección de resumen visual** (tipo checklist o mapa mental en Markdown) para que tu portafolio se vea aún más interactivo en GitHub?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---

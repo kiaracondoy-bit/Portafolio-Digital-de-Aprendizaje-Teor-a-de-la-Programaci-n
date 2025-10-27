@@ -1,7 +1,8 @@
 [🛑 Volver al Portafolio Digital de Aprendizaje](<index.md>)<br><br>
 CONTENIDOS
 ---
-1. ### PROGRAMACIÓN POR BLOQUES: <br><br>
+1. ### PROGRAMACIÓN POR BLOQUES:
+<br><br>
 
 - **BLOCKLY GAMES**<br><br>
    <img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094655" src="https://github.com/user-attachments/assets/6f4cc5d6-0f9a-42d7-aeff-5c77e2b4f601" /><br><br>

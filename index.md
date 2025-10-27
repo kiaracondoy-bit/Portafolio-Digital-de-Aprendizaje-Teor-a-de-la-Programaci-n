@@ -161,7 +161,7 @@ Son los **nombres asignados a variables o constantes**.
 
 ---
 
-### 🔹 6. **LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN**
+### 🔹 6. LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN
 
 Los **lenguajes de programación** permiten traducir los algoritmos en programas que la computadora pueda ejecutar.
 
@@ -176,11 +176,11 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
 
 #### ⚙️ Clasificación según la traducción
 
-* 🧩 **Lenguajes compilados:**
+* 🧩 *Lenguajes compilados:*
   Traducen todo el código antes de ejecutarse.
   Ejemplo: C, C++.
 
-* 🪄 **Lenguajes interpretados:**
+* 🪄 *Lenguajes interpretados:*
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
 
@@ -198,7 +198,7 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
 ✔️ Trabajo colaborativo.
 ✔️ Práctica en **PSeInt** y **Blockly Games**.
 
----
+
 ### 🔹 9. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
 💬 *“Aprendí que programar no solo es escribir código, sino aprender a pensar de manera lógica, ordenada y estructurada.”*
@@ -209,11 +209,9 @@ Este conocimiento **fortalece mi razonamiento lógico** y mi **capacidad para re
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-* [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)]()
-* [Instalación de lenguajes de programación (C, Python o Java)]()
-* [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()
-* [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
-
+* [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](<Actividades U1/Condoy_Kiara_AA1.pdf>)
+* [Instalación de lenguajes de programación (C, Python o Java)](<Actividades U1/Condoy_Kiara_AA2.pdf>)
+* [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](<Actividades U1/Condoy_Kiara_APE1.pdf>)
 ---
 ### UNIDAD 2 🧠
 <summary>Ver objetivos y actividades</summary>

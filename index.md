@@ -150,10 +150,6 @@ Un **algoritmo** no es lo mismo que un **programa (software)**.
 | 💻 **Programa**  | Es la implementación del algoritmo mediante un lenguaje de programación (como C++, Java o Python) que puede ejecutarse en una computadora. |
 
 ---
-
-
----
-
 ### 🔹 2. **REPRESENTACIÓN DE ALGORITMOS**
 
 Los algoritmos se pueden representar de dos maneras:
@@ -189,15 +185,10 @@ FinAlgoritmo
 
 El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección**.
 
-##### 🧭 Pasos para elaborar un diagrama de flujo
+*En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos del mismo, como los datos de entrada, los procesos, los datos de salida, los comentarios, entre otros.*
 
-1. Definir **entradas, procesos y salidas**.
-2. Utilizar los **símbolos correctos**:
-3. Conectar con **flechas** que muestren el flujo.
-4. Asegurarse de que exista **una sola entrada y salida principal**.
-5. Revisar que el flujo sea **claro y secuencial**.
-
-📎 **Ejemplos visuales y ejercicios:** 
+En el siguiente enlace se pueden visualizar los archivos correspondientes a los ejercicios realizados. Cada ejercicio cuenta con dos archivos: el primero contiene el pseudocódigo y el segundo, con el mismo nombre pero con la adición de la expresión “diagrama de flujo”, presenta la representación gráfica del algoritmo. Esto se repite de forma sistemática en todos los ejercicios disponibles en el enlace:
+📎 [**Ejemplos visuales y ejercicios:**]() 
 
 ---
 

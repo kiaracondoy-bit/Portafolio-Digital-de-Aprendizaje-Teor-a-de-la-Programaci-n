@@ -193,10 +193,11 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
 ❌ Representar correctamente los diagramas de flujo.
 ❌ Adaptarse a nuevas herramientas digitales.
 
-🧭 **Estrategias de mejora:**
+🧭 Estrategias de mejora:
 ✔️ Revisión constante.
 ✔️ Trabajo colaborativo.
 ✔️ Práctica en **PSeInt** y **Blockly Games**.
+
 ---
 ### 🔹 9. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
@@ -204,6 +205,7 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
 
 Comprendí la **importancia de los algoritmos** como base de todo programa, y la necesidad de **traducir ideas en instrucciones que la computadora pueda entender**.
 Este conocimiento **fortalece mi razonamiento lógico** y mi **capacidad para resolver problemas**, habilidades clave en mi formación como **ingeniera en computación**. 👩‍💻💡
+
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 

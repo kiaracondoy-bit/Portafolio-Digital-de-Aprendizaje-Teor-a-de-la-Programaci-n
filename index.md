@@ -1,15 +1,13 @@
-# 💼Portafolio Digital de Aprendizaje
-
 <div align="center"> 
  <img width="320" height="132" alt="image" src="https://github.com/user-attachments/assets/e533f931-15cc-4298-94ed-267c0181a5dd" /> <br>
 
 ### ***Universidad Nacional de Loja***
-### *__Carrera de Computación - Primer Ciclo__*   <br><br><br>
+### *__Carrera de Computación - Primer Ciclo__*<br><br><br>
 ### *Teoría de la Programación*<br><br><br>
-### *Portafolio Digital de Aprendizaje*<br><br>
-### **Docente:**
+### *💼Portafolio Digital de Aprendizaje*<br><br>
+### **👩‍🏫Docente:**
 ###  _Ing. Lissette Lopez_<br><br><br>
-### **Estudiante:**
+### **👩‍🎓Estudiante:**
 ### _Kiara Salomé Condoy Morocho_<br><br><br>
 ### Período Académico:
 ### *Septiembre 2025 - Febrero 2026*
@@ -19,6 +17,13 @@
 ---
 ### 📚 Contenido
 - [Unidad 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-1-fundamentos-de-algoritmos-y-programass-)✨
+   - CONTENIDOS DE LA UNIDAD
+       1. ALGORITMOS
+       2. REPRESENTACIÓN DE ALGORITMOS
+          - Pseudocódigo
+          - Diagrama de Flujo
+       3.  PROGRAMACIÓN POR BLOQUES
+       4.  
 - [Unidad 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-2-) 🧠
 - [Unidad 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-3-%EF%B8%8F) 🛠️
 - [Conclusiones](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#conclusiones-) 📝
@@ -115,7 +120,30 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 En el siguiente enlace se pueden visualizar los archivos correspondientes a los ejercicios realizados. Cada ejercicio cuenta con dos archivos: el primero contiene el pseudocódigo y el segundo, con el mismo nombre pero con la adición de la expresión “diagrama de flujo”, presenta la representación gráfica del algoritmo. Esto se repite de forma sistemática en todos los ejercicios disponibles en el enlace:
 📎 [**Ejemplos visuales y ejercicios:**](<Ejercicios PSeInt Clase 2>) 
 
-### 🔹 3. PROGRAMACIÓN POR BLOQUES
+---
+### 🔹 3. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
+ * 💾 Datos e información
+   Un **dato** es la unidad mínima de información.
+   La **información** es el resultado del procesamiento de los datos.
+ * Tipos de datos simples
+   🔢 **Enteros:** Valores sin decimales.
+   🔹 **Reales:** Valores con punto decimal.
+   🔤 **Carácter:** Un solo símbolo o letra.
+   🔠 **Cadena:** Conjunto de caracteres.
+   ✅ **Lógicos:** Verdadero (True) o Falso (False).
+
+  * 🏷️ Identificadores
+Son los *nombres asignados a variables o constantes*.
+  🔸 **Constantes:** No cambian durante la ejecución.
+  🔹 **Variables:** Pueden cambiar durante la ejecución.
+
+  * 🧮 Instrucciones básicas
+  *Asignación:* Asigna un valor a una variable.
+  *Lectura:* Permite ingresar datos.
+  *Escritura:* Muestra resultados.
+  *Comentarios:* Aclaran el código sin ejecutarse.
+
+### 🔹 4. PROGRAMACIÓN POR BLOQUES
 
 La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
 Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
@@ -127,60 +155,21 @@ Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la compre
 
 Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
 
-📎 [**Ejemplos de ejercicios realizados en clase**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#programaci%C3%B3n-por-bloques-)
-
----
-
-### 🔹 4. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
-#### 💾 Datos e información
-
-Un **dato** es la unidad mínima de información.
-La **información** es el resultado del procesamiento de los datos.
-
-##### Tipos de datos simples
-
-* 🔢 **Enteros:** Valores sin decimales.
-* 🔹 **Reales:** Valores con punto decimal.
-* 🔤 **Carácter:** Un solo símbolo o letra.
-* 🔠 **Cadena:** Conjunto de caracteres.
-* ✅ **Lógicos:** Verdadero (True) o Falso (False).
-
-#### 🏷️ Identificadores
-
-Son los **nombres asignados a variables o constantes**.
-
-* 🔸 **Constantes:** No cambian durante la ejecución.
-* 🔹 **Variables:** Pueden cambiar durante la ejecución.
-
-#### 🧮 Instrucciones básicas
-
-* **Asignación:** Asigna un valor a una variable.
-* **Lectura:** Permite ingresar datos.
-* **Escritura:** Muestra resultados.
-* **Comentarios:** Aclaran el código sin ejecutarse.
+📎 [**Ejemplos de ejercicios realizados en clase**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#programaci%C3%B3n-por-bloques-) (Unidad1.md#métodos-de-análisis-estructural)
 
 ---
 
 ### 🔹 5. LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN
 
 Los **lenguajes de programación** permiten traducir los algoritmos en programas que la computadora pueda ejecutar.
-
-#### 💬 Lenguajes de alto nivel
-
+*Lenguajes de alto nivel*: 
 Son más fáciles de aprender y se parecen al lenguaje humano.
 Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser **traducidos** para que la computadora los entienda.
-
-##### 🔹 Ejemplos de lenguajes
-
-C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
-
-#### ⚙️ Clasificación según la traducción
-
-* 🧩 *Lenguajes compilados:*
+* *Clasificación según la traducción*
+  🧩 Lenguajes compilados:
   Traducen todo el código antes de ejecutarse.
   Ejemplo: C, C++.
-
-* 🪄 *Lenguajes interpretados:*
+  🪄 Lenguajes interpretados:
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
 

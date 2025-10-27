@@ -155,7 +155,8 @@ Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la compre
 
 Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
 
-📎 [**Ejemplos de ejercicios realizados en clase**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#programaci%C3%B3n-por-bloques-) (Unidad1.md#métodos-de-análisis-estructural)
+📎 [**Ejemplos de ejercicios realizados en clase**](Unidad1.md###programación-por-bloques)
+
 
 ---
 

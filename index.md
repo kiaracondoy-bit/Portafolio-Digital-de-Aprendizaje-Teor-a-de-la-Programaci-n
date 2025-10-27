@@ -56,7 +56,7 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
 * *Proceso:* Cálculos u operaciones que transforman los datos.
 * *Salida:* Resultados obtenidos.
 
-#### Proceso Para Resolver Un Problema Mediante Un Algoritmo
+#### 🔄 Proceso Para Resolver Un Problema Mediante Un Algoritmo
 
 1. *Análisis del problema:* Comprender qué se necesita resolver.
 2. *Definición de entradas:* Identificar los datos que se requieren.
@@ -65,7 +65,7 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
 5. *Diseño del algoritmo:* Representar la solución (pseudocódigo o diagrama de flujo).
 6. *Verificación:* Probar el algoritmo con datos de ejemplo.
 
-#### Diferencia Entre Algoritmo Y Programa
+#### ⚖️ Diferencia Entre Algoritmo Y Programa
 
 Un **algoritmo** no es lo mismo que un **programa (software)**.
 
@@ -115,7 +115,7 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 En el siguiente enlace se pueden visualizar los archivos correspondientes a los ejercicios realizados. Cada ejercicio cuenta con dos archivos: el primero contiene el pseudocódigo y el segundo, con el mismo nombre pero con la adición de la expresión “diagrama de flujo”, presenta la representación gráfica del algoritmo. Esto se repite de forma sistemática en todos los ejercicios disponibles en el enlace:
 📎 [**Ejemplos visuales y ejercicios:**](<Ejercicios PSeInt Clase 2>) 
 
-### 🔹 3. **PROGRAMACIÓN POR BLOQUES**
+### 🔹 3. PROGRAMACIÓN POR BLOQUES
 
 La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
 Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
@@ -131,7 +131,7 @@ Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. �
 
 ---
 
-### 🔹 5. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
+### 🔹 4. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
 #### 💾 Datos e información
 
 Un **dato** es la unidad mínima de información.
@@ -161,7 +161,7 @@ Son los **nombres asignados a variables o constantes**.
 
 ---
 
-### 🔹 6. LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN
+### 🔹 5. LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN
 
 Los **lenguajes de programación** permiten traducir los algoritmos en programas que la computadora pueda ejecutar.
 
@@ -185,21 +185,21 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
   Ejemplo: Python, PHP, JavaScript.
 
 ---
-### 🔹 8. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
+### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
-❌ Distinguir entre algoritmo y programa.
-❌ Comprender la lógica secuencial.
-❌ Recordar la prioridad de operadores.
-❌ Representar correctamente los diagramas de flujo.
-❌ Adaptarse a nuevas herramientas digitales.
+❌ Distinguir entre algoritmo y programa.<br>
+❌ Comprender la lógica secuencial.<br>
+❌ Recordar la prioridad de operadores.<br>
+❌ Representar correctamente los diagramas de flujo.<br>
+❌ Adaptarse a nuevas herramientas digitales.<br><br>
 
-🧭 Estrategias de mejora:
-✔️ Revisión constante.
-✔️ Trabajo colaborativo.
-✔️ Práctica en **PSeInt** y **Blockly Games**.
+🧭 Estrategias de mejora:<br>
+✔️ Revisión constante.<br>
+✔️ Trabajo colaborativo.<br>
+✔️ Práctica en **PSeInt** y **Blockly Games**.<br>
 
 
-### 🔹 9. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
+### 🔹 7. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
 💬 *“Aprendí que programar no solo es escribir código, sino aprender a pensar de manera lógica, ordenada y estructurada.”*
 

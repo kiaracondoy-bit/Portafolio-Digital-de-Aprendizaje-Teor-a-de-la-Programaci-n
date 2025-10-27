@@ -25,86 +25,14 @@
 - [Referencias](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#referencias-) 📚
 - [Uso de la IA generativa](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#uso-de-la-ia-generativa-) 🤖
 ---
-
-#### 🗃️ CONTENIDOS DE LA UNIDAD
-- ***ALGORITMOS***:
-    * ***Definición***: Un algoritmo es una *secuencia* de pasos finitos que están *ordenados lógicamente* con el fin de resolver determinado problema. La solución definida puede ser una de muchas, por lo que se debe ingeniar la más eficiente.
-    * ***Clasificación***: Se clasifican en:
-        - Cuantitativos: Cálculos y fórmulas matemáticas
-        - Cualitativos: Palabras y frases
-    * ***Características***: Los algoritmos son precisos, finitos y definidos
-    * ***Partes***:
-        - Entrada: Los datos de entrada son los que se piden al usuario para poder ingresarlos al algoritmo para que haga el proceso. 
-        - Proceso: Son las operaciones o cálculos matemáticos que se desarrollan para darle solución al problema planteado.
-        - Salida: El resultado del proceso que es mostrado al usuario.
-    * ***Representación***: Existen dos formas:
-        - Pseudocódigo: Es una forma clara y estructurada de representar un algoritmo usando lenguaje natural, como el español, para describir los pasos en un programa. Aunque no se ejecuta en la computadora, facilita la comprensión de la lógica, detección de errores y diseño de soluciones, especialmente para principiantes.
-          
-        - Diagrama de flujo: Herramienta visual que representa la lógica de un programa mediante símbolos estandarizados, facilitando la comprensión clara y ordenada del algoritmo. Permite identificar sus entradas, procesos y salidas, detectar posibles errores y entender de forma general la estructura del procedimiento.
-
-[Ejercicios Prácticos en PSeInt](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/tree/main/Ejercicios%20Psenit)<br><br>
-- ***ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS***:
-    * ***Dato e Información***: Un dato es la unidad mínima de la información, puede ser un símbolo, un número, etc.
-      - **Tipos de datos simples**:
-          * *Enteros*: Valores positivos o negativos que no tienen punto decimal, además del cero.
-          * *Reales*: Valores positivos o negativos con punto decimal, además del cero.
-          * *Caracter*: Un solo carácter (ej: letras, coma, punto, número, etc), va entre comillas dobles. Tambien existen los datos *Cadena*, que son una combinación de caracteres.
-          * *Lógicos*: Tipo de dato True(Verdadero) o False(Falso)
-    * ***Identificadores***: Es el nombre asociado a un objeto de programa, debe identificarlo lo más claro posible. En el código, estos identificadores deben ser declarados al incio del programa según el tipo de dato que vayana a almacenar y pueden ser:
-      - **Constantes**: Aquellos identificadores que guardan valores que no cambian al ejecutarse el programa. Es de buena práctica el escribirlos con mayúsculas.
-      - **Variables**: Aquellos identificadores que guardan valores que pueden cambiar al ejecutarse el programa.
-    * ***Instrucciones de control secuencial***:
-      - **Asignación**: Es darle un valor a un identificador, ya sea variable o constante y que sea compatible con el tipo de dato declarado. Se lo representa usualemnte con el símbolo = o con una flecha ->
-      - **Lectura**: Es "leer" o permitir el ingreso de datos de entrada del usuario.
-      - **Escritura**: Es mostrar los resultados deseados al usuario.
-      - **Comentarios**: Son textos o instruciiones que no se ejecutan, sirven de guía para ubicarse en el código.
-    * ***Expresiones***: Son una combinación entre variables, constantes, paréntesis y operadores.
-      - **[Operadores](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#elementos-de-un-algoritmo-y-un-programa)**: Existen tres tipos de operadores:
-          * *Aritméticos o matemáticos*, *Lógicos* y *Relacionales*
-          * Prioridad entre operadores:
-            - Un operando entre operadores de distinta prioridad se asocia al de mayor prioridad.
-            - Entre operadores de igual prioridad, se asocia al de la izquierda.
-            - Las expresiones entre paréntesis se evalúan primero.
-
-    * ***Pasos para escribir un algoritmo en pseudocódigo y diagrama de flujo***:
-      - **Programación por Bloques**:
-      En clase trabajamos con la programación por bloques, una forma visual de crear programas usando piezas que se encajan como rompecabezas. Cada bloque  representa una instrucción, como mover un personaje, repetir acciones o tomar decisiones. Usamos plataformas como Blockly Games y Pilas Bloques, que nos permitieron aprender conceptos básicos de programación de manera divertida y práctica, sin necesidad de escribir código.
-👉 [Ejemplos de Ejercicios](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/Unidad1.md#programaci%C3%B3n-por-bloques-)
-         
-      - **Análisis del problema**: Comprender el problema a fondo. Esto incluye:
-            - Identificar los datos de entrada
-            - Definir la información que se desea obtener
-            - Establecer los métodos y fórmulas necesarios para llegar a los resultados
-      - **Desarrollo del algoritmo**: Codificar al traducir el análisis del problema en instrucciones o sentencias.
-      - **Pruebas de escritorio**: Simular manualmente la ejecución del algoritmo, paso a paso, con datos de entrada. Esto permite verificar si los resultados obtenidos son correctos. De no ser así, se debe revisar el análisis del problema y el código del algoritmo, aplicar las correcciones necesarias y repetir la prueba hasta obtener los resultados correctos.
-
-[Ejercicios PSeInt](<Ejercicios PSeInt Clase 2>) <br><br>
-
-
-**Actividades**
-- [ ] Resolver pseudocódigos
-- [ ] Entregar ejercicio: algoritmo en .py
-
-**Recursos**
-- MDN, apuntes de clase, vídeos.
-
-
-
-
-
-
-
-
-
-
 <div align="center">
  
-  ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br>
+  ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
 
-### 🔹 1. **ALGORITMOS**
+### 🔹 1. ALGORITMOS
 
 Un **algoritmo** es una **secuencia finita, ordenada y lógica de pasos** que permiten **resolver** un problema o **realizar** una tarea específica.
 Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
@@ -128,10 +56,7 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
 * *Proceso:* Cálculos u operaciones que transforman los datos.
 * *Salida:* Resultados obtenidos.
 
-📘 **Ejemplo de la vida diaria:**
-Seguir una receta de cocina 🍳, usar una aplicación 📱 o resolver una ecuación 📏 son ejemplos de algoritmos cotidianos.
-
-#### Proceso Para Resolver Un Problema Mediante Un Algoritmo**
+#### Proceso Para Resolver Un Problema Mediante Un Algoritmo
 
 1. *Análisis del problema:* Comprender qué se necesita resolver.
 2. *Definición de entradas:* Identificar los datos que se requieren.
@@ -202,13 +127,11 @@ Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la compre
 
 Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
 
-📎 [**Ejemplos de ejercicios realizados en clase**]()
+📎 [**Ejemplos de ejercicios realizados en clase**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad1.md#programaci%C3%B3n-por-bloques-)
 
----
 ---
 
 ### 🔹 5. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
-
 #### 💾 Datos e información
 
 Un **dato** es la unidad mínima de información.
@@ -261,10 +184,7 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
 
-📎 **Ver diapositiva de referencia.**
-
 ---
-
 ### 🔹 8. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 ❌ Distinguir entre algoritmo y programa.
@@ -277,50 +197,20 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
 ✔️ Revisión constante.
 ✔️ Trabajo colaborativo.
 ✔️ Práctica en **PSeInt** y **Blockly Games**.
-
 ---
-
 ### 🔹 9. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
 💬 *“Aprendí que programar no solo es escribir código, sino aprender a pensar de manera lógica, ordenada y estructurada.”*
 
 Comprendí la **importancia de los algoritmos** como base de todo programa, y la necesidad de **traducir ideas en instrucciones que la computadora pueda entender**.
 Este conocimiento **fortalece mi razonamiento lógico** y mi **capacidad para resolver problemas**, habilidades clave en mi formación como **ingeniera en computación**. 👩‍💻💡
-
 ---
+### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-### 🔹 10. **RECURSOS COMPLEMENTARIOS**
-
-📘 [Documento de referencia en Drive](https://drive.google.com/file/d/1pko741mali6orqm9QMUmXEaSiDf92Qcc/view)
-📊 [Presentación de la Unidad 1 (Google Slides)](https://docs.google.com/presentation/d/14b3xwO87_64AZcFfP4zhrQYh2o5QYAjU/edit?slide=id.g3819e9a3ea9_3_808#slide=id.g3819e9a3ea9_3_808)
-
----
-
-¿Quieres que te agregue al final una **mini sección de resumen visual** (tipo checklist o mapa mental en Markdown) para que tu portafolio se vea aún más interactivo en GitHub?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)]()
+* [Instalación de lenguajes de programación (C, Python o Java)]()
+* [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()
+* [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
 
 ---
 ### UNIDAD 2 🧠

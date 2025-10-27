@@ -16,14 +16,3 @@ CONTENIDOS
 ---
 <br><br>
 
-2. #### ELEMENTOS DE UN ALGORITMO Y UN PROGRAMA:<br>
-   * **Operadores Matemáticos** <br>
-   <img width="348" height="202" alt="image" src="https://github.com/user-attachments/assets/f2a208b4-7e1a-4753-9fcc-794a38a046dd" /> <br><br>
-   * **Operadores Lógicos**
-   <img width="880" height="165" alt="image" src="https://github.com/user-attachments/assets/a1068446-cf8c-4e3a-a675-01f666ca4994" /><br><br>
-   * **Operadores Relacionales**
-   <img width="822" height="247" alt="image" src="https://github.com/user-attachments/assets/c6bb0222-2cc9-4e95-b3c9-be6a61b1b037" /><br><br>
-   * ***Prioridad entre Operaadores***<br>
-      <img width="699" height="289" alt="image" src="https://github.com/user-attachments/assets/e72fb7a0-e15d-49b6-bb60-b669eacfe6d6" />
-
----

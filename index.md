@@ -188,11 +188,26 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 *En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos del mismo, como los datos de entrada, los procesos, los datos de salida, los comentarios, entre otros.*
 
 En el siguiente enlace se pueden visualizar los archivos correspondientes a los ejercicios realizados. Cada ejercicio cuenta con dos archivos: el primero contiene el pseudocódigo y el segundo, con el mismo nombre pero con la adición de la expresión “diagrama de flujo”, presenta la representación gráfica del algoritmo. Esto se repite de forma sistemática en todos los ejercicios disponibles en el enlace:
-📎 [**Ejemplos visuales y ejercicios:**]() 
+📎 [**Ejemplos visuales y ejercicios:**](<Ejercicios PSeInt Clase 2>) 
+
+### 🔹 3. **PROGRAMACIÓN POR BLOQUES**
+
+La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
+Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
+
+#### 🧰 Herramientas utilizadas
+
+* 🧩 **Blockly Games**
+* 🎮 **Pilas Bloques**
+
+Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
+
+📎 [**Ejemplos de ejercicios realizados en clase**]()
 
 ---
+---
 
-### 🔹 5. **ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS**
+### 🔹 5. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
 
 #### 💾 Datos e información
 
@@ -247,22 +262,6 @@ C / C++ · Visual Basic · Pascal · PHP · Python · Java · Fortran
   Ejemplo: Python, PHP, JavaScript.
 
 📎 **Ver diapositiva de referencia.**
-
----
-
-### 🔹 7. **PROGRAMACIÓN POR BLOQUES**
-
-La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
-Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
-
-#### 🧰 Herramientas utilizadas
-
-* 🧩 **Blockly Games**
-* 🎮 **Pilas Bloques**
-
-Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
-
-📎 **Ejemplos de ejercicios prácticos.**
 
 ---
 

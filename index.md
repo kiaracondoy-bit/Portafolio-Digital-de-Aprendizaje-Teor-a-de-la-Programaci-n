@@ -209,9 +209,10 @@ Este conocimiento **fortalece mi razonamiento lógico** y mi **capacidad para re
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-* [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](<Actividades U1/Condoy_Kiara_AA1.pdf>)
-* [Instalación de lenguajes de programación (C, Python o Java)](<Actividades U1/Condoy_Kiara_AA2.pdf>)
-* [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](<Actividades U1/Condoy_Kiara_APE1.pdf>)
+* [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](<Actividades U1/Condoy_Kiara _AA1_U1.pdf>)
+* [Instalación de lenguajes de programación (C, Python o Java)](<Actividades U1/Condoy_Kiara_AA2_U1.pdf>)
+* [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](<Actividades U1/Condoy_Kiara_APE1_U1.pdf>)
+* [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
 ---
 ### UNIDAD 2 🧠
 <summary>Ver objetivos y actividades</summary>

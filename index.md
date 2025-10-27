@@ -17,12 +17,12 @@
 ---
 ### 📚 Contenido
 - [Unidad 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-1-fundamentos-de-algoritmos-y-programass-)✨
-   - CONTENIDOS DE LA UNIDAD
-       1. ALGORITMOS
-       2. REPRESENTACIÓN DE ALGORITMOS
+   - [CONTENIDOS DE LA UNIDAD](###contenidos-de-la-unidad)
+       1. [ALGORITMOS](###1-algoritmos)
+       2. [REPRESENTACIÓN DE ALGORITMOS](###2-representación-de-algoritmos)
           - Pseudocódigo
           - Diagrama de Flujo
-       3.  PROGRAMACIÓN POR BLOQUES
+       3.  [PROGRAMACIÓN POR BLOQUES](elementos-basicos-de-)
        4.  
 - [Unidad 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-2-) 🧠
 - [Unidad 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-3-%EF%B8%8F) 🛠️

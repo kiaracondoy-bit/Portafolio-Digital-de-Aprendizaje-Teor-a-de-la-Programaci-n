@@ -177,31 +177,30 @@ Como ilustración del proceso de transformación de un algoritmo a un programa f
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
-❌ Distinguir entre algoritmo y programa.<br>
-❌ Comprender la lógica secuencial.<br>
-❌ Recordar la prioridad de operadores.<br>
-❌ Representar correctamente los diagramas de flujo.<br>
-❌ Adaptarse a nuevas herramientas digitales.<br><br>
-
-🧭 Estrategias de mejora:<br>
-✔️ Revisión constante.<br>
-✔️ Trabajo colaborativo.<br>
-✔️ Práctica en **PSeInt** y **Blockly Games**.<br>
-
+Durante el proceso de aprendizaje, una de las principales dificultades que enfrenté fue comprender la diferencia entre constantes, variables e identificadores, ya que al inicio estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica. También me costó adaptarme a la forma en que se “lee” un programa en lenguaje C, especialmente al interpretar correctamente las instrucciones y entender su lógica. Otro aspecto que me generó dudas fue el uso de símbolos como % y &. En el caso del operador %, me tomó tiempo entender que se utiliza para obtener el residuo de una división entre enteros. En cuanto al operador &, me resultó confuso al principio porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente. Sin embargo, con la práctica y el acompañamiento en clase, fui aclarando estas dudas y logrando una mejor comprensión de la estructura del lenguaje.
 
 ### 🔹 7. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
-💬 *“Aprendí que programar no solo es escribir código, sino aprender a pensar de manera lógica, ordenada y estructurada.”*
-
-Comprendí la **importancia de los algoritmos** como base de todo programa, y la necesidad de **traducir ideas en instrucciones que la computadora pueda entender**.
-Este conocimiento **fortalece mi razonamiento lógico** y mi **capacidad para resolver problemas**, habilidades clave en mi formación como **ingeniera en computación**. 👩‍💻💡
+Considero que los contenidos abordados en esta unidad fueron presentados de manera clara y estructurada, lo que facilitó la comprensión de cada tema tratado. A lo largo de las sesiones, se exploraron los fundamentos de los algoritmos y los programas, permitiendo adquirir una base sólida para la elaboración de soluciones en lenguaje C.
+También fue notorio como los temas fueron adecuados para un estudiante que inicia en el mundo de la programación, ya que se explicaron de forma concisa y progresiva. Gracias a ello, pude comprender con mayor profundidad conceptos clave como la diferencia entre algoritmo y programa, la lógica secuencial, la prioridad de operadores, la representación de diagramas de flujo y el uso de herramientas digitales aplicadas al desarrollo de software.
+En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a construir programas funcionales, entendiendo no solo la sintaxis del lenguaje, sino también la lógica detrás de cada instrucción. Me siento preparada para seguir avanzando en el aprendizaje de la programación con una base firme y clara.
 
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
 * [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](<Actividades U1/Condoy_Kiara _AA1_U1.pdf>)
+  En este Aprendizaje Autónomo 1 (AA) de la Unidad 1, se me pidió explorar y utilizar herramientas digitales para trabajar con pseudocódigo y diagramas de flujo. El objetivo fue aplicar los conceptos básicos de algoritmos y programación que hemos visto en clase, usando una herramienta que facilite su comprensión. Para ello, trabajé con PSeInt, una plataforma muy útil para quienes estamos empezando en programación, ya que permite escribir algoritmos de forma sencilla y visual.
+La actividad ayudó a entender cómo se estructura un algoritmo, cómo se declaran variables, se reciben datos, se procesan operaciones y se muestran resultados. Además, con esta herramienta se pudo representar todo esto en un diagrama de flujo, lo que permite visualizar mejor cada paso del proceso. Esta práctica sirvió para reforzar la lógica de programación y para familiarizarse con el entorno de desarrollo antes de escribir programas más completos en lenguaje C.
+
 * [Instalación de lenguajes de programación (C, Python o Java)](<Actividades U1/Condoy_Kiara_AA2_U1.pdf>)
+En este AA2 de la Unidad 1, se me pidió revisar los tutoriales oficiales para la instalación del lenguaje de programación C, con el objetivo de comprender el proceso técnico necesario para preparar el entorno de desarrollo en mi computadora. A través de esta práctica, pude a descargar e instalar el compilador MinGW, configurar las variables de entorno del sistema y verificar que el lenguaje estuviera correctamente reconocido por el sistema operativo.
+Esta actividad permitió entender la importancia de tener un entorno de programación bien configurado antes de comenzar a escribir código. Además, al finalizar la instalación, se pudo ejecutar mi primer programa en C, el clásico “Hola mundo”, lo que me dio una primera experiencia práctica con el lenguaje. Gracias a este proceso, ya es un nuevo conociemiento el preparar mi equipo para desarrollar programas en C, lo cual es fundamental para avanzar en el aprendizaje de la programación.
+
 * [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](<Actividades U1/Condoy_Kiara_APE1_U1.pdf>)
+En este Aprendizaje Práctico Experimental 1 (APE) correspondiente a la Unidad 1, trabajé por primera vez con la herramienta PSeInt para construir un algoritmo utilizando estructuras secuenciales. El objetivo principal fue conocer bien el entorno de desarrollo de pseudocódigo y aplicar los conceptos básicos de programación que hemos venido aprendiendo en clase.
+El ejercicio consistió en desarrollar un algoritmo que permitiera calcular el Índice de Masa Corporal (IMC) de una persona, a partir de su peso y altura. Para ello, se declaró las variables necesarias, ingresó los datos por teclado, realizó el cálculo correspondiente y se mostró el resultado al usuario. Además, se hizo una prueba de escritorio para validar el funcionamiento del algoritmo con diferentes valores de entrada, lo que ayudó a comprobar que la lógica implementada era correcta.
+Esta práctica permitió reforzar la comprensión sobre cómo se estructura un algoritmo paso a paso, desde la entrada de datos hasta la salida de resultados. También ayudó a visualizar cómo se aplican las estructuras secuenciales en la resolución de problemas simples, lo cual es fundamental para seguir avanzando en el aprendizaje de la programación.
+
 * [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
 ---
 ### UNIDAD 2 🧠

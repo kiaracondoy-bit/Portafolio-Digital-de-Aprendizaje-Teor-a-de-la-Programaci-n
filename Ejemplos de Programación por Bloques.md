@@ -1,6 +1,7 @@
-[🛑 Volver al Portafolio Digital de Aprendizaje](<index.md>)<br><br>
-CONTENIDOS
+[🛑 Volver al Portafolio Digital de Aprendizaje](<https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-4-programaci%C3%B3n-por-bloques>)<br><br>
+
 ---
+CONTENIDOS
 
 ### 1. PROGRAMACIÓN POR BLOQUES:
 <br>

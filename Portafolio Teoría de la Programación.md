@@ -172,7 +172,9 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
 
 En clase se trabajó con el lenguaje de programación C, abordando los elementos fundamentales de los algoritmos y los programas. Estos conceptos, previamente revisados en este documento, fueron aplicados específicamente en el contexto de dicho lenguaje, permitiendo comprender su estructura, sintaxis y lógica básica para la resolución de problemas computacionales.
 
-Como ilustración del proceso de transformación de un algoritmo a un programa funcional, se presentan a continuación dos ejemplos desarrollados en lenguaje C. En ambos casos, se partió de un pseudocódigo previamente estructurado, el cual sirvió como base para la implementación del programa, permitiendo aplicar los conceptos fundamentales revisados en esta unidad. [Ejercicios de PSeInt a Lenguaje C](<Ejercicios en Lenguaje C>)
+Como ilustración del proceso de transformación de un algoritmo a un programa funcional, se presentan a continuación dos ejemplos desarrollados en lenguaje C. En ambos casos, se partió de un pseudocódigo previamente estructurado, el cual sirvió como base para la implementación del programa, permitiendo aplicar los conceptos fundamentales revisados en esta unidad. [Ejercicios de PSeInt a Lenguaje C](<PSeIntALenguajeC>)
+
+Adicionalmente, se desarrollaron más ejercicios prácticos en lenguaje C, en los cuales ya se implementaron todos los elementos fundamentales vistos en clase, como la declaración de variables, estructuras secuenciales, entrada y salida de datos, y operaciones básicas. A continuación, se presentan los ejercicios realizados como parte del refuerzo y aplicación de los conocimientos adquiridos. [Ejercicios de PSeInt a Lenguaje C](<Ejercicios en Lenguaje C>)
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
@@ -202,6 +204,15 @@ El ejercicio consistió en desarrollar un algoritmo que permitiera calcular el �
 Esta práctica permitió reforzar la comprensión sobre cómo se estructura un algoritmo paso a paso, desde la entrada de datos hasta la salida de resultados. También ayudó a visualizar cómo se aplican las estructuras secuenciales en la resolución de problemas simples, lo cual es fundamental para seguir avanzando en el aprendizaje de la programación.
 
 * [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
+
+
+
+
+
+
+
+
+
 ---
 ### UNIDAD 2 🧠
 <summary>Ver objetivos y actividades</summary>

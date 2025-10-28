@@ -16,14 +16,14 @@
  
 ---
 ### 📚 Contenido
-- [Unidad 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-1-fundamentos-de-algoritmos-y-programass-)✨
-   - [CONTENIDOS DE LA UNIDAD](###contenidos-de-la-unidad)
-       1. [ALGORITMOS](###1-algoritmos)
-       2. [REPRESENTACIÓN DE ALGORITMOS](###2-representación-de-algoritmos)
+- [Unidad 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-unidad-1-fundamentos-de-algoritmos-y-programass-)✨
+   - [CONTENIDOS DE LA UNIDAD](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#%EF%B8%8F-contenidos-de-la-unidad)
+     1. [ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-1-algoritmos)
+     2. [REPRESENTACIÓN DE ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-2-representaci%C3%B3n-de-algoritmos)
           - Pseudocódigo
           - Diagrama de Flujo
-       3.  [PROGRAMACIÓN POR BLOQUES](elementos-basicos-de-)
-       4.  
+     3.  [PROGRAMACIÓN POR BLOQUES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-4-programaci%C3%B3n-por-bloques)
+     4.  
 - [Unidad 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-2-) 🧠
 - [Unidad 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-3-%EF%B8%8F) 🛠️
 - [Conclusiones](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#conclusiones-) 📝
@@ -42,12 +42,12 @@
 Un **algoritmo** es una **secuencia finita, ordenada y lógica de pasos** que permiten **resolver** un problema o **realizar** una tarea específica.
 Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
 
-##### 📊 Clasificación
+##### Clasificación
 
 * 🔢 **Cuantitativos:** Basados en operaciones matemáticas o cálculos numéricos.
 * 🔤 **Cualitativos:** Descritos con lenguaje natural, usando palabras y frases.
 
-##### ⚙️ Características Principales
+##### Características Principales
 
 * *Preciso:* Cada instrucción tiene un significado claro.
 * *Finito:* Tiene un número limitado de pasos.
@@ -55,13 +55,13 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
 * *Ordenado:* Las instrucciones deben seguir una secuencia lógica.
 * *Eficiente:* Resuelve el problema en el menor tiempo posible.
 
-#### 🧩 Partes del algoritmo
+#### Partes del algoritmo
 
 * *Entrada:* Datos proporcionados por el usuario.
 * *Proceso:* Cálculos u operaciones que transforman los datos.
 * *Salida:* Resultados obtenidos.
 
-#### 🔄 Proceso Para Resolver Un Problema Mediante Un Algoritmo
+#### Proceso Para Resolver Un Problema Mediante Un Algoritmo
 
 1. *Análisis del problema:* Comprender qué se necesita resolver.
 2. *Definición de entradas:* Identificar los datos que se requieren.
@@ -69,15 +69,6 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
 4. *Definición de salidas:* Determinar los resultados esperados.
 5. *Diseño del algoritmo:* Representar la solución (pseudocódigo o diagrama de flujo).
 6. *Verificación:* Probar el algoritmo con datos de ejemplo.
-
-#### ⚖️ Diferencia Entre Algoritmo Y Programa
-
-Un **algoritmo** no es lo mismo que un **programa (software)**.
-
-| Concepto         | Descripción                                                                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 💡 **Algoritmo** | Es el método lógico o conjunto de pasos para resolver un problema.                                                                         |
-| 💻 **Programa**  | Es la implementación del algoritmo mediante un lenguaje de programación (como C++, Java o Python) que puede ejecutarse en una computadora. |
 
 ---
 ### 🔹 2. **REPRESENTACIÓN DE ALGORITMOS**
@@ -121,23 +112,29 @@ En el siguiente enlace se pueden visualizar los archivos correspondientes a los 
 📎 [**Ejemplos visuales y ejercicios:**](<Ejercicios PSeInt Clase 2>) 
 
 ---
+
 ### 🔹 3. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
- * 💾 Datos e información
+Un **algoritmo** no es lo mismo que un **programa (software)**.
+| Concepto      | Descripción                                                                                                                             |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Algoritmo** | Es el método lógico o conjunto de pasos para resolver un problema.                                                                         |
+| **Programa**  | Es la implementación del algoritmo mediante un lenguaje de programación (como C++, Java o Python) que puede ejecutarse en una computadora. |
+
+#### Elementos Básicos de Algoritmos y Programas
+ * **Datos e información**
    Un **dato** es la unidad mínima de información.
    La **información** es el resultado del procesamiento de los datos.
- * Tipos de datos simples
-   🔢 **Enteros:** Valores sin decimales.
-   🔹 **Reales:** Valores con punto decimal.
-   🔤 **Carácter:** Un solo símbolo o letra.
-   🔠 **Cadena:** Conjunto de caracteres.
-   ✅ **Lógicos:** Verdadero (True) o Falso (False).
-
-  * 🏷️ Identificadores
+ * **Tipos de datos simples**
+   *Enteros:* Valores sin decimales.
+   *Reales:* Valores con punto decimal.
+   *Carácter:* Un solo símbolo o letra.
+   *Cadena:* Conjunto de caracteres.
+   *Lógicos:* Verdadero (True) o Falso (False).
+  * **Identificadores**
 Son los *nombres asignados a variables o constantes*.
   🔸 **Constantes:** No cambian durante la ejecución.
   🔹 **Variables:** Pueden cambiar durante la ejecución.
-
-  * 🧮 Instrucciones básicas
+  * **Instrucciones básicas**
   *Asignación:* Asigna un valor a una variable.
   *Lectura:* Permite ingresar datos.
   *Escritura:* Muestra resultados.
@@ -155,8 +152,7 @@ Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la compre
 
 Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
 
-📎 [**Ejemplos de ejercicios realizados en clase**](Unidad1.md###programación-por-bloques)
-
+📎 [**Ejemplos de ejercicios realizados en clase**](<Ejemplos de Programación por Bloques>)
 
 ---
 
@@ -173,6 +169,10 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
   🪄 Lenguajes interpretados:
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
+
+En clase se trabajó con el lenguaje de programación C, abordando los elementos fundamentales de los algoritmos y los programas. Estos conceptos, previamente revisados en este documento, fueron aplicados específicamente en el contexto de dicho lenguaje, permitiendo comprender su estructura, sintaxis y lógica básica para la resolución de problemas computacionales.
+
+Como ilustración del proceso de transformación de un algoritmo a un programa funcional, se presentan a continuación dos ejemplos desarrollados en lenguaje C. En ambos casos, se partió de un pseudocódigo previamente estructurado, el cual sirvió como base para la implementación del programa, permitiendo aplicar los conceptos fundamentales revisados en esta unidad. [Ejercicios de PSeInt a Lenguaje C](<Ejercicios en Lenguaje C>)
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**

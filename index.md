@@ -152,7 +152,7 @@ Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la compre
 
 Esta metodología hace el aprendizaje **más visual, dinámico y divertido**. 😄
 
-📎 [**Ejemplos de ejercicios realizados en clase**](<Ejemplos de Programación por Bloques>)
+📎 [**Ejemplos de ejercicios realizados en clase**](<Ejemplos de Programación por Bloques.md>)
 
 ---
 

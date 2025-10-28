@@ -1,1 +1,0 @@
-https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n

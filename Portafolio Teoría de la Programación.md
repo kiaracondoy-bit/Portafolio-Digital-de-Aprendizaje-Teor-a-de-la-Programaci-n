@@ -214,6 +214,21 @@ En este APE 2 de la Unidad 1, se trabajó en el diseño de un algoritmo que perm
 Primero se identificaron los datos de entrada (c1, c2, nl), se analizó el problema y se dedujo la fórmula matemática para despejar C3. Luego se codificó el algoritmo en lenguaje C usando Visual Studio Code, respetando la sintaxis y documentando el código con comentarios explicativos.
 Se realizaron pruebas de escritorio con distintos valores para validar la lógica del algoritmo y se comprobó su funcionamiento mediante la ejecución del programa. Esta práctica me ayudó a consolidar el proceso completo de resolución de problemas: desde el análisis inicial hasta la implementación final, reforzando la comprensión sobre estructuras secuenciales y el desarrollo de soluciones computacionales eficientes.
 
+### DECLARACIÓN DE IA 📚
+Durante la creación de este portafolio, en la sección Unidad 1, utilicé herramientas de inteligencia artificial como apoyo para organizar contenidos, generar enlaces en Markdown, redactar descripciones claras y mejorar la presentación general del material. La IA llamada Copilot me permitió optimizar el tiempo, resolver dudas técnicas y asegurar una estructura coherente y profesional.
+
+---
+### BIBLIOGRAFÍA 📚
+
+[1] J. A. A. Huerta y D. L. González-Bañales, "PSeInt como herramienta para mejorar el proceso de enseñanza aprendizaje de algoritmos, pseudocódigo y diagramas de flujo," en Tecnologías de la Información en Educación: Sistematización de experiencias docentes, Durango, Dgo., México: Red Durango de Investigadores Educativos (Redie), 1.ª ed., junio 2020, pp. 91.
+
+[2] J. V. G. Sosa, L. R. V. Mercado, D. P. Barreda, and Y. Z. Osorio, “PSEINT como herramienta en el proceso de enseñanza-aprendizaje,” Congreso, vol. 2, no. 1, pp. 236–241, 2022.
+
+[3] J. P. D. Naranjo and K. R. C. Aguirre, “PSeInt y su contribución en el aprendizaje de los estudiantes de la carrera de Pedagogía de las Ciencias Experimentales Informática de la Universidad Técnica de Babahoyo, periodo académico abril-agosto 2024,” Bachelor’s thesis, Universidad Técnica de Babahoyo, 2024.
+
+
+[4] P. Vélez Duque, Diseño estructurado de algoritmos aplicados en PSEINT [Online]. Grupo Compás, Guayaquil, Ecuador, 2021. Disponible en: Microsoft Word - Diseño estructurado de Algoritmos aplicados en Pseint5 L IBRO a envia para publicar.docx 
+
 
 ---
 ### UNIDAD 2 🧠
@@ -234,4 +249,6 @@ Se realizaron pruebas de escritorio con distintos valores para validar la lógic
 
 ---
 ### REFERENCIAS 📚
+
+---
 

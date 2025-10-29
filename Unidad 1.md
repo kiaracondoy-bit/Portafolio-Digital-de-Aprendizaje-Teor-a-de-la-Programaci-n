@@ -1,7 +1,9 @@
 [🛑 Volver al Portafolio Digital de Aprendizaje](<https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-4-programaci%C3%B3n-por-bloques>)<br><br>
 
 ---
-  ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
+ <div align="center">  
+	 
+### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
@@ -302,8 +304,7 @@ Como ilustración del proceso de transformación de un algoritmo a un programa f
 
 📘 **Ejercicio realizado en Visual Studio Code**
 
-<img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" />
-
+<div align="center">  <img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" /> </div>
 
    * 📝 **Explicación del código**
 ```c
@@ -356,12 +357,8 @@ return 0;
 
 A lo largo del programa se incluyen comentarios para identificar la estructura del mismo.
 
-
-
-
-En ambos casos, se partió de un pseudocódigo previamente estructurado, el cual sirvió como base para la implementación del programa, permitiendo aplicar los conceptos fundamentales revisados en esta unidad. [Ejercicios de PSeInt a Lenguaje C](<PSeIntALenguajeC>)
-
-Adicionalmente, se desarrollaron más ejercicios prácticos en lenguaje C, en los cuales ya se implementaron todos los elementos fundamentales vistos en clase, como la declaración de variables, estructuras secuenciales, entrada y salida de datos, y operaciones básicas. A continuación, se presentan los ejercicios realizados como parte del refuerzo y aplicación de los conocimientos adquiridos. [Ejercicios en Lenguaje C](<Ejercicios en Lenguaje C>)
+Podemos ***unificar conocimientos*** y pasar algotirmos de PSeInt a lenguaje C, como el siguiente ejercicio:
+📎 [**ANEXOS 3**](<Ejercicios en Lenguaje C>) 
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**

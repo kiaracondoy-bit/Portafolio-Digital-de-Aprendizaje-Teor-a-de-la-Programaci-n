@@ -6,12 +6,12 @@
 ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
-- [CONTENIDOS DE LA UNIDAD]()
-     1. [ALGORITMOS]()
-     2. [REPRESENTACIÓN DE ALGORITMOS]()
+- [CONTENIDOS DE LA UNIDAD](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
+     1. [ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-1-algoritmos)
+     2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS]()
+     3. [REPRESENTACIÓN DE ALGORITMOS]()
           - [Pseudocódigo]()
           - [Diagrama de Flujo]()
-     3. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS]()
      4.  [PROGRAMACIÓN POR BLOQUES]()
      5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN]()
      6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS]()

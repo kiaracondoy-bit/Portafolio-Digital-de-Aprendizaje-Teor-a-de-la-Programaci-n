@@ -399,7 +399,7 @@ En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a 
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-#### [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Actividades%20U1/Condoy_Kiara%20_AA1_U1.pdf)
+[Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Actividades%20U1/Condoy_Kiara%20_AA1_U1.pdf)
   En este Aprendizaje Autónomo 1 (AA) de la Unidad 1, se me pidió explorar y utilizar herramientas digitales para trabajar con pseudocódigo y diagramas de flujo. El objetivo fue aplicar los conceptos básicos de algoritmos y programación que hemos visto en clase, usando una herramienta que facilite su comprensión. Para ello, trabajé con PSeInt, una plataforma muy útil para quienes estamos empezando en programación, ya que permite escribir algoritmos de forma sencilla y visual.
 La actividad ayudó a entender cómo se estructura un algoritmo, cómo se declaran variables, se reciben datos, se procesan operaciones y se muestran resultados. Además, con esta herramienta se pudo representar todo esto en un diagrama de flujo, lo que permite visualizar mejor cada paso del proceso. Esta práctica sirvió para reforzar la lógica de programación y para familiarizarse con el entorno de desarrollo antes de escribir programas más completos en lenguaje C.
 

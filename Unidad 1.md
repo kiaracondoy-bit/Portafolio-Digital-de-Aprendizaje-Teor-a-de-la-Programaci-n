@@ -28,8 +28,10 @@
 	 ***Aprendizaje Práctico Experimental***<br>
      2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()<br>
      2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()<br>
-
-
+	 
+3. [ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
+<br>
+---
 ### 🗂️ CONTENIDOS DE LA UNIDAD
 
 ### 🔹 1. ALGORITMOS
@@ -283,7 +285,6 @@ Esto permite que el personaje explore el laberinto de forma inteligente, tomando
    *Imagen 5: Resultado del ejercicio de Blocky Games en el nivel 7*<br>
 <p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /> </p> <br><br>
 
-
 ##### 🎮 **Pilas Bloques**
 
 También es una plataforma educativa diseñada para enseñar programación principiantes, orientada específicamente a jóvenes, de forma visual y divertida. Utiliza bloques gráficos que se arrastran y encajan para construir instrucciones, lo que permite aprender lógica de programación sin necesidad de escribir código.
@@ -310,9 +311,7 @@ Esto significa que, al iniciar el programa, la puma se moverá una casilla a la 
 
 *Imagen 7: Resultado del ejercicio de Pilas Bloques*<br>
 <p align = "center"> <img width="1919" height="1039" alt="Captura de pantalla 2025-10-24 094820" src="https://github.com/user-attachments/assets/81ad1de1-df70-467c-a0f7-8091224f7e1d" /> </p> <br><br>
-
 Esta metodología de "Programación por Bloques" hace el aprendizaje **más visual, dinámico y divertido**. 😄
-
 ---
 
 ### 🔹 5. LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN

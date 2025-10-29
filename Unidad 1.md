@@ -6,21 +6,30 @@
 ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
-- [CONTENIDOS DE LA UNIDAD](Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
-     1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)
-     2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)
-     3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)
+1. [CONTENIDOS DE LA UNIDAD](Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
+
+     1.1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)
+     1.2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)
+     1.3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)
           - [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)
           - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)
-     4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)
-     5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)
-     6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)
-     7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)
+     1.4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)
+     1.5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)
+     1.6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)
+     1.7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)
 
 
-   - [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
-	 1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)] ()
-  	 2. 
+2. [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
+
+   	 ***Aprendizaje Autónomo***
+	 2.1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_AA1_U1.pdf)
+  	 2.2. [Instalación de lenguajes de programación (C, Python o Java)]()
+
+	 ***Aprendizaje Práctico Experimental***
+     2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()
+     2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
+
+
 ### 🗂️ CONTENIDOS DE LA UNIDAD
 
 ### 🔹 1. ALGORITMOS

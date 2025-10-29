@@ -174,7 +174,7 @@ En clase se trabajó con el lenguaje de programación C, abordando los elementos
 
 Como ilustración del proceso de transformación de un algoritmo a un programa funcional, se presentan a continuación dos ejemplos desarrollados en lenguaje C. En ambos casos, se partió de un pseudocódigo previamente estructurado, el cual sirvió como base para la implementación del programa, permitiendo aplicar los conceptos fundamentales revisados en esta unidad. [Ejercicios de PSeInt a Lenguaje C](<PSeIntALenguajeC>)
 
-Adicionalmente, se desarrollaron más ejercicios prácticos en lenguaje C, en los cuales ya se implementaron todos los elementos fundamentales vistos en clase, como la declaración de variables, estructuras secuenciales, entrada y salida de datos, y operaciones básicas. A continuación, se presentan los ejercicios realizados como parte del refuerzo y aplicación de los conocimientos adquiridos. [Ejercicios de PSeInt a Lenguaje C](<Ejercicios en Lenguaje C>)
+Adicionalmente, se desarrollaron más ejercicios prácticos en lenguaje C, en los cuales ya se implementaron todos los elementos fundamentales vistos en clase, como la declaración de variables, estructuras secuenciales, entrada y salida de datos, y operaciones básicas. A continuación, se presentan los ejercicios realizados como parte del refuerzo y aplicación de los conocimientos adquiridos. [Ejercicios en Lenguaje C](<Ejercicios en Lenguaje C>)
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**

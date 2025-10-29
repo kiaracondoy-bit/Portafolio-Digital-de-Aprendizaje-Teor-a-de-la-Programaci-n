@@ -8,26 +8,26 @@
 
 1. [CONTENIDOS DE LA UNIDAD](Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
 
-     1.1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)
-     1.2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)
-     1.3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)
-          - [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)
-          - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)
-     1.4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)
-     1.5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)
-     1.6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)
-     1.7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)
+     1.1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)<br>
+     1.2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)<br>
+     1.3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)<br>
+          - [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)<br>
+          - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)<br>
+     1.4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)<br>
+     1.5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)<br>
+     1.6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)<br>
+     1.7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)<br>
 
 
-2. [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
+2. [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)<br>
 
-   	 ***Aprendizaje Autónomo***
-	 2.1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_AA1_U1.pdf)
-  	 2.2. [Instalación de lenguajes de programación (C, Python o Java)]()
+   	 ***Aprendizaje Autónomo***<br>
+	 2.1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)]()<br>
+  	 2.2. [Instalación de lenguajes de programación (C, Python o Java)]()<br>
 
-	 ***Aprendizaje Práctico Experimental***
-     2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()
-     2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()
+	 ***Aprendizaje Práctico Experimental***<br>
+     2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()<br>
+     2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()<br>
 
 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
@@ -399,21 +399,21 @@ En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a 
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-[Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Actividades%20U1/Condoy_Kiara%20_AA1_U1.pdf)
+#### [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_AA1_U1.pdf)
   En este Aprendizaje Autónomo 1 (AA) de la Unidad 1, se me pidió explorar y utilizar herramientas digitales para trabajar con pseudocódigo y diagramas de flujo. El objetivo fue aplicar los conceptos básicos de algoritmos y programación que hemos visto en clase, usando una herramienta que facilite su comprensión. Para ello, trabajé con PSeInt, una plataforma muy útil para quienes estamos empezando en programación, ya que permite escribir algoritmos de forma sencilla y visual.
 La actividad ayudó a entender cómo se estructura un algoritmo, cómo se declaran variables, se reciben datos, se procesan operaciones y se muestran resultados. Además, con esta herramienta se pudo representar todo esto en un diagrama de flujo, lo que permite visualizar mejor cada paso del proceso. Esta práctica sirvió para reforzar la lógica de programación y para familiarizarse con el entorno de desarrollo antes de escribir programas más completos en lenguaje C.
 
-#### [Instalación de lenguajes de programación (C, Python o Java)](Actividades%20U1/Condoy_Kiara_AA2_U1.pdf)
+#### [Instalación de lenguajes de programación (C, Python o Java)](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_AA2_U1.pdf)
 En este AA2 de la Unidad 1, se me pidió revisar los tutoriales oficiales para la instalación del lenguaje de programación C, con el objetivo de comprender el proceso técnico necesario para preparar el entorno de desarrollo en mi computadora. A través de esta práctica, pude a descargar e instalar el compilador MinGW, configurar las variables de entorno del sistema y verificar que el lenguaje estuviera correctamente reconocido por el sistema operativo.
 Esta actividad permitió entender la importancia de tener un entorno de programación bien configurado antes de comenzar a escribir código. Además, al finalizar la instalación, se pudo ejecutar mi primer programa en C, el clásico “Hola mundo”, lo que me dio una primera experiencia práctica con el lenguaje. Gracias a este proceso, ya es un nuevo conociemiento el preparar mi equipo para desarrollar programas en C, lo cual es fundamental para avanzar en el aprendizaje de la programación.
 
-#### [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](Actividades%20U1/Condoy_Kiara%20_APE1_U1.pdf)
+#### [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo (UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_APE1_U1.pdf)
 
 En este Aprendizaje Práctico Experimental 1 (APE) correspondiente a la Unidad 1, trabajé por primera vez con la herramienta PSeInt para construir un algoritmo utilizando estructuras secuenciales. El objetivo principal fue conocer bien el entorno de desarrollo de pseudocódigo y aplicar los conceptos básicos de programación que hemos venido aprendiendo en clase.
 El ejercicio consistió en desarrollar un algoritmo que permitiera calcular el Índice de Masa Corporal (IMC) de una persona, a partir de su peso y altura. Para ello, se declaró las variables necesarias, ingresó los datos por teclado, realizó el cálculo correspondiente y se mostró el resultado al usuario. Además, se hizo una prueba de escritorio para validar el funcionamiento del algoritmo con diferentes valores de entrada, lo que ayudó a comprobar que la lógica implementada era correcta.
 Esta práctica permitió reforzar la comprensión sobre cómo se estructura un algoritmo paso a paso, desde la entrada de datos hasta la salida de resultados. También ayudó a visualizar cómo se aplican las estructuras secuenciales en la resolución de problemas simples, lo cual es fundamental para seguir avanzando en el aprendizaje de la programación.
 
-#### [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](Actividades%20U1/Condoy_Kiara%20_APE2_U1.pdf)
+#### [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_APE2_U1.pdf)
 
 En este APE 2 de la Unidad 1, se trabajó en el diseño de un algoritmo que permite calcular la nota mínima necesaria en el tercer certamen (c3) para aprobar la asignatura con una calificación final de 60/100. Utilicé la herramienta PSeInt para construir el pseudocódigo y el diagrama de flujo, aplicando estructuras secuenciales y buenas prácticas de programación.
 Primero se identificaron los datos de entrada (c1, c2, nl), se analizó el problema y se dedujo la fórmula matemática para despejar C3. Luego se codificó el algoritmo en lenguaje C usando Visual Studio Code, respetando la sintaxis y documentando el código con comentarios explicativos.

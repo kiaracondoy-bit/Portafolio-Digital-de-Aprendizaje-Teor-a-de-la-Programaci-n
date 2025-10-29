@@ -133,7 +133,14 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
         - Mostrar el cambio que debe recibir el comprador.
 
    * 🔍 **Ejecución del algoritmo**<br><br>
+Caso 1:
+
 <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" />
+
+Caso 2:
+
+<img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" />
+
 
 Suponiendo que el usuario paga el producto con *$20.00* y el precio del producto es *$15.65*.
   el algoritmo solicita:  <br>
@@ -149,11 +156,14 @@ Finalmente, en la *salida*, el algoritmo muestra en pantalla:
      *El cambio por la compra del producto es: 4.35*
 
 También realizamos pruebas de escritorio para validar la solución del programa:
+
 | Dato de Entrada 1      |   Dato de Entrada 2     | Proceso          | Datos de Salida|
 |------------------------|-------------------------|------------------|--------------|
 |   Variable 1           |    Variable 2           | cambio=dineroInicial-PrecioProducto|  cambio|             
 |      20.00             |       15.65             | cambio=20.00-15.65|    4.35        |
+|	   82.5				 |		 62.25			   | cambio=82.50-62.25|	20.25		|
 
+Con esta comprobamos que la lógica matemática esté correctamente aplicada.
 
   ***Encuentre los demás algoritmos en PSeInt realizados en clase en:***
 📎 [**ANEXO 1**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/tree/main/Ejercicios%20Psenit)<br><br>
@@ -292,8 +302,8 @@ Como ilustración del proceso de transformación de un algoritmo a un programa f
 
 📘 **Ejercicio realizado en Visual Studio Code**
 
-<div/> <img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" />
-<
+<img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" />
+
 
    * 📝 **Explicación del código**
 ```c

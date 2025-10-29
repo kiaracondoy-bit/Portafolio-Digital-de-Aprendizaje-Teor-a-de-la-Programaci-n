@@ -6,19 +6,19 @@
 ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
-- [CONTENIDOS DE LA UNIDAD](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
-     1. [ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-1-algoritmos)
-     2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)
-     3. [REPRESENTACIÓN DE ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)
-          - [Pseudocódigo](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)
-          - [Diagrama de Flujo](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-diagrama-de-flujo)
-     4.  [PROGRAMACIÓN POR BLOQUES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-4-programaci%C3%B3n-por-bloques)
-     5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)
-     6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)
+- [CONTENIDOS DE LA UNIDAD](Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
+     1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)
+     2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)
+     3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)
+          - [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)
+          - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)
+     4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)
+     5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)
+     6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)
      7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)
 
 
-   - [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
+   - [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
 	 1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)] ()
   	 2. 
 ### 🗂️ CONTENIDOS DE LA UNIDAD

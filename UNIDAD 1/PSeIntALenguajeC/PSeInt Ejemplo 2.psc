@@ -1,10 +1,10 @@
 Algoritmo c_SueldoDeUnAsesor
-	//Declaración de Variables
+	//DeclaraciÃ³n de Variables
 	Definir sueldo,sueldoTotal Como Real;
 	Definir MESES Como Entero;
 	MESES=3
 	//Datos de Entrada
-	Escribir '¿Cuál es el sueldo mensual del asesor?'
+	Escribir 'Â¿CuÃ¡l es el sueldo mensual del asesor?'
 	Leer sueldo 
 	
 	//Proceso 

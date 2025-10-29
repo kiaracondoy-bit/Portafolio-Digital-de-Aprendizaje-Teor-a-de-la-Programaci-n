@@ -30,11 +30,11 @@
 
    - [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
      
-- [Unidad 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-2-) 🧠
-- [Unidad 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-3-%EF%B8%8F) 🛠️
-- [Conclusiones](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#conclusiones-) 📝
-- [Referencias](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#referencias-) 📚
-- [Uso de la IA generativa](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#uso-de-la-ia-generativa-) 🤖
+- [UNIDAD 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#unidad-2-) 🧠
+- [UNIDAD 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#unidad-3-%EF%B8%8F) 🛠️
+- [CONCLUSIONES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#conclusiones-) 📝
+- [REFEERENCIAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#referencias-) 📚
+<br><br>
 ---
 <div align="center">
  

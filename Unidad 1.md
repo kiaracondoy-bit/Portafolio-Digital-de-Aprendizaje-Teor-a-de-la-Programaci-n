@@ -111,8 +111,8 @@ Permite **planificar la lógica del programa** sin depender de la sintaxis de un
 4. Usar **sangría** para indicar jerarquía.
 5. Mantener un **orden lógico y coherente**.
 6. Revisar la claridad del algoritmo.
-
-📘 **Ejercicio en PSeInt desarrollado:**
+<br>
+📘 **EJERCICIO EN PSEINT DESARROLLADO:**
 
 ```
 Algoritmo d_cambioPorUnProducto
@@ -160,12 +160,14 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
 
    * 🔍 **Ejecución del algoritmo**<br><br>
 
-  Caso 1:
-
+  **Caso 1**:
+  
+Imagen 1: Ejecución en PSeInt en el primer caso
 <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" />
 
-  Caso 2:
-
+  **Caso 2**:
+  
+Imagen 2: Ejecución en PSeInt en el segundo caso
 <img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" />
 
 
@@ -182,7 +184,7 @@ En el *proceso*, se calcula el cambio con la fórmula:
 Finalmente, en la *salida*, el algoritmo muestra en pantalla:  
      *El cambio por la compra del producto es: 4.35*
 
-También realizamos pruebas de escritorio para validar la solución del programa:
+*También realizamos pruebas de escritorio para validar la solución del programa:*
 
 | Dato de Entrada 1      |   Dato de Entrada 2     | Proceso          | Datos de Salida|
 |------------------------|-------------------------|------------------|--------------|
@@ -190,10 +192,12 @@ También realizamos pruebas de escritorio para validar la solución del programa
 |      20.00             |       15.65             | cambio=20.00-15.65|    4.35        |
 |	   82.5				 |		 62.25			   | cambio=82.50-62.25|	20.25		|
 
+
 Con esta comprobamos que la lógica matemática esté correctamente aplicada.
 
+
   ***Encuentre los demás algoritmos en PSeInt realizados en clase en:***
-📎 [**ANEXO 1**](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/tree/main/Ejercicios%20Psenit)<br><br>
+📎 [**ANEXO 1**]()<br><br>
 
 ---
 #### 🔶 DIAGRAMA DE FLUJO
@@ -213,8 +217,9 @@ En clase se practicó y analizó la estructura de los diagramas de flujo mediant
 | Fin              | Óvalo             | Finaliza el algoritmo                           |
 
 
-📘 **Diagrama de Flujo en PSeInt**
+📘 **DIAGRAMA DE FLUJO EN PSEINT**
 
+Imagen 3: Diagrama de flujo en PSeInt
 <img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/0c060d3d-7cb3-4e67-b7a8-379850348060" />
 
    * 📝 **Explicación del diagrama de flujo: "d_cambioPorUnProducto"**
@@ -242,7 +247,7 @@ El diagrama de flujo de este algoritmo representa gráficamente el pseudocódigo
    - Se representa con un óvalo. Indica el final del algoritmo.
 
 En el siguiente enlace se pueden visualizar más ejemplos de diagramas de flujo realizados en clase:
-📎 [**ANEXOS 2**](<Ejercicios PSeInt Clase 2>) 
+📎 [**ANEXOS 2**]() 
 
 ---
 ### 🔹 4. PROGRAMACIÓN POR BLOQUES
@@ -252,7 +257,7 @@ Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la compre
 
 #### 🧰 Herramientas utilizadas
 
-* 🧩 **Blockly Games** <br><br>
+###### 🧩 **Blockly Games** <br><br>
 Plataforma educativa en línea diseñada para enseñar conceptos básicos de programación a principiantes de forma visual e interactiva. Utiliza bloques gráficos que se arrastran y encajan como piezas de rompecabezas, lo que permite construir algoritmos sin necesidad de escribir código.
 
    **Características principales**:
@@ -261,8 +266,9 @@ Plataforma educativa en línea diseñada para enseñar conceptos básicos de pro
    - Cada juego introduce progresivamente conceptos como secuencias, bucles, condiciones y funciones.
    - Ideal para aprender lógica de programación sin errores de sintaxis.
 
-📘 **Ejercicio realizado en Blockly Games**
+📘 **EJERCICIO REALIZADO EN BLOCKLY GAMES**
 
+   Imagen 4: Ejercicio de Blocky Games en el nivel 7
    <img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094655" src="https://github.com/user-attachments/assets/6f4cc5d6-0f9a-42d7-aeff-5c77e2b4f601" /><br><br>
 En el nivel 7 de esta plataforma, hay que guiar al personaje a través de un laberinto hasta llegar a la meta, usando instrucciones de programación. Para lograrlo, se construye un algoritmo con bloques que simulan decisiones y movimientos, como si fuera un robot que solo obedece lo que tú le programas.
 
@@ -274,10 +280,12 @@ Para resolver el problema, se usa:
 Esto permite que el personaje explore el laberinto de forma inteligente, tomando decisiones según los caminos disponibles en cada paso.
 
    * *Al terminar, el código del problema resuelto se presenta como*:<br><br>
+
+   Imagen 5: Resultado del ejercicio de Blocky Games en el nivel 7
 <img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /><br><br>
 
 
-* 🎮 **Pilas Bloques**
+##### 🎮 **Pilas Bloques**
 
 También es una plataforma educativa diseñada para enseñar programación principiantes, orientada específicamente a jóvenes, de forma visual y divertida. Utiliza bloques gráficos que se arrastran y encajan para construir instrucciones, lo que permite aprender lógica de programación sin necesidad de escribir código.
 
@@ -287,11 +295,12 @@ También es una plataforma educativa diseñada para enseñar programación princ
    - Introduce conceptos como **secuencias**, **bucles**, **condicionales** y **funciones**.
    - Ideal para aprender a programar jugando, desarrollando el pensamiento lógico y la resolución de problemas.
 
-📘 **Ejercicio realizado en Pilas Bloques**
+📘 **EJERCICIO REALIZADO EN PILAS BLOQUES**
 
+Imagen 6: Ejercicio de Pilas Bloques
 <img width="1919" height="1032" alt="Captura de pantalla 2025-10-24 094805" src="https://github.com/user-attachments/assets/4e85e6a5-219b-4d0c-a9ac-fbcb4b87d919" /><br>
 
-En este jugeo, el objetivo es ayudar a la puma Duba a llegar hasta el churrasco (su comida), evitando los obstáculos como las flores y el agua. Para lograrlo, debes construir una secuencia de instrucciones usando bloques de movimiento y acción.
+En este juego, el objetivo es ayudar a la puma Duba a llegar hasta el churrasco (su comida), evitando los obstáculos como las flores y el agua. Para lograrlo, debes construir una secuencia de instrucciones usando bloques de movimiento y acción.
 "Al empezar a ejecutar", se han colocado los siguientes bloques:
 - Mover a la derecha
 - Mover abajo
@@ -299,6 +308,8 @@ En este jugeo, el objetivo es ayudar a la puma Duba a llegar hasta el churrasco 
 Esto significa que, al iniciar el programa, la puma se moverá una casilla a la derecha, luego una hacia abajo, y finalmente comerá el churrasco si está en la posición correcta.
 
    * *Al terminar la página se presenta como*:<br><br>
+
+   Imagen 7: Resultado del ejercicio de Pilas Bloques
 <img width="1919" height="1039" alt="Captura de pantalla 2025-10-24 094820" src="https://github.com/user-attachments/assets/81ad1de1-df70-467c-a0f7-8091224f7e1d" /> <br><br><br>
 
 Esta metodología de "Programación por Bloques" hace el aprendizaje **más visual, dinámico y divertido**. 😄
@@ -319,16 +330,17 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
 
-En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
-Además, el desarrollo de los ejercicios se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
+El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
 
+Imagen 8: Logo de VS Code
 <img width="57" height="42" alt="image" src="https://github.com/user-attachments/assets/913bfa1d-89b2-4951-885d-34b648406d4a" />
 
-Como ilustración del proceso de transformación de un algoritmo a un programa funcional, se presentan a continuación un ejercicio desarrollado en lenguaje C. 
+En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
-📘 **Ejercicio realizado en Visual Studio Code**
+📘 **EJERCICIO EN LENGUAJE C DESARROLLADO EN VISUAL STUDIO CODE**
 
+Imagen 9: 
 <div align="center">  <img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" /> </div>
 
    * 📝 **Explicación del código**
@@ -381,9 +393,9 @@ return 0;
 - Finaliza el programa
 
 A lo largo del programa se incluyen comentarios para identificar la estructura del mismo.
+<br><br>
 
-
-* 🧪 **¿Cómo se compila y ejecuta un programa en C?**
+#### 🧪 **¿Cómo se compila y ejecuta un programa en C?**
 
 Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC**:
 
@@ -425,7 +437,7 @@ Se Ingresó el valor `55` y el programa mostró:
 
 Esto demuestra que el programa **funciona correctamente**, aplicando operaciones matemáticas simples y mostrando los resultados con formato decimal.
 
-Además, la prueba de escritorio, confirma la lógica usada:
+Además, la *prueba de escritorio*, confirma la lógica usada:
 
 | Dato de Entrada        |           Proceeso             | Datos de Salida			|
 |------------------------|--------------------------------|-------------------------|

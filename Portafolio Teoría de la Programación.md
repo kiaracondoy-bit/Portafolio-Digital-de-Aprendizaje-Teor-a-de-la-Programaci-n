@@ -17,18 +17,34 @@
 ---
 ### 📚 Contenido
 - [UNIDAD 1]()
-- [UNIDAD 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#unidad-2-) 🧠
-- [UNIDAD 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#unidad-3-%EF%B8%8F) 🛠️
-- [CONCLUSIONES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#conclusiones-) 📝
-- [REFERENCIAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#referencias-) 📚
-- [DECLARACIÓN DE IA](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#declaraci%C3%B3n-de-ia-)
-- [BIBLIOGRAFÍA](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#bibliograf%C3%ADa-)
+- [UNIDAD 2]() 🧠
+- [UNIDAD 3]() 🛠️
+- [CONCLUSIONES]() 📝
+- [REFERENCIAS]() 📚
+- [DECLARACIÓN DE IA]()
+- [BIBLIOGRAFÍA]()
    
 <br><br>
 
 ---
+### UNIDAD 2 🧠
+<summary>Ver objetivos y actividades</summary>
+
+
+---
+### UNIDAD 3 🛠️
+<summary>Ver objetivos y actividades</summary>
+
+
+---
+### CONCLUSIONES 📝
+- Reflexiona sobre lo aprendido.
+
+
+---
 ### DECLARACIÓN DE IA 📚
-Durante la creación de este portafolio, en la sección Unidad 1, utilicé herramientas de inteligencia artificial como apoyo para organizar contenidos, generar enlaces en Markdown, redactar descripciones claras y mejorar la presentación general del material. La IA llamada Copilot me permitió optimizar el tiempo, resolver dudas técnicas y asegurar una estructura coherente y profesional.
+Durante la creación de este portafolio, utilicé herramientas de inteligencia artificial como apoyo para organizar contenidos, consultar la aplicación de enlaces en Markdown, revisión en la redacción de descripciones claras y mejorar la presentación general del material. La IA llamada Copilot me permitió optimizar el tiempo, resolver dudas técnicas y asegurar una estructura coherente y profesional.
+
 
 ---
 ### BIBLIOGRAFÍA 📚
@@ -42,18 +58,3 @@ Durante la creación de este portafolio, en la sección Unidad 1, utilicé herra
 
 [4] P. Vélez Duque, Diseño estructurado de algoritmos aplicados en PSEINT [Online]. Grupo Compás, Guayaquil, Ecuador, 2021. Disponible en: Microsoft Word - Diseño estructurado de Algoritmos aplicados en Pseint5 L IBRO a envia para publicar.docx 
 
-
----
-### UNIDAD 2 🧠
-<summary>Ver objetivos y actividades</summary>
-
-
-
----
-### UNIDAD 3 🛠️
-<summary>Ver objetivos y actividades</summary>
-
-
----
-### CONCLUSIONES 📝
-- Reflexiona sobre lo aprendido.

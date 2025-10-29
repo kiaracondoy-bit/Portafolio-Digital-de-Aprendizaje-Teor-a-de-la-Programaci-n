@@ -16,7 +16,7 @@
  
 ---
 ### 📚 Contenido
-- [UNIDAD 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-unidad-1-fundamentos-de-algoritmos-y-programass-)✨
+- [UNIDAD 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-unidad-1-fundamentos-de-algoritmos-y-programass-)✨
    - [CONTENIDOS DE LA UNIDAD](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#%EF%B8%8F-contenidos-de-la-unidad)
      1. [ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-1-algoritmos)
      2. [REPRESENTACIÓN DE ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-2-representaci%C3%B3n-de-algoritmos)
@@ -115,7 +115,7 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 *En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos del mismo, como los datos de entrada, los procesos, los datos de salida, los comentarios, entre otros.*
 
 En el siguiente enlace se pueden visualizar los archivos correspondientes a los ejercicios realizados. Cada ejercicio cuenta con dos archivos: el primero contiene el pseudocódigo y el segundo, con el mismo nombre pero con la adición de la expresión “diagrama de flujo”, presenta la representación gráfica del algoritmo. Esto se repite de forma sistemática en todos los ejercicios disponibles en el enlace:
-📎 [**Ejemplos visuales y ejercicios:**](<Ejercicios PSeInt Clase 2>) 
+📎 [**Ejemplos visuales y ejercicios**](<Ejercicios PSeInt Clase 2>) 
 
 ---
 

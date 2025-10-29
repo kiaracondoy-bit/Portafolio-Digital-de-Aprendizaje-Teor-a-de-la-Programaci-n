@@ -49,12 +49,12 @@ Durante la creación de este portafolio, utilicé herramientas de inteligencia a
 ---
 ### BIBLIOGRAFÍA 📚
 
-[1] J. A. A. Huerta y D. L. González-Bañales, "PSeInt como herramienta para mejorar el proceso de enseñanza aprendizaje de algoritmos, pseudocódigo y diagramas de flujo," en Tecnologías de la Información en Educación: Sistematización de experiencias docentes, Durango, Dgo., México: Red Durango de Investigadores Educativos (Redie), 1.ª ed., junio 2020, pp. 91.
+[1] M. Goin, *Problemas y algoritmos: Un enfoque práctico*. Viedma, Argentina: Editorial UNRN, 2020. [En línea]. Disponible en: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/94/problemas-y-algoritmos-un-enfoque-practico
 
 [2] J. V. G. Sosa, L. R. V. Mercado, D. P. Barreda, and Y. Z. Osorio, “PSEINT como herramienta en el proceso de enseñanza-aprendizaje,” Congreso, vol. 2, no. 1, pp. 236–241, 2022.
 
 [3] J. P. D. Naranjo and K. R. C. Aguirre, “PSeInt y su contribución en el aprendizaje de los estudiantes de la carrera de Pedagogía de las Ciencias Experimentales Informática de la Universidad Técnica de Babahoyo, periodo académico abril-agosto 2024,” Bachelor’s thesis, Universidad Técnica de Babahoyo, 2024.
 
 
-[4] P. Vélez Duque, Diseño estructurado de algoritmos aplicados en PSEINT [Online]. Grupo Compás, Guayaquil, Ecuador, 2021. Disponible en: Microsoft Word - Diseño estructurado de Algoritmos aplicados en Pseint5 L IBRO a envia para publicar.docx 
+[4]  M. Goin, *Caminando junto al Lenguaje C*. Viedma, Argentina: Editorial UNRN, 2022. [En línea]. Disponible en: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c
 

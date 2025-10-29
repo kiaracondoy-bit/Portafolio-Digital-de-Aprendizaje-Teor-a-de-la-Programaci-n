@@ -319,7 +319,7 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
 
-En clase se trabajó con el lenguaje de programación C, abordando los elementos fundamentales de los algoritmos y los programas. Estos conceptos, previamente revisados en este documento, fueron aplicados específicamente en el contexto de dicho lenguaje, permitiendo comprender su estructura, sintaxis y lógica básica para la resolución de problemas computacionales.
+En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
 Además, el desarrollo de los ejercicios se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
 
@@ -382,8 +382,79 @@ return 0;
 
 A lo largo del programa se incluyen comentarios para identificar la estructura del mismo.
 
+
+* 🧪 **¿Cómo se compila y ejecuta un programa en C?**
+
+Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC**:
+
+1.  ✅ *Compilación*
+```bash
+gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
+```
+- `gcc`: es el comando que llama al compilador de C (GNU Compiler Collection).
+- `deMetrosAkmcmmm.c`: es el archivo fuente que contiene el código en C.
+- `-o deMetrosAkmcmmm`: indica el nombre del archivo ejecutable que se va a generar.
+
+Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí.
+
+ 2.  ▶️ *Ejecución*
+  ```bash
+  deMetrosAkmcmmm.exe
+  ```
+- Este comando ejecuta el programa que acabas de compilar en **Windows**.
+
+
+*  🎯 *¿Por qué es importante?*
+- Permite **ver los resultados reales** del código.
+- Ayuda a **detectar errores** y corregirlos.
+---
+
+**Compilación del ejercicio previo:**
+
+<img width="1485" height="364" alt="Captura de pantalla 2025-10-29 155739" src="https://github.com/user-attachments/assets/14773594-c49c-4996-865e-db4e5714623b" />
+
+
+🧮 Este es un ejemplo de ejecución:
+Se Ingresó el valor `55` y el programa mostró:
+
+```
+55.00m equivale a 0.0550km
+55.00m equivale a 5500.00cm
+55.00m equivale a 55000.00mm
+```
+
+Esto demuestra que el programa **funciona correctamente**, aplicando operaciones matemáticas simples y mostrando los resultados con formato decimal.
+
+Además, la prueba de escritorio, confirma la lógica usada:
+
+| Dato de Entrada        |           Proceeso             | Datos de Salida			|
+|------------------------|--------------------------------|-------------------------|
+|   Variable 1           | km=m/1000; cm=m*100; mm=m*1000 |      		   			|  
+|      55.00             | 55/1000;  55*1000;  55*1000    |	0.055km; 5500cm; 55000mm|
+
+
+Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
+📎 [**ANEXO 3**](<Ejercicios en Lenguaje C>)
+
+
 Podemos ***unificar conocimientos*** y pasar algotirmos de PSeInt a lenguaje C, como el siguiente ejercicio:
-📎 [**ANEXOS 3**](<Ejercicios en Lenguaje C>) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
+📎 [**ANEXO 4**](<Ejercicios en Lenguaje C>)
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
@@ -407,7 +478,7 @@ La actividad ayudó a entender cómo se estructura un algoritmo, cómo se declar
 En este AA2 de la Unidad 1, se me pidió revisar los tutoriales oficiales para la instalación del lenguaje de programación C, con el objetivo de comprender el proceso técnico necesario para preparar el entorno de desarrollo en mi computadora. A través de esta práctica, pude a descargar e instalar el compilador MinGW, configurar las variables de entorno del sistema y verificar que el lenguaje estuviera correctamente reconocido por el sistema operativo.
 Esta actividad permitió entender la importancia de tener un entorno de programación bien configurado antes de comenzar a escribir código. Además, al finalizar la instalación, se pudo ejecutar mi primer programa en C, el clásico “Hola mundo”, lo que me dio una primera experiencia práctica con el lenguaje. Gracias a este proceso, ya es un nuevo conociemiento el preparar mi equipo para desarrollar programas en C, lo cual es fundamental para avanzar en el aprendizaje de la programación.
 
-#### [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo (UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_APE1_U1.pdf)
+#### [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_APE1_U1.pdf)
 
 En este Aprendizaje Práctico Experimental 1 (APE) correspondiente a la Unidad 1, trabajé por primera vez con la herramienta PSeInt para construir un algoritmo utilizando estructuras secuenciales. El objetivo principal fue conocer bien el entorno de desarrollo de pseudocódigo y aplicar los conceptos básicos de programación que hemos venido aprendiendo en clase.
 El ejercicio consistió en desarrollar un algoritmo que permitiera calcular el Índice de Masa Corporal (IMC) de una persona, a partir de su peso y altura. Para ello, se declaró las variables necesarias, ingresó los datos por teclado, realizó el cálculo correspondiente y se mostró el resultado al usuario. Además, se hizo una prueba de escritorio para validar el funcionamiento del algoritmo con diferentes valores de entrada, lo que ayudó a comprobar que la lógica implementada era correcta.
@@ -418,3 +489,11 @@ Esta práctica permitió reforzar la comprensión sobre cómo se estructura un a
 En este APE 2 de la Unidad 1, se trabajó en el diseño de un algoritmo que permite calcular la nota mínima necesaria en el tercer certamen (c3) para aprobar la asignatura con una calificación final de 60/100. Utilicé la herramienta PSeInt para construir el pseudocódigo y el diagrama de flujo, aplicando estructuras secuenciales y buenas prácticas de programación.
 Primero se identificaron los datos de entrada (c1, c2, nl), se analizó el problema y se dedujo la fórmula matemática para despejar C3. Luego se codificó el algoritmo en lenguaje C usando Visual Studio Code, respetando la sintaxis y documentando el código con comentarios explicativos.
 Se realizaron pruebas de escritorio con distintos valores para validar la lógica del algoritmo y se comprobó su funcionamiento mediante la ejecución del programa. Esta práctica me ayudó a consolidar el proceso completo de resolución de problemas: desde el análisis inicial hasta la implementación final, reforzando la comprensión sobre estructuras secuenciales y el desarrollo de soluciones computacionales eficientes.
+
+---
+### 🗂️ ANEXOS
+
+* [**ANEXO 1**]()
+* [**ANEXO 2**]()
+* [**ANEXO 3**]()
+* [**ANEXO 4**]()

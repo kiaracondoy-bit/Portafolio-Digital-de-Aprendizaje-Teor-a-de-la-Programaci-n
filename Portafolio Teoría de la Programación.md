@@ -248,7 +248,3 @@ Durante la creación de este portafolio, en la sección Unidad 1, utilicé herra
 
 
 ---
-### REFERENCIAS 📚
-
----
-

@@ -162,14 +162,13 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
 
   **Caso 1**:
   
-Imagen 1: Ejecución en PSeInt en el primer caso
-<img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" />
+*Imagen 1: Ejecución en PSeInt en el primer caso*<br>
+<p align = "center"> <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" /> </p>
 
   **Caso 2**:
   
-Imagen 2: Ejecución en PSeInt en el segundo caso
-<img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" />
-
+*Imagen 2: Ejecución en PSeInt en el segundo caso*
+<p align = "center"><img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" /> </p>
 
 Suponiendo que el usuario paga el producto con *$20.00* y el precio del producto es *$15.65*.
   el algoritmo solicita:  <br>
@@ -219,8 +218,8 @@ En clase se practicó y analizó la estructura de los diagramas de flujo mediant
 
 📘 **DIAGRAMA DE FLUJO EN PSEINT**
 
-Imagen 3: Diagrama de flujo en PSeInt
-<img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/0c060d3d-7cb3-4e67-b7a8-379850348060" />
+*Imagen 3: Diagrama de flujo en PSeInt*<br>
+<p align = "center"><img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/0c060d3d-7cb3-4e67-b7a8-379850348060" /></p>
 
    * 📝 **Explicación del diagrama de flujo: "d_cambioPorUnProducto"**
 
@@ -268,8 +267,8 @@ Plataforma educativa en línea diseñada para enseñar conceptos básicos de pro
 
 📘 **EJERCICIO REALIZADO EN BLOCKLY GAMES**
 
-   Imagen 4: Ejercicio de Blocky Games en el nivel 7
-   <img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094655" src="https://github.com/user-attachments/assets/6f4cc5d6-0f9a-42d7-aeff-5c77e2b4f601" /><br><br>
+   *Imagen 4: Ejercicio de Blocky Games en el nivel 7*<br>
+<p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094655" src="https://github.com/user-attachments/assets/6f4cc5d6-0f9a-42d7-aeff-5c77e2b4f601" /> </p> <br><br>
 En el nivel 7 de esta plataforma, hay que guiar al personaje a través de un laberinto hasta llegar a la meta, usando instrucciones de programación. Para lograrlo, se construye un algoritmo con bloques que simulan decisiones y movimientos, como si fuera un robot que solo obedece lo que tú le programas.
 
 Para resolver el problema, se usa:
@@ -281,8 +280,8 @@ Esto permite que el personaje explore el laberinto de forma inteligente, tomando
 
    * *Al terminar, el código del problema resuelto se presenta como*:<br><br>
 
-   Imagen 5: Resultado del ejercicio de Blocky Games en el nivel 7
-<img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /><br><br>
+   *Imagen 5: Resultado del ejercicio de Blocky Games en el nivel 7*<br>
+<p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /> </p> <br><br>
 
 
 ##### 🎮 **Pilas Bloques**
@@ -297,8 +296,8 @@ También es una plataforma educativa diseñada para enseñar programación princ
 
 📘 **EJERCICIO REALIZADO EN PILAS BLOQUES**
 
-Imagen 6: Ejercicio de Pilas Bloques
-<img width="1919" height="1032" alt="Captura de pantalla 2025-10-24 094805" src="https://github.com/user-attachments/assets/4e85e6a5-219b-4d0c-a9ac-fbcb4b87d919" /><br>
+*Imagen 6: Ejercicio de Pilas Bloques* <br>
+<p align = "center"> <img width="1919" height="1032" alt="Captura de pantalla 2025-10-24 094805" src="https://github.com/user-attachments/assets/4e85e6a5-219b-4d0c-a9ac-fbcb4b87d919" /> </p> <br>
 
 En este juego, el objetivo es ayudar a la puma Duba a llegar hasta el churrasco (su comida), evitando los obstáculos como las flores y el agua. Para lograrlo, debes construir una secuencia de instrucciones usando bloques de movimiento y acción.
 "Al empezar a ejecutar", se han colocado los siguientes bloques:
@@ -309,8 +308,8 @@ Esto significa que, al iniciar el programa, la puma se moverá una casilla a la 
 
    * *Al terminar la página se presenta como*:<br><br>
 
-   Imagen 7: Resultado del ejercicio de Pilas Bloques
-<img width="1919" height="1039" alt="Captura de pantalla 2025-10-24 094820" src="https://github.com/user-attachments/assets/81ad1de1-df70-467c-a0f7-8091224f7e1d" /> <br><br><br>
+*Imagen 7: Resultado del ejercicio de Pilas Bloques*<br>
+<p align = "center"> <img width="1919" height="1039" alt="Captura de pantalla 2025-10-24 094820" src="https://github.com/user-attachments/assets/81ad1de1-df70-467c-a0f7-8091224f7e1d" /> </p> <br><br>
 
 Esta metodología de "Programación por Bloques" hace el aprendizaje **más visual, dinámico y divertido**. 😄
 
@@ -333,14 +332,14 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
 
 El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
 
-Imagen 8: Logo de VS Code
-<img width="57" height="42" alt="image" src="https://github.com/user-attachments/assets/913bfa1d-89b2-4951-885d-34b648406d4a" />
+*Imagen 8: Logo de VS Code* <br>
+<p align="center"><img width="57" height="42" alt="image" src="https://github.com/user-attachments/assets/913bfa1d-89b2-4951-885d-34b648406d4a" /></p>
 
 En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
 📘 **EJERCICIO EN LENGUAJE C DESARROLLADO EN VISUAL STUDIO CODE**
 
-Imagen 9: 
+*Imagen 9: Programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
 <div align="center">  <img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" /> </div>
 
    * 📝 **Explicación del código**
@@ -423,8 +422,8 @@ Este paso traduce el código fuente a un archivo ejecutable que puede correr en 
 
 **Compilación del ejercicio previo:**
 
-<img width="1485" height="364" alt="Captura de pantalla 2025-10-29 155739" src="https://github.com/user-attachments/assets/14773594-c49c-4996-865e-db4e5714623b" />
-
+*Imagen 10: Compilación del programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
+<p align="center"> <img width="1485" height="364" alt="Captura de pantalla 2025-10-29 155739" src="https://github.com/user-attachments/assets/14773594-c49c-4996-865e-db4e5714623b" /> </p>
 
 🧮 Este es un ejemplo de ejecución:
 Se Ingresó el valor `55` y el programa mostró:
@@ -451,19 +450,17 @@ Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
 
 Podemos ***unificar conocimientos*** y pasar algotirmos de PSeInt a lenguaje C, como el siguiente ejercicio:
 
+En el siguiente ejercicio se resolverá el cálculo del porcentaje de mujeres y hombres en un grupo determinado. 
 
+*Imagen 11: Pseudocódigo en PSeInt de Porcentaje de hombres y mujeres*<br>
+<p align = "center"> <img width="1077" height="765" alt="image" src="https://github.com/user-attachments/assets/7a672583-16d7-4b57-8c5d-219e678a29e5" /></p>
 
+Para resolver el problema planteado, el algoritmo solicita al usuario que ingrese la cantidad de hombres y mujeres, y con esos datos realiza una operación matemática rrelacionada a la regla de 3, que permite conocer qué porcentaje representa cada grupo respecto al total. 
 
+A continuación, se procedió a trasladar el código desarrollado en PSeInt al lenguaje de programación C, adaptando su estructura y lógica para cumplir con la sintaxis propia de dicho lenguaje.
 
-
-
-
-
-
-
-
-
-
+*Imagen 12: Código en Visual Studio Code de porcentaje de hombres y mujeres*<br>
+<p align "center"> <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/f24dfe3f-6d6b-4bc6-ac76-8d109e93f41b" /> </p>
 
 Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
 📎 [**ANEXO 4**](<Ejercicios en Lenguaje C>)

@@ -504,7 +504,7 @@ Se realizaron pruebas de escritorio con distintos valores para validar la lógic
 ---
 ### 🗂️ ANEXOS
 
-* [**ANEXO 1**]()
-* [**ANEXO 2**]()
-* [**ANEXO 3**]()
-* [**ANEXO 4**]()
+* [**ANEXO 1**](UNIDAD%201/Ejercicios%20en%20PSeInt)
+* [**ANEXO 2**](UNIDAD%201/Ejercicios%20PSeInt%20con%20Diagrama%20de%20Flujo)
+* [**ANEXO 3**](UNIDAD%201/Ejercicios%20en%20Lenguaje%20C)
+* [**ANEXO 4**](UNIDAD%201/PSeIntALenguajeC)

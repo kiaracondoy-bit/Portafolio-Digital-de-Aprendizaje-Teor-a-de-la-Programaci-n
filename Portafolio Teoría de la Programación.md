@@ -216,6 +216,7 @@ En este APE 2 de la Unidad 1, se trabajó en el diseño de un algoritmo que perm
 Primero se identificaron los datos de entrada (c1, c2, nl), se analizó el problema y se dedujo la fórmula matemática para despejar C3. Luego se codificó el algoritmo en lenguaje C usando Visual Studio Code, respetando la sintaxis y documentando el código con comentarios explicativos.
 Se realizaron pruebas de escritorio con distintos valores para validar la lógica del algoritmo y se comprobó su funcionamiento mediante la ejecución del programa. Esta práctica me ayudó a consolidar el proceso completo de resolución de problemas: desde el análisis inicial hasta la implementación final, reforzando la comprensión sobre estructuras secuenciales y el desarrollo de soluciones computacionales eficientes.
 
+---
 ### DECLARACIÓN DE IA 📚
 Durante la creación de este portafolio, en la sección Unidad 1, utilicé herramientas de inteligencia artificial como apoyo para organizar contenidos, generar enlaces en Markdown, redactar descripciones claras y mejorar la presentación general del material. La IA llamada Copilot me permitió optimizar el tiempo, resolver dudas técnicas y asegurar una estructura coherente y profesional.
 
@@ -246,7 +247,3 @@ Durante la creación de este portafolio, en la sección Unidad 1, utilicé herra
 ---
 ### CONCLUSIONES 📝
 - Reflexiona sobre lo aprendido.
-
-
-
----

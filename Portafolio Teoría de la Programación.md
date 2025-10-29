@@ -16,14 +16,20 @@
  
 ---
 ### 📚 Contenido
-- [Unidad 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-unidad-1-fundamentos-de-algoritmos-y-programass-)✨
+- [UNIDAD 1](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-unidad-1-fundamentos-de-algoritmos-y-programass-)✨
    - [CONTENIDOS DE LA UNIDAD](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#%EF%B8%8F-contenidos-de-la-unidad)
-     1. [ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-1-algoritmos)
-     2. [REPRESENTACIÓN DE ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-2-representaci%C3%B3n-de-algoritmos)
+     1. [ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-1-algoritmos)
+     2. [REPRESENTACIÓN DE ALGORITMOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-2-representaci%C3%B3n-de-algoritmos)
           - Pseudocódigo
           - Diagrama de Flujo
-     3.  [PROGRAMACIÓN POR BLOQUES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#-4-programaci%C3%B3n-por-bloques)
-     4.  
+     3. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-3-elementos-b%C3%A1sicos-de-algoritmos-y-programas)
+     4.  [PROGRAMACIÓN POR BLOQUES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-4-programaci%C3%B3n-por-bloques)
+     5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)
+     6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)
+     7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)
+
+   - [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
+     
 - [Unidad 2](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-2-) 🧠
 - [Unidad 3](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#unidad-3-%EF%B8%8F) 🛠️
 - [Conclusiones](https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/edit/main/index.md#conclusiones-) 📝

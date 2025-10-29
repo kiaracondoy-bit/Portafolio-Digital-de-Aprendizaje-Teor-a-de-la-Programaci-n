@@ -31,13 +31,15 @@
 	 
 3. [ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
 <br>
+
 ---
+
 ### 🗂️ CONTENIDOS DE LA UNIDAD
 
 ### 🔹 1. ALGORITMOS
 
 Un **algoritmo** es una **secuencia finita, ordenada y lógica de pasos** que permiten **resolver** un problema o **realizar** una tarea específica.
-Cada paso debe ser *claro, preciso* y producir un resultado *concreto*.
+Cada paso debe ser *claro, preciso* y producir un resultado *concreto*. [1]
 
 ##### Clasificación
 
@@ -103,7 +105,7 @@ Los algoritmos se pueden representar de dos maneras:
 #### ✏️ PSEUDOCÓDIGO
 
 El **pseudocódigo** es una forma textual y estructurada de representar un algoritmo.
-Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación.
+Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación. [2]
 
 ##### 🪜 Pasos para escribir un algoritmo en pseudocódigo
 
@@ -140,14 +142,14 @@ FinAlgoritmo
    
    * 📝 **Redacción explicativa del pseudocódigo "d_cambioPorUnProducto"** <br>
    
-El algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la plataforma PSeInt.
-El algoritmo comienza con la **declaración de variables**, donde se definen `dineroInicial`, `PrecioProducto` y `cambio` como variables de tipo **Real**, ya que se trabaja con valores de dinero que pueden incluir decimales. Se ubica un comentario que indica el propósito del código de Declarar Variables.
+   El algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la plataforma     PSeInt.
+   El algoritmo comienza con la **declaración de variables**, donde se definen `dineroInicial`, `PrecioProducto` y `cambio` como variables de tipo **Real**, ya      que se trabaja con valores de dinero que pueden incluir decimales. Se ubica un comentario que indica el propósito del código de Declarar Variables.
+   
+   Luego se procede a la **entrada de datos**, donde se solicita al usuario que ingrese dos valores: el monto con el que se paga el producto (`dineroInicial`) y     el precio del producto (`PrecioProducto`). Estas instrucciones se realizan mediante la instrucción **Escribir**, que muestra un mensaje en pantalla, seguida      de **Leer**, que captura el valor ingresado por el usuario. Esta sección también está comentada para indicar que se trata de los datos de entrada.
 
-Luego se procede a la **entrada de datos**, donde se solicita al usuario que ingrese dos valores: el monto con el que se paga el producto (`dineroInicial`) y el precio del producto (`PrecioProducto`). Estas instrucciones se realizan mediante la instrucción **Escribir**, que muestra un mensaje en pantalla, seguida de **Leer**, que captura el valor ingresado por el usuario. Esta sección también está comentada para indicar que se trata de los datos de entrada.
+   Una vez obtenidos los valores, el algoritmo realiza el **proceso de cálculo**, donde se determina el cambio que debe recibir el comprador. Para ello, se resta    el precio del producto al dinero entregado: `cambio = dineroInicial - PrecioProducto`. Esta operación se guarda en la variable `cambio` junto a un comentario     que indica que es el proceso.
 
-Una vez obtenidos los valores, el algoritmo realiza el **proceso de cálculo**, donde se determina el cambio que debe recibir el comprador. Para ello, se resta el precio del producto al dinero entregado: `cambio = dineroInicial - PrecioProducto`. Esta operación se guarda en la variable `cambio` junto a un comentario que indica que es el proceso.
-
-Finalmente, se ejecuta la **salida de datos**, donde se muestra en pantalla el resultado del cálculo. Se utiliza la instrucción **Escribir** para presentar el mensaje: "El cambio por la compra del producto es: ", seguido del valor almacenado en la variable `cambio`.
+   Finalmente, se ejecuta la **salida de datos**, donde se muestra en pantalla el resultado del cálculo. Se utiliza la instrucción **Escribir** para presentar el    mensaje: "El cambio por la compra del producto es: ", seguido del valor almacenado en la variable `cambio`.
 
 El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre del procedimiento. <br>
 
@@ -162,27 +164,27 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
 
    * 🔍 **Ejecución del algoritmo**<br><br>
 
-  **Caso 1**:
+   **Caso 1**:
   
 *Imagen 1: Ejecución en PSeInt en el primer caso*<br>
 <p align = "center"> <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" /> </p>
 
-  **Caso 2**:
+   **Caso 2**:
   
 *Imagen 2: Ejecución en PSeInt en el segundo caso*
 <p align = "center"><img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" /> </p>
 
-Suponiendo que el usuario paga el producto con *$20.00* y el precio del producto es *$15.65*.
+  Suponiendo que el usuario paga el producto con *$20.00* y el precio del producto es *$15.65*.
   el algoritmo solicita:  <br>
      *¿Con cuánto dinero se paga el producto?* → El usuario ingresa `20.00`  
      *¿Cuál es el precio del producto?* → El usuario ingresa `15.65`
 
-En el *proceso*, se calcula el cambio con la fórmula:  
+  En el *proceso*, se calcula el cambio con la fórmula:  
      `cambio = dineroInicial - PrecioProducto`  
      `cambio = 20.00 - 15.65`  
      `cambio = 4.35`
 
-Finalmente, en la *salida*, el algoritmo muestra en pantalla:  
+  Finalmente, en la *salida*, el algoritmo muestra en pantalla:  
      *El cambio por la compra del producto es: 4.35*
 
 *También realizamos pruebas de escritorio para validar la solución del programa:*
@@ -194,18 +196,18 @@ Finalmente, en la *salida*, el algoritmo muestra en pantalla:
 |	   82.5				 |		 62.25			   | cambio=82.50-62.25|	20.25		|
 
 
-Con esta comprobamos que la lógica matemática esté correctamente aplicada.
+   Con esta comprobamos que la lógica matemática esté correctamente aplicada.
 
 
   ***Encuentre los demás algoritmos en PSeInt realizados en clase en:***
-📎 [**ANEXO 1**]()<br><br>
+📎 [**ANEXO 1**](UNIDAD%201/Ejercicios%20en%20PSeInt)<br><br>
 
 ---
 #### 🔶 DIAGRAMA DE FLUJO
 
-El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección**.
+El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección**. [3]
 
-En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos del mismo, como los datos de entrada, los procesos, los datos de salida, entre otros.
+   En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo     utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos       del    mismo, como los datos de entrada, los procesos, los datos de salida, entre otros.
 
    * 🧠 **Componentes clave en PSeInt**
 
@@ -248,7 +250,7 @@ El diagrama de flujo de este algoritmo representa gráficamente el pseudocódigo
    - Se representa con un óvalo. Indica el final del algoritmo.
 
 En el siguiente enlace se pueden visualizar más ejemplos de diagramas de flujo realizados en clase:
-📎 [**ANEXOS 2**]() 
+📎 [**ANEXOS 2**](UNIDAD%201/Ejercicios%20PSeInt%20con%20Diagrama%20de%20Flujo) 
 
 ---
 ### 🔹 4. PROGRAMACIÓN POR BLOQUES
@@ -331,10 +333,44 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
 
 El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
 
+#### Lenguaje C
+
+El lenguaje C es uno de los más utilizados en la enseñanza de programación por su estructura clara, cercanía al hardware y potencia. [4]
+
+🔹 Características principales del lenguaje C
+- Codificación estructurada: La conversión de pseudocódigo a C requiere adaptar la lógica, declarar variables, incluir librerías y respetar la sintaxis del lenguaje.
+- Archivos fuente: Los programas se guardan con extensión .c y se compilan para generar ejecutables (.exe en Windows).
+- Función principal: Todo programa en C inicia en la función main().
+
+📚 Librerías o bibliotecas
+- Son archivos con extensión .h que contienen funciones reutilizables.
+- La más importante es stdio.h, que permite manejar entrada y salida de datos.
+- Otras comunes: stdlib.h, string.h, math.h, time.h.
+
+🧮 Tipos de datos y variables
+- Tipos simples: int, float, char, double, entre otros.
+- Las variables deben declararse antes de usarse y pueden inicializarse al momento de la declaración.
+- Las cadenas de texto se manejan como arreglos de tipo char.
+
+📌 Constantes
+- Se pueden declarar con const o con #define.
+- Ejemplo: const float PI = 3.1416; o #define PI 3.1416.
+
+➕ Asignación y operadores
+- Se usa el signo = para asignar valores.
+- Operadores como ++ y -- permiten incrementar o decrementar variables.
+- Se distingue entre pre-incremento (++x) y post-incremento (x++).
+
+📥 Entrada y salida de datos
+- Entrada: scanf() con máscaras como %d, %f, %c, %s.
+- Salida: printf() para mostrar resultados en pantalla.
+- Las máscaras indican el tipo de dato que se lee o imprime.
+
+
 *Imagen 8: Logo de VS Code* <br>
 <p align="center"><img width="57" height="42" alt="image" src="https://github.com/user-attachments/assets/913bfa1d-89b2-4951-885d-34b648406d4a" /></p>
 
-En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
+   En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
 📘 **EJERCICIO EN LENGUAJE C DESARROLLADO EN VISUAL STUDIO CODE**
 
@@ -392,7 +428,7 @@ return 0;
 
 A lo largo del programa se incluyen comentarios para identificar la estructura del mismo.
 <br><br>
-
+<br>
 #### 🧪 **¿Cómo se compila y ejecuta un programa en C?**
 
 Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC**:
@@ -444,7 +480,7 @@ Además, la *prueba de escritorio*, confirma la lógica usada:
 
 
 Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
-📎 [**ANEXO 3**]()
+📎 [**ANEXO 3**](UNIDAD%201/Ejercicios%20en%20Lenguaje%20C)
 
 
 Podemos ***unificar conocimientos*** y pasar algotirmos de PSeInt a lenguaje C, como el siguiente ejercicio:
@@ -454,20 +490,22 @@ En el siguiente ejercicio se resolverá el cálculo del porcentaje de mujeres y 
 *Imagen 11: Pseudocódigo en PSeInt de Porcentaje de hombres y mujeres*<br>
 <p align = "center"> <img width="1077" height="765" alt="image" src="https://github.com/user-attachments/assets/7a672583-16d7-4b57-8c5d-219e678a29e5" /></p>
 
-Para resolver el problema planteado, el algoritmo solicita al usuario que ingrese la cantidad de hombres y mujeres, y con esos datos realiza una operación matemática rrelacionada a la regla de 3, que permite conocer qué porcentaje representa cada grupo respecto al total. 
+   Para resolver el problema planteado, el algoritmo solicita al usuario que ingrese la cantidad de hombres y mujeres, y con esos datos realiza una operación        matemática rrelacionada a la regla de 3, que permite conocer qué porcentaje representa cada grupo respecto al total. 
 
-A continuación, se procedió a trasladar el código desarrollado en PSeInt al lenguaje de programación C, adaptando su estructura y lógica para cumplir con la sintaxis propia de dicho lenguaje.
+*A continuación, se procedió a trasladar el código desarrollado en PSeInt al lenguaje de programación C, adaptando su estructura y lógica para cumplir con la sintaxis propia de dicho lenguaje.*
 
 *Imagen 12: Código en Visual Studio Code de porcentaje de hombres y mujeres*<br>
 <p align "center"> <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/f24dfe3f-6d6b-4bc6-ac76-8d109e93f41b" /> </p>
 
 Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
-📎 [**ANEXO 4**]()
+📎 [**ANEXO 4**](UNIDAD%201/PSeIntALenguajeC)
 
+<br>
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 Durante el proceso de aprendizaje, una de las principales dificultades que enfrenté fue comprender la diferencia entre constantes, variables e identificadores, ya que al inicio estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica. También me costó adaptarme a la forma en que se “lee” un programa en lenguaje C, especialmente al interpretar correctamente las instrucciones y entender su lógica. Otro aspecto que me generó dudas fue el uso de símbolos como % y &. En el caso del operador %, me tomó tiempo entender que se utiliza para obtener el residuo de una división entre enteros. En cuanto al operador &, me resultó confuso al principio porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente. Sin embargo, con la práctica y el acompañamiento en clase, fui aclarando estas dudas y logrando una mejor comprensión de la estructura del lenguaje.
+<br>
 
 ---
 
@@ -476,9 +514,12 @@ Durante el proceso de aprendizaje, una de las principales dificultades que enfre
 Considero que los contenidos abordados en esta unidad fueron presentados de manera clara y estructurada, lo que facilitó la comprensión de cada tema tratado. A lo largo de las sesiones, se exploraron los fundamentos de los algoritmos y los programas, permitiendo adquirir una base sólida para la elaboración de soluciones en lenguaje C.
 También fue notorio como los temas fueron adecuados para un estudiante que inicia en el mundo de la programación, ya que se explicaron de forma concisa y progresiva. Gracias a ello, pude comprender con mayor profundidad conceptos clave como la diferencia entre algoritmo y programa, la lógica secuencial, la prioridad de operadores, la representación de diagramas de flujo y el uso de herramientas digitales aplicadas al desarrollo de software.
 En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a construir programas funcionales, entendiendo no solo la sintaxis del lenguaje, sino también la lógica detrás de cada instrucción. Me siento preparada para seguir avanzando en el aprendizaje de la programación con una base firme y clara.
+<br>
 
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
+
+*Actividades Autónomas*
 
 #### [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_AA1_U1.pdf)
   En este Aprendizaje Autónomo 1 (AA) de la Unidad 1, se me pidió explorar y utilizar herramientas digitales para trabajar con pseudocódigo y diagramas de flujo. El objetivo fue aplicar los conceptos básicos de algoritmos y programación que hemos visto en clase, usando una herramienta que facilite su comprensión. Para ello, trabajé con PSeInt, una plataforma muy útil para quienes estamos empezando en programación, ya que permite escribir algoritmos de forma sencilla y visual.
@@ -487,6 +528,8 @@ La actividad ayudó a entender cómo se estructura un algoritmo, cómo se declar
 #### [Instalación de lenguajes de programación (C, Python o Java)](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_AA2_U1.pdf)
 En este AA2 de la Unidad 1, se me pidió revisar los tutoriales oficiales para la instalación del lenguaje de programación C, con el objetivo de comprender el proceso técnico necesario para preparar el entorno de desarrollo en mi computadora. A través de esta práctica, pude a descargar e instalar el compilador MinGW, configurar las variables de entorno del sistema y verificar que el lenguaje estuviera correctamente reconocido por el sistema operativo.
 Esta actividad permitió entender la importancia de tener un entorno de programación bien configurado antes de comenzar a escribir código. Además, al finalizar la instalación, se pudo ejecutar mi primer programa en C, el clásico “Hola mundo”, lo que me dio una primera experiencia práctica con el lenguaje. Gracias a este proceso, ya es un nuevo conociemiento el preparar mi equipo para desarrollar programas en C, lo cual es fundamental para avanzar en el aprendizaje de la programación.
+
+*Actividades Práctico Experimental*
 
 #### [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](UNIDAD%201/Tareas%20Entregadas%20U1/Condoy_Kiara%20_APE1_U1.pdf)
 

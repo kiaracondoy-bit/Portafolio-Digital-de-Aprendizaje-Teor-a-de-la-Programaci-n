@@ -445,7 +445,7 @@ Además, la *prueba de escritorio*, confirma la lógica usada:
 
 
 Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
-📎 [**ANEXO 3**](<Ejercicios en Lenguaje C>)
+📎 [**ANEXO 3**]()
 
 
 Podemos ***unificar conocimientos*** y pasar algotirmos de PSeInt a lenguaje C, como el siguiente ejercicio:
@@ -463,12 +463,14 @@ A continuación, se procedió a trasladar el código desarrollado en PSeInt al l
 <p align "center"> <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/f24dfe3f-6d6b-4bc6-ac76-8d109e93f41b" /> </p>
 
 Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
-📎 [**ANEXO 4**](<Ejercicios en Lenguaje C>)
+📎 [**ANEXO 4**]()
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 Durante el proceso de aprendizaje, una de las principales dificultades que enfrenté fue comprender la diferencia entre constantes, variables e identificadores, ya que al inicio estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica. También me costó adaptarme a la forma en que se “lee” un programa en lenguaje C, especialmente al interpretar correctamente las instrucciones y entender su lógica. Otro aspecto que me generó dudas fue el uso de símbolos como % y &. En el caso del operador %, me tomó tiempo entender que se utiliza para obtener el residuo de una división entre enteros. En cuanto al operador &, me resultó confuso al principio porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente. Sin embargo, con la práctica y el acompañamiento en clase, fui aclarando estas dudas y logrando una mejor comprensión de la estructura del lenguaje.
+
+---
 
 ### 🔹 7. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 

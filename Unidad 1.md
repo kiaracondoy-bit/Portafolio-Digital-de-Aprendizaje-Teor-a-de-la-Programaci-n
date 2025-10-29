@@ -6,6 +6,21 @@
 ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
+- [CONTENIDOS DE LA UNIDAD]()
+     1. [ALGORITMOS]()
+     2. [REPRESENTACIÓN DE ALGORITMOS]()
+          - [Pseudocódigo]()
+          - [Diagrama de Flujo]()
+     3. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS]()
+     4.  [PROGRAMACIÓN POR BLOQUES]()
+     5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN]()
+     6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS]()
+     7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES]()
+
+
+   - [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS]()
+	 1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)] ()
+  	 2. 
 ### 🗂️ CONTENIDOS DE LA UNIDAD
 
 ### 🔹 1. ALGORITMOS
@@ -135,11 +150,12 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
         - Mostrar el cambio que debe recibir el comprador.
 
    * 🔍 **Ejecución del algoritmo**<br><br>
-Caso 1:
+
+  Caso 1:
 
 <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" />
 
-Caso 2:
+  Caso 2:
 
 <img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" />
 
@@ -374,20 +390,22 @@ En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a 
 ---
 ### 🗂️ TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS
 
-* [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Actividades%20U1/Condoy_Kiara%20_AA1_U1.pdf)
+#### [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Actividades%20U1/Condoy_Kiara%20_AA1_U1.pdf)
   En este Aprendizaje Autónomo 1 (AA) de la Unidad 1, se me pidió explorar y utilizar herramientas digitales para trabajar con pseudocódigo y diagramas de flujo. El objetivo fue aplicar los conceptos básicos de algoritmos y programación que hemos visto en clase, usando una herramienta que facilite su comprensión. Para ello, trabajé con PSeInt, una plataforma muy útil para quienes estamos empezando en programación, ya que permite escribir algoritmos de forma sencilla y visual.
 La actividad ayudó a entender cómo se estructura un algoritmo, cómo se declaran variables, se reciben datos, se procesan operaciones y se muestran resultados. Además, con esta herramienta se pudo representar todo esto en un diagrama de flujo, lo que permite visualizar mejor cada paso del proceso. Esta práctica sirvió para reforzar la lógica de programación y para familiarizarse con el entorno de desarrollo antes de escribir programas más completos en lenguaje C.
 
-* [Instalación de lenguajes de programación (C, Python o Java)](Actividades%20U1/Condoy_Kiara_AA2_U1.pdf)
+#### [Instalación de lenguajes de programación (C, Python o Java)](Actividades%20U1/Condoy_Kiara_AA2_U1.pdf)
 En este AA2 de la Unidad 1, se me pidió revisar los tutoriales oficiales para la instalación del lenguaje de programación C, con el objetivo de comprender el proceso técnico necesario para preparar el entorno de desarrollo en mi computadora. A través de esta práctica, pude a descargar e instalar el compilador MinGW, configurar las variables de entorno del sistema y verificar que el lenguaje estuviera correctamente reconocido por el sistema operativo.
 Esta actividad permitió entender la importancia de tener un entorno de programación bien configurado antes de comenzar a escribir código. Además, al finalizar la instalación, se pudo ejecutar mi primer programa en C, el clásico “Hola mundo”, lo que me dio una primera experiencia práctica con el lenguaje. Gracias a este proceso, ya es un nuevo conociemiento el preparar mi equipo para desarrollar programas en C, lo cual es fundamental para avanzar en el aprendizaje de la programación.
 
-* [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](Actividades%20U1/Condoy_Kiara%20_APE1_U1.pdf)
+#### [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](Actividades%20U1/Condoy_Kiara%20_APE1_U1.pdf)
+
 En este Aprendizaje Práctico Experimental 1 (APE) correspondiente a la Unidad 1, trabajé por primera vez con la herramienta PSeInt para construir un algoritmo utilizando estructuras secuenciales. El objetivo principal fue conocer bien el entorno de desarrollo de pseudocódigo y aplicar los conceptos básicos de programación que hemos venido aprendiendo en clase.
 El ejercicio consistió en desarrollar un algoritmo que permitiera calcular el Índice de Masa Corporal (IMC) de una persona, a partir de su peso y altura. Para ello, se declaró las variables necesarias, ingresó los datos por teclado, realizó el cálculo correspondiente y se mostró el resultado al usuario. Además, se hizo una prueba de escritorio para validar el funcionamiento del algoritmo con diferentes valores de entrada, lo que ayudó a comprobar que la lógica implementada era correcta.
 Esta práctica permitió reforzar la comprensión sobre cómo se estructura un algoritmo paso a paso, desde la entrada de datos hasta la salida de resultados. También ayudó a visualizar cómo se aplican las estructuras secuenciales en la resolución de problemas simples, lo cual es fundamental para seguir avanzando en el aprendizaje de la programación.
 
-* [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](Actividades%20U1/Condoy_Kiara%20_APE2_U1.pdf)
+#### [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](Actividades%20U1/Condoy_Kiara%20_APE2_U1.pdf)
+
 En este APE 2 de la Unidad 1, se trabajó en el diseño de un algoritmo que permite calcular la nota mínima necesaria en el tercer certamen (c3) para aprobar la asignatura con una calificación final de 60/100. Utilicé la herramienta PSeInt para construir el pseudocódigo y el diagrama de flujo, aplicando estructuras secuenciales y buenas prácticas de programación.
 Primero se identificaron los datos de entrada (c1, c2, nl), se analizó el problema y se dedujo la fórmula matemática para despejar C3. Luego se codificó el algoritmo en lenguaje C usando Visual Studio Code, respetando la sintaxis y documentando el código con comentarios explicativos.
 Se realizaron pruebas de escritorio con distintos valores para validar la lógica del algoritmo y se comprobó su funcionamiento mediante la ejecución del programa. Esta práctica me ayudó a consolidar el proceso completo de resolución de problemas: desde el análisis inicial hasta la implementación final, reforzando la comprensión sobre estructuras secuenciales y el desarrollo de soluciones computacionales eficientes.

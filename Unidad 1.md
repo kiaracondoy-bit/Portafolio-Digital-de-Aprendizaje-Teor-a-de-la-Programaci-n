@@ -313,7 +313,8 @@ Esto significa que, al iniciar el programa, la puma se moverá una casilla a la 
 
 *Imagen 7: Resultado del ejercicio de Pilas Bloques*<br>
 <p align = "center"> <img width="1919" height="1039" alt="Captura de pantalla 2025-10-24 094820" src="https://github.com/user-attachments/assets/81ad1de1-df70-467c-a0f7-8091224f7e1d" /> </p> <br><br>
-Esta metodología de "Programación por Bloques" hace el aprendizaje **más visual, dinámico y divertido**. 😄
+Esta metodología de "Programación por Bloques" hace el aprendizaje más visual, dinámico y divertido. 😄
+
 ---
 
 ### 🔹 5. LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN

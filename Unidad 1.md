@@ -214,8 +214,8 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 | Elemento         | Tipo de símbolo   | Descripción                                     |
 |------------------|-------------------|-------------------------------------------------|
 | Inicio           | Óvalo             | Marca el comienzo del algoritmo                 |
-| Entrada          | Paralelogramo con felcha hacia dentro | Captura los datos del usuario                   |
-| Proceso          | Rectángulo con felcha hacia afuera | Realiza el cálculo del cambio                   |
+| Entrada          | Paralelogramo con flecha hacia dentro | Captura los datos del usuario                   |
+| Proceso          | Rectángulo con flecha hacia afuera | Realiza el cálculo del cambio                   |
 | Salida           | Paralelogramo     | Muestra el resultado del cálculo                |
 | Fin              | Óvalo             | Finaliza el algoritmo                           |
 
@@ -233,8 +233,8 @@ El diagrama de flujo de este algoritmo representa gráficamente el pseudocódigo
 
 2. **Entrada de datos**  
    - Se usan **paralelogramos** para mostrar operaciones de entrada/salida:
-     - Mostrar mensaje: *¿Con cuánto dinero se paga el producto?*
-     - Leer valor: `dineroInicial`
+     - Mostrar mensaje, figura con una flecha hacia dentro: *¿Con cuánto dinero se paga el producto?*
+     - Leer valor, figura con una flecha hacia afuera: `dineroInicial`
      - Mostrar mensaje: *¿Cuál es el precio del producto?*
      - Leer valor: `PrecioProducto`
 
@@ -337,31 +337,31 @@ El desarrollo de los ejercicios en clase se realizó en el entorno de programaci
 
 El lenguaje C es uno de los más utilizados en la enseñanza de programación por su estructura clara, cercanía al hardware y potencia. [4]
 
-🔹 Características principales del lenguaje C
+🔹 *Características principales del lenguaje C*
 - Codificación estructurada: La conversión de pseudocódigo a C requiere adaptar la lógica, declarar variables, incluir librerías y respetar la sintaxis del lenguaje.
 - Archivos fuente: Los programas se guardan con extensión .c y se compilan para generar ejecutables (.exe en Windows).
 - Función principal: Todo programa en C inicia en la función main().
 
-📚 Librerías o bibliotecas
+📚 *Librerías o bibliotecas*
 - Son archivos con extensión .h que contienen funciones reutilizables.
 - La más importante es stdio.h, que permite manejar entrada y salida de datos.
 - Otras comunes: stdlib.h, string.h, math.h, time.h.
 
-🧮 Tipos de datos y variables
+🧮 *Tipos de datos y variables*
 - Tipos simples: int, float, char, double, entre otros.
 - Las variables deben declararse antes de usarse y pueden inicializarse al momento de la declaración.
 - Las cadenas de texto se manejan como arreglos de tipo char.
 
-📌 Constantes
+📌 *Constantes*
 - Se pueden declarar con const o con #define.
 - Ejemplo: const float PI = 3.1416; o #define PI 3.1416.
 
-➕ Asignación y operadores
+➕ *Asignación y operadores*
 - Se usa el signo = para asignar valores.
 - Operadores como ++ y -- permiten incrementar o decrementar variables.
 - Se distingue entre pre-incremento (++x) y post-incremento (x++).
 
-📥 Entrada y salida de datos
+📥 *Entrada y salida de datos*
 - Entrada: scanf() con máscaras como %d, %f, %c, %s.
 - Salida: printf() para mostrar resultados en pantalla.
 - Las máscaras indican el tipo de dato que se lee o imprime.

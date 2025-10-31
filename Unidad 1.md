@@ -80,24 +80,24 @@ Un **algoritmo** no es lo mismo que un **programa (software)** [1].
 | **Programa**  | Es la implementación del algoritmo mediante un lenguaje de programación (como C++, Java o Python) que puede ejecutarse en una computadora. |
 
 #### Elementos Básicos de Algoritmos y Programas
- * **Datos e información**
-   Un **dato** es la unidad mínima de información.
-   La **información** es el resultado del procesamiento de los datos.
- * **Tipos de datos simples**
-   *Enteros:* Valores sin decimales.
-   *Reales:* Valores con punto decimal.
-   *Carácter:* Un solo símbolo o letra.
-   *Cadena:* Conjunto de caracteres.
-   *Lógicos:* Verdadero (True) o Falso (False).
-  * **Identificadores**
-Son los *nombres asignados a variables o constantes*.
-  🔸 **Constantes:** No cambian durante la ejecución.
-  🔹 **Variables:** Pueden cambiar durante la ejecución.
-  * **Instrucciones básicas**
-  *Asignación:* Asigna un valor a una variable.
-  *Lectura:* Permite ingresar datos.
-  *Escritura:* Muestra resultados.
-  *Comentarios:* Aclaran el código sin ejecutarse.
+ * **Datos e información** <br>
+   Un **dato** es la unidad mínima de información.<br>
+   La **información** es el resultado del procesamiento de los datos.<br><br>
+ * **Tipos de datos simples**<br>
+   *Enteros:* Valores sin decimales.<br>
+   *Reales:* Valores con punto decimal.<br>
+   *Carácter:* Un solo símbolo o letra.<br>
+   *Cadena:* Conjunto de caracteres.<br>
+   *Lógicos:* Verdadero (True) o Falso (False).<br><br>
+  * **Identificadores**<br>
+Son los *nombres asignados a variables o constantes*.<br>
+  🔸 **Constantes:** No cambian durante la ejecución.<br>
+  🔹 **Variables:** Pueden cambiar durante la ejecución.<br><br>
+  * **Instrucciones básicas**<br>
+  *Asignación:* Asigna un valor a una variable.<br>
+  *Lectura:* Permite ingresar datos.<br>
+  *Escritura:* Muestra resultados.<br>
+  *Comentarios:* Aclaran el código sin ejecutarse.<br>
 ---
 ### 🔹 3. **REPRESENTACIÓN DE ALGORITMOS**
 
@@ -503,8 +503,8 @@ Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
 📎 [**ANEXO 4**](UNIDAD%201/PSeIntALenguajeC)
 
 <br>
----
 
+---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 Durante el proceso de aprendizaje, enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:

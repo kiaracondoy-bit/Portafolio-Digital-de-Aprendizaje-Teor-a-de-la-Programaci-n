@@ -72,7 +72,7 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*. [1]
 ---
 
 ### 🔹 2. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
-Un **algoritmo** no es lo mismo que un **programa (software)**.
+Un **algoritmo** no es lo mismo que un **programa (software)**.[1]
 | Concepto      | Descripción                                                                                                                             |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | **Algoritmo** | Es el método lógico o conjunto de pasos para resolver un problema.                                                                         |
@@ -503,6 +503,7 @@ Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
 
 <br>
 ---
+
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 Durante el proceso de aprendizaje, una de las principales dificultades que enfrenté fue comprender la diferencia entre constantes, variables e identificadores, ya que al inicio estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica. También me costó adaptarme a la forma en que se “lee” un programa en lenguaje C, especialmente al interpretar correctamente las instrucciones y entender su lógica. Otro aspecto que me generó dudas fue el uso de símbolos como % y &. En el caso del operador %, me tomó tiempo entender que se utiliza para obtener el residuo de una división entre enteros. En cuanto al operador &, me resultó confuso al principio porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente. Sin embargo, con la práctica y el acompañamiento en clase, fui aclarando estas dudas y logrando una mejor comprensión de la estructura del lenguaje.

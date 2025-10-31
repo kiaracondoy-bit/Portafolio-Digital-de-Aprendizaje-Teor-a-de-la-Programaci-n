@@ -214,8 +214,8 @@ El **diagrama de flujo** es la **representación gráfica** de un algoritmo medi
 | Elemento         | Tipo de símbolo   | Descripción                                     |
 |------------------|-------------------|-------------------------------------------------|
 | Inicio           | Óvalo             | Marca el comienzo del algoritmo                 |
-| Entrada          | Paralelogramo     | Captura los datos del usuario                   |
-| Proceso          | Rectángulo        | Realiza el cálculo del cambio                   |
+| Entrada          | Paralelogramo con felcha hacia dentro | Captura los datos del usuario                   |
+| Proceso          | Rectángulo con felcha hacia afuera | Realiza el cálculo del cambio                   |
 | Salida           | Paralelogramo     | Muestra el resultado del cálculo                |
 | Fin              | Óvalo             | Finaliza el algoritmo                           |
 

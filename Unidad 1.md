@@ -11,8 +11,8 @@
      1.1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)<br>
      1.2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)<br>
      1.3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)<br>
-          - [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)<br>
-          - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)<br>
+          	- [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)<br>
+         	 - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)<br>
      1.4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)<br>
      1.5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)<br>
      1.6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)<br>

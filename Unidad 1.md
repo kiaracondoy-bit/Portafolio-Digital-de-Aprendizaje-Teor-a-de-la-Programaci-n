@@ -22,12 +22,12 @@
 2. [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)<br>
 
    	 ***Aprendizaje Autónomo***<br>
-	 2.1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)]()<br>
-  	 2.2. [Instalación de lenguajes de programación (C, Python o Java)]()<br>
+	 2.1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Unidad%201.md#herramientas-de-algoritmos-pseudoc%C3%B3digo-y-diagramas-de-flujo)<br>
+  	 2.2. [Instalación de lenguajes de programación (C, Python o Java)](Unidad%201.md#instalaci%C3%B3n-de-lenguajes-de-programaci%C3%B3n-c-python-o-java)<br>
 
 	 ***Aprendizaje Práctico Experimental***<br>
-     2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo]()<br>
-     2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa]()<br>
+     2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](Unidad%201.md#primer-acercamiento-a-la-construcci%C3%B3n-de-algoritmos-con-estructuras-secuenciales-en-pseudoc%C3%B3digo)<br>
+     2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](Unidad%201.md#del-dise%C3%B1o-del-algoritmo-con-estructuras-secuenciales-a-la-construcci%C3%B3n-del-programa)<br>
 	 
 3. [ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
 <br>

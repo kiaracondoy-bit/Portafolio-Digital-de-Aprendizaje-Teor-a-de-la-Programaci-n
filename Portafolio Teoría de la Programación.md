@@ -28,17 +28,17 @@
 
 ---
 ### UNIDAD 2 🧠
-<summary>Ver objetivos y actividades</summary>
+
 
 
 ---
 ### UNIDAD 3 🛠️
-<summary>Ver objetivos y actividades</summary>
+
 
 
 ---
 ### CONCLUSIONES 📝
-- Reflexiona sobre lo aprendido.
+
 
 
 ---

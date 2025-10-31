@@ -6,31 +6,32 @@
 ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
 </div>
 
-1. [CONTENIDOS DE LA UNIDAD](Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
+## 📘 Índice de Contenidos
 
-     1.1. [ALGORITMOS](Unidad%201.md#-1-algoritmos)<br>
-     1.2. [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)<br>
-     1.3. [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)<br>
-          	- [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)<br>
-         	 - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)<br>
-     1.4.  [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)<br>
-     1.5.  [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICAACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)<br>
-     1.6.  [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)<br>
-     1.7.  [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)<br>
+### 1. [CONTENIDOS DE LA UNIDAD](Unidad%201.md#%EF%B8%8F-contenidos-de-la-unidad)
+
+- **1.1.** [ALGORITMOS](Unidad%201.md#-1-algoritmos)  
+- **1.2.** [ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS](Unidad%201.md#-2-elementos-b%C3%A1sicos-de-algoritmos-y-programas)  
+- **1.3.** [REPRESENTACIÓN DE ALGORITMOS](Unidad%201.md#-3-representaci%C3%B3n-de-algoritmos)  
+  - [Pseudocódigo](Unidad%201.md#%EF%B8%8F-pseudoc%C3%B3digo)  
+  - [Diagrama de Flujo](Unidad%201.md#-diagrama-de-flujo)  
+- **1.4.** [PROGRAMACIÓN POR BLOQUES](Unidad%201.md#-4-programaci%C3%B3n-por-bloques)  
+- **1.5.** [LENGUAJES DE PROGRAMACIÓN Y SU CLASIFICACIÓN](Unidad%201.md#-5-lenguajes-de-programaci%C3%B3n-y-su-clasificaci%C3%B3n)  
+- **1.6.** [PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS](Unidad%201.md#-6-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)  
+- **1.7.** [REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES](Unidad%201.md#-7-reflexi%C3%B3n-cr%C3%ADtica-sobre-los-aprendizajes)
 
 
-2. [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)<br>
+### 2. [TAREAS ENTREGADAS Y ACTIVIDADES ELABORADAS](Unidad%201.md#%EF%B8%8F-tareas-entregadas-y-actividades-elaboradas)
 
-   	 ***Aprendizaje Autónomo***<br>
-	 2.1. [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Unidad%201.md#herramientas-de-algoritmos-pseudoc%C3%B3digo-y-diagramas-de-flujo)<br>
-  	 2.2. [Instalación de lenguajes de programación (C, Python o Java)](Unidad%201.md#instalaci%C3%B3n-de-lenguajes-de-programaci%C3%B3n-c-python-o-java)<br>
+#### ✏️ *Aprendizaje Autónomo*
+- **2.1.** [Herramientas de algoritmos (pseudocódigo y diagramas de flujo)](Unidad%201.md#herramientas-de-algoritmos-pseudoc%C3%B3digo-y-diagramas-de-flujo)  
+- **2.2.** [Instalación de lenguajes de programación (C, Python o Java)](Unidad%201.md#instalaci%C3%B3n-de-lenguajes-de-programaci%C3%B3n-c-python-o-java)
 
-	 ***Aprendizaje Práctico Experimental***<br>
-     2.3. [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](Unidad%201.md#primer-acercamiento-a-la-construcci%C3%B3n-de-algoritmos-con-estructuras-secuenciales-en-pseudoc%C3%B3digo)<br>
-     2.4. [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](Unidad%201.md#del-dise%C3%B1o-del-algoritmo-con-estructuras-secuenciales-a-la-construcci%C3%B3n-del-programa)<br>
-	 
-3. [ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
-<br>
+#### 🧪 *Aprendizaje Práctico Experimental*
+- **2.3.** [Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](Unidad%201.md#primer-acercamiento-a-la-construcci%C3%B3n-de-algoritmos-con-estructuras-secuenciales-en-pseudoc%C3%B3digo)  
+- **2.4.** [Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](Unidad%201.md#del-dise%C3%B1o-del-algoritmo-con-estructuras-secuenciales-a-la-construcci%C3%B3n-del-programa)
+
+### 3. [📎 ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
 
 ---
 
@@ -506,16 +507,32 @@ Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
 
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
-Durante el proceso de aprendizaje, una de las principales dificultades que enfrenté fue comprender la diferencia entre constantes, variables e identificadores, ya que al inicio estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica. También me costó adaptarme a la forma en que se “lee” un programa en lenguaje C, especialmente al interpretar correctamente las instrucciones y entender su lógica. Otro aspecto que me generó dudas fue el uso de símbolos como % y &. En el caso del operador %, me tomó tiempo entender que se utiliza para obtener el residuo de una división entre enteros. En cuanto al operador &, me resultó confuso al principio porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente. Sin embargo, con la práctica y el acompañamiento en clase, fui aclarando estas dudas y logrando una mejor comprensión de la estructura del lenguaje.
-<br>
+Durante el proceso de aprendizaje, enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:
+- 🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.
+- 🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.
+- 🔸 Uso de símbolos especiales como % y &:
+- El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.
+- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente.
+A pesar de estas dificultades iniciales, con la práctica constante y el apoyo recibido en clase, fui aclarando mis dudas y logré una mejor comprensión de la estructura del lenguaje C.
+
 
 ---
 
 ### 🔹 7. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
-Considero que los contenidos abordados en esta unidad fueron presentados de manera clara y estructurada, lo que facilitó la comprensión de cada tema tratado. A lo largo de las sesiones, se exploraron los fundamentos de los algoritmos y los programas, permitiendo adquirir una base sólida para la elaboración de soluciones en lenguaje C.
-También fue notorio como los temas fueron adecuados para un estudiante que inicia en el mundo de la programación, ya que se explicaron de forma concisa y progresiva. Gracias a ello, pude comprender con mayor profundidad conceptos clave como la diferencia entre algoritmo y programa, la lógica secuencial, la prioridad de operadores, la representación de diagramas de flujo y el uso de herramientas digitales aplicadas al desarrollo de software.
-En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a construir programas funcionales, entendiendo no solo la sintaxis del lenguaje, sino también la lógica detrás de cada instrucción. Me siento preparada para seguir avanzando en el aprendizaje de la programación con una base firme y clara.
+🧠 7. REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES
+- ✅ Considero que los contenidos abordados en esta unidad fueron presentados de manera clara y estructurada, lo que facilitó la comprensión de cada tema tratado.
+- 📚 A lo largo de las sesiones, se exploraron los fundamentos de los algoritmos y los programas, permitiendo adquirir una base sólida para la elaboración de soluciones en lenguaje C.
+- 👩‍💻 Los temas fueron adecuados para un estudiante que inicia en el mundo de la programación, ya que se explicaron de forma concisa y progresiva.
+- 🔍 Gracias a ello, pude comprender con mayor profundidad conceptos clave como:
+- La diferencia entre algoritmo y programa
+- La lógica secuencial
+- La prioridad de operadores
+- La representación de diagramas de flujo
+- El uso de herramientas digitales aplicadas al desarrollo de software
+- 🛠️ En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a construir programas funcionales, entendiendo no solo la sintaxis del lenguaje, sino también la lógica detrás de cada instrucción.
+- 🚀 Me siento preparada para seguir avanzando en el aprendizaje de la programación con una base firme y clara.
+
 <br>
 
 ---

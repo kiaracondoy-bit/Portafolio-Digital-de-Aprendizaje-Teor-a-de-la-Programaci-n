@@ -43,8 +43,8 @@
 
 ---
 ### DECLARACIÓN DE IA 📚
-> **Nota:** Durante la creación de este portafolio, utilicé herramientas de inteligencia artificial como apoyo para organizar contenidos, consultar la aplicación de enlaces en Markdown, revisar la redacción de descripciones claras y mejorar la presentación general del material.  
-> La IA llamada **Copilot** me permitió optimizar el proceso de edición y estructuración, sin reemplazar mi participación activa ni el desarrollo personal de los contenidos académicos.
+> **Durante la creación de este portafolio, utilicé herramientas de inteligencia artificial como apoyo para organizar contenidos, consultar la aplicación de enlaces en Markdown, revisar la redacción de descripciones claras y mejorar la presentación general del material.**  
+> **La IA llamada *Copilot* me permitió optimizar el proceso de edición y estructuración, sin reemplazar mi participación activa ni el desarrollo personal de los contenidos académicos.**
 
 ---
 ### BIBLIOGRAFÍA 📚

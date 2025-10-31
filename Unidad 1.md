@@ -39,7 +39,7 @@
 ### 🔹 1. ALGORITMOS
 
 Un **algoritmo** es una **secuencia finita, ordenada y lógica de pasos** que permiten **resolver** un problema o **realizar** una tarea específica.
-Cada paso debe ser *claro, preciso* y producir un resultado *concreto*. [1]
+Cada paso debe ser *claro, preciso* y producir un resultado *concreto* [1].
 
 ##### Clasificación
 
@@ -72,7 +72,7 @@ Cada paso debe ser *claro, preciso* y producir un resultado *concreto*. [1]
 ---
 
 ### 🔹 2. ELEMENTOS BÁSICOS DE ALGORITMOS Y PROGRAMAS
-Un **algoritmo** no es lo mismo que un **programa (software)**.[1]
+Un **algoritmo** no es lo mismo que un **programa (software)** [1].
 | Concepto      | Descripción                                                                                                                             |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | **Algoritmo** | Es el método lógico o conjunto de pasos para resolver un problema.                                                                         |
@@ -105,7 +105,7 @@ Los algoritmos se pueden representar de dos maneras:
 #### ✏️ PSEUDOCÓDIGO
 
 El **pseudocódigo** es una forma textual y estructurada de representar un algoritmo.
-Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación. [2]
+Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación [2].
 
 ##### 🪜 Pasos para escribir un algoritmo en pseudocódigo
 
@@ -205,7 +205,7 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
 ---
 #### 🔶 DIAGRAMA DE FLUJO
 
-El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección**. [3]
+El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección** [3].
 
    En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo     utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos       del    mismo, como los datos de entrada, los procesos, los datos de salida, entre otros.
 
@@ -336,7 +336,7 @@ El desarrollo de los ejercicios en clase se realizó en el entorno de programaci
 
 #### Lenguaje C
 
-El lenguaje C es uno de los más utilizados en la enseñanza de programación por su estructura clara, cercanía al hardware y potencia. [4]
+El lenguaje C es uno de los más utilizados en la enseñanza de programación por su estructura clara, cercanía al hardware y potencia [4].
 
 🔹 *Características principales del lenguaje C*
 - Codificación estructurada: La conversión de pseudocódigo a C requiere adaptar la lógica, declarar variables, incluir librerías y respetar la sintaxis del lenguaje.

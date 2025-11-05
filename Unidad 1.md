@@ -149,8 +149,10 @@ FinAlgoritmo
       **Entradas**:<br>
         - `dineroInicial`: monto entregado por el comprador.<br>
         - `PrecioProducto`: precio del producto.<br>
+		
       **Proceso**:<br>
         - `cambio = dineroInicial - PrecioProducto`<br>
+		
       **Salida**:<br>
         - Mostrar el cambio que debe recibir el comprador.<br>
 

@@ -457,7 +457,7 @@ Este paso traduce el código fuente a un archivo ejecutable que puede correr en 
 - Ayuda a **detectar errores** y corregirlos.
 ---
 
-**Compilación del ejercicio previo:**
+**Compilación y ejecución del ejercicio previo:**
 
 *Imagen 10: Compilación del programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
 <p align="center"> <img width="1485" height="364" alt="Captura de pantalla 2025-10-29 155739" src="https://github.com/user-attachments/assets/14773594-c49c-4996-865e-db4e5714623b" /> </p>
@@ -483,36 +483,18 @@ Además, la *prueba de escritorio*, confirma la lógica usada:
 
 Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
 📎 [**ANEXO 3**](UNIDAD%201/Ejercicios%20en%20Lenguaje%20C)
-
-
-Podemos ***unificar conocimientos*** y pasar algotirmos de PSeInt a lenguaje C, como el siguiente ejercicio:
-
-En el siguiente ejercicio se resolverá el cálculo del porcentaje de mujeres y hombres en un grupo determinado. 
-
-*Imagen 11: Pseudocódigo en PSeInt de Porcentaje de hombres y mujeres*<br>
-<p align = "center"> <img width="1077" height="765" alt="image" src="https://github.com/user-attachments/assets/7a672583-16d7-4b57-8c5d-219e678a29e5" /></p>
-
-   Para resolver el problema planteado, el algoritmo solicita al usuario que ingrese la cantidad de hombres y mujeres, y con esos datos realiza una operación        matemática rrelacionada a la regla de 3, que permite conocer qué porcentaje representa cada grupo respecto al total. 
-
-*A continuación, se procedió a trasladar el código desarrollado en PSeInt al lenguaje de programación C, adaptando su estructura y lógica para cumplir con la sintaxis propia de dicho lenguaje.*
-
-*Imagen 12: Código en Visual Studio Code de porcentaje de hombres y mujeres*<br>
-<p align "center"> <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/f24dfe3f-6d6b-4bc6-ac76-8d109e93f41b" /> </p>
-
-Vea otro ejemplo de un traslado de pseudocódigo a lenguaje C:
-📎 [**ANEXO 4**](UNIDAD%201/PSeIntALenguajeC)
-
 <br>
 
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 Durante el proceso de aprendizaje, enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:
-- 🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.
-- 🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.
-- 🔸 Uso de símbolos especiales como % y &:
-- El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.
-- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es necesario escribir &variable para que el valor ingresado se almacene correctamente.
+🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.
+🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.
+🔸 Uso de símbolos especiales como % y &:
+    - El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.
+	- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es           necesario escribir &variable para que el valor ingresado se almacene correctamente.
+
 A pesar de estas dificultades iniciales, con la práctica constante y el apoyo recibido en clase, fui aclarando mis dudas y logré una mejor comprensión de la estructura del lenguaje C.
 
 
@@ -520,7 +502,6 @@ A pesar de estas dificultades iniciales, con la práctica constante y el apoyo r
 
 ### 🔹 7. **REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES**
 
-🧠 7. REFLEXIÓN CRÍTICA SOBRE LOS APRENDIZAJES
 - ✅ Considero que los contenidos abordados en esta unidad fueron presentados de manera clara y estructurada, lo que facilitó la comprensión de cada tema tratado.
 - 📚 A lo largo de las sesiones, se exploraron los fundamentos de los algoritmos y los programas, permitiendo adquirir una base sólida para la elaboración de soluciones en lenguaje C.
 - 👩‍💻 Los temas fueron adecuados para un estudiante que inicia en el mundo de la programación, ya que se explicaron de forma concisa y progresiva.

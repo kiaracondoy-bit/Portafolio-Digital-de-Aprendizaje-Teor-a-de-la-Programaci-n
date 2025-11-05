@@ -303,13 +303,13 @@ Los **lenguajes de programación** permiten traducir los algoritmos en programas
 *Lenguajes de alto nivel*: 
 Son más fáciles de aprender y se parecen al lenguaje humano.
 Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser **traducidos** para que la computadora los entienda.
-* *Clasificación según la traducción*
-  🧩 Lenguajes compilados:
-  Traducen todo el código antes de ejecutarse.
-  Ejemplo: C, C++.
-  🪄 Lenguajes interpretados:
-  Traducen línea por línea durante la ejecución.
-  Ejemplo: Python, PHP, JavaScript.
+* *Clasificación según la traducción*<br>
+  🧩 Lenguajes compilados:<br>
+  Traducen todo el código antes de ejecutarse.<br>
+  Ejemplo: C, C++.<br>
+  🪄 Lenguajes interpretados:<br>
+  Traducen línea por línea durante la ejecución.<br>
+  Ejemplo: Python, PHP, JavaScript.<br>
 
 El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
 

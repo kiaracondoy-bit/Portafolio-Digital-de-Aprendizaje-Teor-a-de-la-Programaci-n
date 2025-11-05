@@ -414,7 +414,7 @@ A lo largo del programa se incluyen comentarios para identificar la estructura d
    #### COMPILACIÓN Y EJECUCIÓN EN EL LENGUAJE C
 
    Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC** <br>
-   1. ✅ *Compilación*
+		1. ✅ *Compilación*
 ```bash
 gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 ```
@@ -422,9 +422,8 @@ gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 - `deMetrosAkmcmmm.c`: es el archivo fuente que contiene el código en C.
 - `-o deMetrosAkmcmmm`: indica el nombre del archivo ejecutable que se va a generar.
 
-	Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí. <br>
-
-  2. ▶️ *Ejecución*
+	Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí. <br><br>
+2. ▶️ *Ejecución*
   
   ```bash
   deMetrosAkmcmmm.exe
@@ -463,7 +462,7 @@ Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
 Durante el proceso de aprendizaje, enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:<br>
-🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.<br<
+🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.<br>
 🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.<br>
 🔸 Uso de símbolos especiales como % y &:<br>
     - El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.<br>

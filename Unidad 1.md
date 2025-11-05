@@ -256,13 +256,14 @@ Plataforma educativa en línea diseñada para enseñar conceptos básicos de pro
 En el nivel 7 de esta plataforma, hay que guiar al personaje a través de un laberinto hasta llegar a la meta, usando instrucciones de programación. Para lograrlo, se construye un algoritmo con bloques que simulan decisiones y movimientos, como si fuera un robot que solo obedece lo que tú le programas.
 
 Para resolver el problema, se usa:
-* El bloque de "repetir hasta" que ejecuta instrucciones mientras el personaje no haya llegado al destino. Dentro de ese bucle, se colocó tres condiciones:
-- Si hay camino al frente, el personaje avanza.
-- Si hay camino a la derecha, el personaje gira a la derecha.
-- Si hay camino a la izquierda, el personaje gira a la izquierda.
-Esto permite que el personaje explore el laberinto de forma inteligente, tomando decisiones según los caminos disponibles en cada paso.
+   * El bloque de "repetir hasta" que ejecuta instrucciones mientras el personaje no haya llegado al destino.<br>
+     Dentro de ese bucle, se colocó tres condiciones:
+	  - Si hay camino al frente, el personaje avanza.
+	  - Si hay camino a la derecha, el personaje gira a la derecha.
+	  - Si hay camino a la izquierda, el personaje gira a la izquierda.
+	Esto permite que el personaje explore el laberinto de forma inteligente, tomando decisiones según los caminos disponibles en cada paso.
 
-   * *Al terminar, el código del problema resuelto se presenta como*:<br><br>
+* *Al terminar, el código del problema resuelto se presenta como*:<br><br>
 
    *Imagen 5: Resultado del ejercicio de Blocky Games en el nivel 7*<br>
 <p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /> </p> <br><br>
@@ -282,14 +283,14 @@ También es una plataforma educativa diseñada para enseñar programación princ
 *Imagen 6: Ejercicio de Pilas Bloques* <br>
 <p align = "center"> <img width="1919" height="1032" alt="Captura de pantalla 2025-10-24 094805" src="https://github.com/user-attachments/assets/4e85e6a5-219b-4d0c-a9ac-fbcb4b87d919" /> </p> <br>
 
-En este juego, el objetivo es ayudar a la puma Duba a llegar hasta el churrasco (su comida), evitando los obstáculos como las flores y el agua. Para lograrlo, debes construir una secuencia de instrucciones usando bloques de movimiento y acción.
-"Al empezar a ejecutar", se han colocado los siguientes bloques:
-- Mover a la derecha
-- Mover abajo
-- Comer churrasco
-Esto significa que, al iniciar el programa, la puma se moverá una casilla a la derecha, luego una hacia abajo, y finalmente comerá el churrasco si está en la posición correcta.
+   En este juego, el objetivo es ayudar a la puma Duba a llegar hasta el churrasco (su comida), evitando los obstáculos como las flores y el agua. Para lograrlo,    debes construir una secuencia de instrucciones usando bloques de movimiento y acción.
+   "Al empezar a ejecutar", se han colocado los siguientes bloques:
+	- Mover a la derecha
+	- Mover abajo
+	- Comer churrasco
+	Esto significa que, al iniciar el programa, la puma se moverá una casilla a la derecha, luego una hacia abajo, y finalmente comerá el churrasco si está en la 	posición correcta.
 
-   * *Al terminar la página se presenta como*:<br><br>
+* *Al terminar la página se presenta como*:<br><br>
 
 *Imagen 7: Resultado del ejercicio de Pilas Bloques*<br>
 <p align = "center"> <img width="1919" height="1039" alt="Captura de pantalla 2025-10-24 094820" src="https://github.com/user-attachments/assets/81ad1de1-df70-467c-a0f7-8091224f7e1d" /> </p> <br><br>

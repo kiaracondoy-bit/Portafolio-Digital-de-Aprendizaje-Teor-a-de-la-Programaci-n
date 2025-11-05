@@ -462,12 +462,12 @@ Vea más ejemplos de ejercicios en Visual Studio usando lenguaje C en clase:
 ---
 ### 🔹 6. **PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS**
 
-Durante el proceso de aprendizaje, enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:
-🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.
-🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.
-🔸 Uso de símbolos especiales como % y &:
-    - El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.
-	- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es           necesario escribir &variable para que el valor ingresado se almacene correctamente.
+Durante el proceso de aprendizaje, enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:<br>
+🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.<br<
+🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.<br>
+🔸 Uso de símbolos especiales como % y &:<br>
+    - El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.<br>
+	- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es           necesario escribir &variable para que el valor ingresado se almacene correctamente.<br><br>
 
 A pesar de estas dificultades iniciales, con la práctica constante y el apoyo recibido en clase, fui aclarando mis dudas y logré una mejor comprensión de la estructura del lenguaje C.
 

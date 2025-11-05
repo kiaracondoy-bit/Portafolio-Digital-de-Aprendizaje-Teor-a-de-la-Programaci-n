@@ -117,7 +117,8 @@ Permite **planificar la lógica del programa** sin depender de la sintaxis de un
 5. Mantener un **orden lógico y coherente**.
 6. Revisar la claridad del algoritmo.
 <br>
-📘 **EJERCICIO EN PSEINT DESARROLLADO:**
+
+📘 **EJERCICIO EN PSEINT DESARROLLADO**:
 
 El siguiente algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la plataforma PSeInt:
 
@@ -413,7 +414,7 @@ A lo largo del programa se incluyen comentarios para identificar la estructura d
    #### COMPILACIÓN Y EJECUCIÓN EN EL LENGUAJE C
 
    Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC** <br>
-   	1.  ✅ *Compilación*
+   1. ✅ *Compilación*
 ```bash
 gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 ```
@@ -422,7 +423,9 @@ gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 - `-o deMetrosAkmcmmm`: indica el nombre del archivo ejecutable que se va a generar.
 
 	Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí. <br>
-	2.  ▶️ *Ejecución*
+
+  2. ▶️ *Ejecución*
+  
   ```bash
   deMetrosAkmcmmm.exe
   ```

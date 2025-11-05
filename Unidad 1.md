@@ -119,6 +119,8 @@ Permite **planificar la lógica del programa** sin depender de la sintaxis de un
 <br>
 📘 **EJERCICIO EN PSEINT DESARROLLADO:**
 
+El siguiente algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la plataforma PSeInt:
+
 ```
 Algoritmo d_cambioPorUnProducto
 	//Declaración de Variables
@@ -140,55 +142,20 @@ FinAlgoritmo
 
 ```
 <br>
+
    
-   * 📝 **Redacción explicativa del pseudocódigo "d_cambioPorUnProducto"** <br>
+   * 🔍 **Componentes del algoritmo** <br>
    
-   El algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la plataforma     PSeInt.
-   El algoritmo comienza con la **declaración de variables**, donde se definen `dineroInicial`, `PrecioProducto` y `cambio` como variables de tipo **Real**, ya      que se trabaja con valores de dinero que pueden incluir decimales. Se ubica un comentario que indica el propósito del código de Declarar Variables.
-   
-   Luego se procede a la **entrada de datos**, donde se solicita al usuario que ingrese dos valores: el monto con el que se paga el producto (`dineroInicial`) y     el precio del producto (`PrecioProducto`). Estas instrucciones se realizan mediante la instrucción **Escribir**, que muestra un mensaje en pantalla, seguida      de **Leer**, que captura el valor ingresado por el usuario. Esta sección también está comentada para indicar que se trata de los datos de entrada.
+      **Entradas**:<br>
+        - `dineroInicial`: monto entregado por el comprador.<br>
+        - `PrecioProducto`: precio del producto.<br>
+      **Proceso**:<br>
+        - `cambio = dineroInicial - PrecioProducto`<br>
+      **Salida**:<br>
+        - Mostrar el cambio que debe recibir el comprador.<br>
 
-   Una vez obtenidos los valores, el algoritmo realiza el **proceso de cálculo**, donde se determina el cambio que debe recibir el comprador. Para ello, se resta    el precio del producto al dinero entregado: `cambio = dineroInicial - PrecioProducto`. Esta operación se guarda en la variable `cambio` junto a un comentario     que indica que es el proceso.
-
-   Finalmente, se ejecuta la **salida de datos**, donde se muestra en pantalla el resultado del cálculo. Se utiliza la instrucción **Escribir** para presentar el    mensaje: "El cambio por la compra del producto es: ", seguido del valor almacenado en la variable `cambio`.
-
-El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre del procedimiento. <br>
-
-   * 🔍 **Componentes del algoritmo**
-      **Entradas**:
-        - `dineroInicial`: monto entregado por el comprador.
-        - `PrecioProducto`: precio del producto.
-      **Proceso**:
-        - `cambio = dineroInicial - PrecioProducto`
-      **Salida**:
-        - Mostrar el cambio que debe recibir el comprador.
-
-   * 🔍 **Ejecución del algoritmo**<br><br>
-
-   **Caso 1**:
-  
-*Imagen 1: Ejecución en PSeInt en el primer caso*<br>
-<p align = "center"> <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" /> </p>
-
-   **Caso 2**:
-  
-*Imagen 2: Ejecución en PSeInt en el segundo caso*
-<p align = "center"><img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" /> </p>
-
-  Suponiendo que el usuario paga el producto con *$20.00* y el precio del producto es *$15.65*.
-  el algoritmo solicita:  <br>
-     *¿Con cuánto dinero se paga el producto?* → El usuario ingresa `20.00`  
-     *¿Cuál es el precio del producto?* → El usuario ingresa `15.65`
-
-  En el *proceso*, se calcula el cambio con la fórmula:  
-     `cambio = dineroInicial - PrecioProducto`  
-     `cambio = 20.00 - 15.65`  
-     `cambio = 4.35`
-
-  Finalmente, en la *salida*, el algoritmo muestra en pantalla:  
-     *El cambio por la compra del producto es: 4.35*
-
-*También realizamos pruebas de escritorio para validar la solución del programa:*
+   * 🔍 **Pruebas de escritorio**<br><br>
+*Las realizamos para validar la solución del programa:*
 
 | Dato de Entrada 1      |   Dato de Entrada 2     | Proceso          | Datos de Salida|
 |------------------------|-------------------------|------------------|--------------|
@@ -197,7 +164,19 @@ El algoritmo termina con la instrucción **FinAlgoritmo**, que indica el cierre 
 |	   82.5				 |		 62.25			   | cambio=82.50-62.25|	20.25		|
 
 
-   Con esta comprobamos que la lógica matemática esté correctamente aplicada.
+Con esta comprobamos que la lógica matemática esté correctamente aplicada.
+
+   * 🔍 **Ejecución del algoritmo** <br><br>
+
+      **Caso 1**:
+  
+*Imagen 1: Ejecución en PSeInt en el primer caso*<br>
+<p align = "center"> <img width="522" height="334" alt="image" src="https://github.com/user-attachments/assets/4d3991d1-9f37-4fc1-a8b9-2181479dc757" /> </p>
+
+   **Caso 2**:
+  
+*Imagen 2: Ejecución en PSeInt en el segundo caso*
+<p align = "center"><img width="524" height="338" alt="image" src="https://github.com/user-attachments/assets/480b7a58-df15-4307-b7b8-23af8dcf3bec" /> </p>
 
 
   ***Encuentre los demás algoritmos en PSeInt realizados en clase en:***
@@ -259,7 +238,7 @@ En el siguiente enlace se pueden visualizar más ejemplos de diagramas de flujo 
 La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
 Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
 
-#### 🧰 Herramientas utilizadas
+#### 🧰 Herramientas utilizadas <br><br>
 
 ###### 🧩 **Blockly Games** <br><br>
 Plataforma educativa en línea diseñada para enseñar conceptos básicos de programación a principiantes de forma visual e interactiva. Utiliza bloques gráficos que se arrastran y encajan como piezas de rompecabezas, lo que permite construir algoritmos sin necesidad de escribir código.
@@ -332,10 +311,9 @@ Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser 
   Traducen línea por línea durante la ejecución.
   Ejemplo: Python, PHP, JavaScript.
 
-
 El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
 
-#### Lenguaje C
+#### LENGUAJE C
 
 El lenguaje C es uno de los más utilizados en la enseñanza de programación por su estructura clara, cercanía al hardware y potencia [4].
 
@@ -369,14 +347,11 @@ El lenguaje C es uno de los más utilizados en la enseñanza de programación po
 - Las máscaras indican el tipo de dato que se lee o imprime.
 
 
-*Imagen 8: Logo de VS Code* <br>
-<p align="center"><img width="57" height="42" alt="image" src="https://github.com/user-attachments/assets/913bfa1d-89b2-4951-885d-34b648406d4a" /></p>
-
    En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
 📘 **EJERCICIO EN LENGUAJE C DESARROLLADO EN VISUAL STUDIO CODE**
 
-*Imagen 9: Programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
+*Imagen 8: Programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
 <div align="center">  <img width="1399" height="590" alt="image" src="https://github.com/user-attachments/assets/7f991bd3-4a60-4a6c-8805-42439f11bc5f" /> </div>
 
    * 📝 **Explicación del código**
@@ -431,11 +406,11 @@ return 0;
 A lo largo del programa se incluyen comentarios para identificar la estructura del mismo.
 <br><br>
 <br>
-#### 🧪 **¿Cómo se compila y ejecuta un programa en C?**
 
-Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC**:
+   #### COMPILACIÓN Y EJECUCIÓN EN EL LENGUAJE C
 
-1.  ✅ *Compilación*
+   Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC** <br>
+   	1.  ✅ *Compilación*
 ```bash
 gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 ```
@@ -443,23 +418,16 @@ gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 - `deMetrosAkmcmmm.c`: es el archivo fuente que contiene el código en C.
 - `-o deMetrosAkmcmmm`: indica el nombre del archivo ejecutable que se va a generar.
 
-Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí.
-
- 2.  ▶️ *Ejecución*
+	Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí. <br>
+	2.  ▶️ *Ejecución*
   ```bash
   deMetrosAkmcmmm.exe
   ```
-- Este comando ejecuta el programa que acabas de compilar en **Windows**.
+  Este comando ejecuta el programa que acabas de compilar en **Windows**.
 
+📘 **COMPILACIÓN Y EJECUCIÓN DEL EJERCICIO PREVIO**
 
-*  🎯 *¿Por qué es importante?*
-- Permite **ver los resultados reales** del código.
-- Ayuda a **detectar errores** y corregirlos.
----
-
-**Compilación y ejecución del ejercicio previo:**
-
-*Imagen 10: Compilación del programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
+*Imagen 9: Compilación del programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
 <p align="center"> <img width="1485" height="364" alt="Captura de pantalla 2025-10-29 155739" src="https://github.com/user-attachments/assets/14773594-c49c-4996-865e-db4e5714623b" /> </p>
 
 🧮 Este es un ejemplo de ejecución:
@@ -496,7 +464,6 @@ Durante el proceso de aprendizaje, enfrenté varias dificultades que logré supe
 	- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es           necesario escribir &variable para que el valor ingresado se almacene correctamente.
 
 A pesar de estas dificultades iniciales, con la práctica constante y el apoyo recibido en clase, fui aclarando mis dudas y logré una mejor comprensión de la estructura del lenguaje C.
-
 
 ---
 

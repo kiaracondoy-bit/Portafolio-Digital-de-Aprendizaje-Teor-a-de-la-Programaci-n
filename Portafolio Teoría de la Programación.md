@@ -20,9 +20,8 @@
 - [UNIDAD 2]() 🧠
 - [UNIDAD 3]() 🛠️
 - [CONCLUSIONES]() 📝
-- [REFERENCIAS]() 📚
 - [DECLARACIÓN DE IA]()
-- [BIBLIOGRAFÍA]()
+- [BIBLIOGRAFÍA]() 📚
    
 <br><br>
 

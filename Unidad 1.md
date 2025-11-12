@@ -3,7 +3,7 @@
 ---
  <div align="center">  
 	 
-### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMASS ✨<br><br>
+### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMAS ✨<br><br>
 </div>
 
 ## 📘 Índice de Contenidos

@@ -104,7 +104,7 @@ Los algoritmos se pueden representar de dos maneras:
    El **pseudocódigo** es una forma textual y estructurada de representar un algoritmo.
    Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación [2].
 
-##### 🪜 Pasos para escribir un algoritmo en pseudocódigo
+##### Pasos para escribir un algoritmo en pseudocódigo
 
   1. Identificar **entradas, procesos y salidas**.
   2. Usar palabras clave como **Inicio**, **Leer**, **Escribir**, **Si**, **Mientras**, **Fin**, etc.
@@ -188,7 +188,7 @@ Con esta comprobamos que la lógica matemática esté correctamente aplicada.
 
    En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo     utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos       del    mismo, como los datos de entrada, los procesos, los datos de salida, entre otros.
 
-   * 🧠 **Componentes clave en PSeInt**
+* **Componentes clave en PSeInt**
 
 | Elemento         | Tipo de símbolo   | Descripción                                     |
 |------------------|-------------------|-------------------------------------------------|
@@ -204,7 +204,7 @@ Con esta comprobamos que la lógica matemática esté correctamente aplicada.
 *Imagen 3: Diagrama de flujo en PSeInt*<br>
 <p align = "center"><img width="1919" height="1138" alt="image" src="https://github.com/user-attachments/assets/0c060d3d-7cb3-4e67-b7a8-379850348060" /></p>
 
-   * 📝 **Explicación del diagrama de flujo: "d_cambioPorUnProducto"**
+* **Explicación del diagrama de flujo: "d_cambioPorUnProducto"**
 
 El diagrama de flujo de este algoritmo representa gráficamente el pseudocódigo desarrollado en el ejercicio previo.
 1. **Inicio**  
@@ -237,7 +237,7 @@ En el siguiente enlace se pueden visualizar más ejemplos de diagramas de flujo 
 La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
 Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
 
-### 🧰 Herramientas utilizadas <br><br>
+### HERRAMIENTAS UTILIZADAS <br><br>
 
    #### 🧩 **Blockly Games** <br><br>
  Plataforma educativa en línea diseñada para enseñar conceptos básicos de programación a principiantes de forma visual e interactiva. Utiliza bloques gráficos     que se arrastran y encajan como piezas de rompecabezas, lo que permite construir algoritmos sin necesidad de escribir código.
@@ -321,31 +321,29 @@ El lenguaje C es uno de los más utilizados en la enseñanza de programación po
 - Archivos fuente: Los programas se guardan con extensión .c y se compilan para generar ejecutables (.exe en Windows).
 - Función principal: Todo programa en C inicia en la función main().
 
-📚 *Librerías o bibliotecas*
-- Son archivos con extensión .h que contienen funciones reutilizables.
-- La más importante es stdio.h, que permite manejar entrada y salida de datos.
-- Otras comunes: stdlib.h, string.h, math.h, time.h.
+- *Librerías o bibliotecas*
+	- Son archivos con extensión .h que contienen funciones reutilizables.
+	- La más importante es stdio.h, que permite manejar entrada y salida de datos.
+	- Otras comunes: stdlib.h, string.h, math.h, time.h.
 
-🧮 *Tipos de datos y variables*
-- Tipos simples: int, float, char, double, entre otros.
-- Las variables deben declararse antes de usarse y pueden inicializarse al momento de la declaración.
-- Las cadenas de texto se manejan como arreglos de tipo char.
+- *Tipos de datos y variables*
+	- Tipos simples: int, float, char, double, entre otros.
+	- Las variables deben declararse antes de usarse y pueden inicializarse al momento de la declaración.
+	- Las cadenas de texto se manejan como arreglos de tipo char.
 
-📌 *Constantes*
-- Se pueden declarar con const o con #define.
-- Ejemplo: const float PI = 3.1416; o #define PI 3.1416.
+- *Constantes*
+	- Se pueden declarar con const o con #define.
+	- Ejemplo: const float PI = 3.1416; o #define PI 3.1416.
 
-➕ *Asignación y operadores*
-- Se usa el signo = para asignar valores.
-- Operadores como ++ y -- permiten incrementar o decrementar variables.
-- Se distingue entre pre-incremento (++x) y post-incremento (x++).
+- *Asignación y operadores*
+	- Se usa el signo = para asignar valores.
+	- Operadores como ++ y -- permiten incrementar o decrementar variables.
+	- Se distingue entre pre-incremento (++x) y post-incremento (x++).
 
-📥 *Entrada y salida de datos*
-- Entrada: scanf() con máscaras como %d, %f, %c, %s.
-- Salida: printf() para mostrar resultados en pantalla.
-- Las máscaras indican el tipo de dato que se lee o imprime.
-
-En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
+- *Entrada y salida de datos*
+	- Entrada: scanf() con máscaras como %d, %f, %c, %s.
+	- Salida: printf() para mostrar resultados en pantalla.
+	- Las máscaras indican el tipo de dato que se lee o imprime.
 
 📘 **EJERCICIO EN LENGUAJE C DESARROLLADO EN VISUAL STUDIO CODE**
 

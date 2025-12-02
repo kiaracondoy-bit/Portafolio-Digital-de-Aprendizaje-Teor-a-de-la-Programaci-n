@@ -403,7 +403,7 @@ A lo largo del programa se incluyen comentarios para identificar la estructura d
 <br><br>
 <br>
 
-   #### Compilación y Ejecución en el Lenguaje C
+   ### * Compilación y Ejecución en el Lenguaje C
 
    Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC** <br>
 		1. *Compilación*

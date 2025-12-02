@@ -265,7 +265,7 @@ Para resolver el problema, se usa:
 * *Al terminar, el código del problema resuelto se presenta como*:<br><br>
 
    *Imagen 5: Resultado del ejercicio de Blocky Games en el nivel 7*<br>
-<p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /> </p> <br><br>
+<p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /> </p> <br>
 
 ##### 🎮 **Pilas Bloques**
   También es una plataforma educativa diseñada para enseñar programación principiantes, orientada específicamente a jóvenes, de forma visual y divertida. Utiliza   bloques gráficos que se arrastran y encajan para construir instrucciones, lo que permite aprender lógica de programación sin necesidad de escribir código.
@@ -303,14 +303,14 @@ Los **lenguajes de programación** permiten traducir los algoritmos en programas
 Son más fáciles de aprender y se parecen al lenguaje humano.
 Los programas escritos en ellos se llaman **programas fuente**, y necesitan ser **traducidos** para que la computadora los entienda.
 * *Clasificación según la traducción*<br>
-  🧩 Lenguajes compilados:<br>
+  - Lenguajes compilados:<br>
   Traducen todo el código antes de ejecutarse.<br>
   Ejemplo: C, C++.<br>
-  🪄 Lenguajes interpretados:<br>
+  - Lenguajes interpretados:<br>
   Traducen línea por línea durante la ejecución.<br>
   Ejemplo: Python, PHP, JavaScript.<br>
 
-El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. Visual Studio Code (VS Code) es un editor de código fuente que permite escribir, ejecutar y depurar programas en diversos lenguajes, incluido C. Su interfaz amigable, junto con funciones como el resaltado de sintaxis, la integración de terminal y extensiones personalizadas, facilita el aprendizaje y la práctica de la programación de manera eficiente y organizada.
+El desarrollo de los ejercicios en clase se realizó en el entorno de programación Visual Studio Code, una herramienta moderna y multiplataforma utilizada ampliamente por programadores. 
 
 #### LENGUAJE C
 
@@ -345,8 +345,7 @@ El lenguaje C es uno de los más utilizados en la enseñanza de programación po
 - Salida: printf() para mostrar resultados en pantalla.
 - Las máscaras indican el tipo de dato que se lee o imprime.
 
-
-   En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
+En clase se trabajó con el lenguaje de programación C, que es un lenguaje compilado, a continuación se presentará un código escrito en lenguaje C:
 
 📘 **EJERCICIO EN LENGUAJE C DESARROLLADO EN VISUAL STUDIO CODE**
 
@@ -406,10 +405,10 @@ A lo largo del programa se incluyen comentarios para identificar la estructura d
 <br><br>
 <br>
 
-   #### COMPILACIÓN Y EJECUCIÓN EN EL LENGUAJE C
+   #### Compilación y Ejecución en el Lenguaje C
 
    Para compilar y ejecutar un programa en C, se siguen estos pasos básicos desde la terminal en **Visual Studio Code** con el compilador **GCC** <br>
-		1. ✅ *Compilación*
+		1. *Compilación*
 ```bash
 gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 ```
@@ -418,7 +417,7 @@ gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 - `-o deMetrosAkmcmmm`: indica el nombre del archivo ejecutable que se va a generar.
 
 	Este paso traduce el código fuente a un archivo ejecutable que puede correr en el sistema. Si hay errores de sintaxis, el compilador los mostrará aquí. <br><br>
-2. ▶️ *Ejecución*
+       2.  *Ejecución*
   
   ```bash
   deMetrosAkmcmmm.exe
@@ -430,7 +429,7 @@ gcc deMetrosAkmcmmm.c -o deMetrosAkmcmmm
 *Imagen 9: Compilación del programa fuente en Lenguaje C sobre transformaciones de m a km, cm y mm*<br>
 <p align="center"> <img width="1485" height="364" alt="Captura de pantalla 2025-10-29 155739" src="https://github.com/user-attachments/assets/14773594-c49c-4996-865e-db4e5714623b" /> </p>
 
-🧮 Este es un ejemplo de ejecución:
+Este es un ejemplo de ejecución:
 Se Ingresó el valor `55` y el programa mostró:
 
 ```

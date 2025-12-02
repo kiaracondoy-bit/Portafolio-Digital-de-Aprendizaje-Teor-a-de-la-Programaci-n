@@ -1,6 +1,3 @@
-[🛑 Volver al Portafolio Digital de Aprendizaje](<https://github.com/kiaracondoy-bit/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n/blob/main/Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#-4-programaci%C3%B3n-por-bloques>)<br><br>
-
----
  <div align="center">  
 	 
 ### 💻 UNIDAD 1: FUNDAMENTOS DE ALGORITMOS Y PROGRAMAS ✨<br><br>
@@ -104,23 +101,22 @@ Son los *nombres asignados a variables o constantes*.<br>
 Los algoritmos se pueden representar de dos maneras:
 
 #### ✏️ PSEUDOCÓDIGO
-
-El **pseudocódigo** es una forma textual y estructurada de representar un algoritmo.
-Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación [2].
+   El **pseudocódigo** es una forma textual y estructurada de representar un algoritmo.
+   Permite **planificar la lógica del programa** sin depender de la sintaxis de un lenguaje de programación [2].
 
 ##### 🪜 Pasos para escribir un algoritmo en pseudocódigo
 
-1. Identificar **entradas, procesos y salidas**.
-2. Usar palabras clave como **Inicio**, **Leer**, **Escribir**, **Si**, **Mientras**, **Fin**, etc.
-3. Escribir **una instrucción por línea**.
-4. Usar **sangría** para indicar jerarquía.
-5. Mantener un **orden lógico y coherente**.
-6. Revisar la claridad del algoritmo.
-<br>
+  1. Identificar **entradas, procesos y salidas**.
+  2. Usar palabras clave como **Inicio**, **Leer**, **Escribir**, **Si**, **Mientras**, **Fin**, etc.
+  3. Escribir **una instrucción por línea**.
+  4. Usar **sangría** para indicar jerarquía.
+  5. Mantener un **orden lógico y coherente**.
+  6. Revisar la claridad del algoritmo.
+  <br>
 
 📘 **EJERCICIO EN PSEINT DESARROLLADO**:
 
-El siguiente algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la plataforma PSeInt:
+   El siguiente algoritmo tiene como finalidad calcular el cambio que debe recibir una persona después de pagar un producto. Este ejercicio se desarrolla en la      plataforma PSeInt:
 
 ```
 Algoritmo d_cambioPorUnProducto
@@ -188,7 +184,7 @@ Con esta comprobamos que la lógica matemática esté correctamente aplicada.
 ---
 #### 🔶 DIAGRAMA DE FLUJO
 
-El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección** [3].
+   El **diagrama de flujo** es la **representación gráfica** de un algoritmo mediante **símbolos estandarizados** y **flechas de dirección** [3].
 
    En clase se practicó y analizó la estructura de los diagramas de flujo mediante una demostración que evidenció cómo, al desarrollar un código en pseudocódigo     utilizando PSeInt, se genera automáticamente su correspondiente diagrama de flujo. Además, se explicó la forma de representación de los distintos elementos       del    mismo, como los datos de entrada, los procesos, los datos de salida, entre otros.
 
@@ -241,10 +237,10 @@ En el siguiente enlace se pueden visualizar más ejemplos de diagramas de flujo 
 La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
 Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
 
-  ### 🧰 Herramientas utilizadas <br><br>
+### 🧰 Herramientas utilizadas <br><br>
 
    #### 🧩 **Blockly Games** <br><br>
-Plataforma educativa en línea diseñada para enseñar conceptos básicos de programación a principiantes de forma visual e interactiva. Utiliza bloques gráficos que se arrastran y encajan como piezas de rompecabezas, lo que permite construir algoritmos sin necesidad de escribir código.
+ Plataforma educativa en línea diseñada para enseñar conceptos básicos de programación a principiantes de forma visual e interactiva. Utiliza bloques gráficos     que se arrastran y encajan como piezas de rompecabezas, lo que permite construir algoritmos sin necesidad de escribir código.
 
    **Características principales**:
    - Basado en el lenguaje visual Blockly de Google.
@@ -272,8 +268,7 @@ Para resolver el problema, se usa:
 <p align = "center"><img width="1214" height="790" alt="Captura de pantalla 2025-10-24 094640" src="https://github.com/user-attachments/assets/2bdf1762-b0c2-4efc-aaa4-35f894ac4fcc" /> </p> <br><br>
 
 ##### 🎮 **Pilas Bloques**
-
-También es una plataforma educativa diseñada para enseñar programación principiantes, orientada específicamente a jóvenes, de forma visual y divertida. Utiliza bloques gráficos que se arrastran y encajan para construir instrucciones, lo que permite aprender lógica de programación sin necesidad de escribir código.
+  También es una plataforma educativa diseñada para enseñar programación principiantes, orientada específicamente a jóvenes, de forma visual y divertida. Utiliza   bloques gráficos que se arrastran y encajan para construir instrucciones, lo que permite aprender lógica de programación sin necesidad de escribir código.
 
    **Características principales**:
    - Basada en el entorno de programación visual **Blockly**.

@@ -241,9 +241,9 @@ En el siguiente enlace se pueden visualizar más ejemplos de diagramas de flujo 
 La **programación por bloques** utiliza **bloques visuales** para construir programas de forma sencilla y gráfica.
 Es ideal para principiantes, ya que fomenta el **pensamiento lógico y la comprensión secuencial**.
 
-#### 🧰 Herramientas utilizadas <br><br>
+  ### 🧰 Herramientas utilizadas <br><br>
 
-###### 🧩 **Blockly Games** <br><br>
+   #### 🧩 **Blockly Games** <br><br>
 Plataforma educativa en línea diseñada para enseñar conceptos básicos de programación a principiantes de forma visual e interactiva. Utiliza bloques gráficos que se arrastran y encajan como piezas de rompecabezas, lo que permite construir algoritmos sin necesidad de escribir código.
 
    **Características principales**:
@@ -465,8 +465,8 @@ Durante el proceso de aprendizaje, enfrenté varias dificultades que logré supe
 🔸 Diferenciar constantes, variables e identificadores: Al inicio, estos conceptos se me presentaban de forma confusa y difícil de distinguir en la práctica.<br>
 🔸 Comprender la lectura de un programa en lenguaje C: Me costó adaptarme a la forma en que se “lee” un programa, especialmente al interpretar correctamente las instrucciones y entender su lógica.<br>
 🔸 Uso de símbolos especiales como % y &:<br>
-    - El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.<br>
-	- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es           necesario escribir &variable para que el valor ingresado se almacene correctamente.<br><br>
+    	- El operador % me tomó tiempo entenderlo, ya que se utiliza para obtener el residuo de una división entre enteros.<br>
+		- El operador & me resultó confuso al principio, porque se usa para obtener la dirección de memoria de una variable, como en la función scanf(), donde es           necesario escribir &variable para que el valor ingresado se almacene correctamente.<br><br>
 
 A pesar de estas dificultades iniciales, con la práctica constante y el apoyo recibido en clase, fui aclarando mis dudas y logré una mejor comprensión de la estructura del lenguaje C.
 
@@ -478,11 +478,11 @@ A pesar de estas dificultades iniciales, con la práctica constante y el apoyo r
 - 📚 A lo largo de las sesiones, se exploraron los fundamentos de los algoritmos y los programas, permitiendo adquirir una base sólida para la elaboración de soluciones en lenguaje C.
 - 👩‍💻 Los temas fueron adecuados para un estudiante que inicia en el mundo de la programación, ya que se explicaron de forma concisa y progresiva.
 - 🔍 Gracias a ello, pude comprender con mayor profundidad conceptos clave como:
-- La diferencia entre algoritmo y programa
-- La lógica secuencial
-- La prioridad de operadores
-- La representación de diagramas de flujo
-- El uso de herramientas digitales aplicadas al desarrollo de software
+	- La diferencia entre algoritmo y programa
+	- La lógica secuencial
+	- La prioridad de operadores
+	- La representación de diagramas de flujo
+	- El uso de herramientas digitales aplicadas al desarrollo de software
 - 🛠️ En conjunto, esta unidad me brindó las herramientas necesarias para comenzar a construir programas funcionales, entendiendo no solo la sintaxis del lenguaje, sino también la lógica detrás de cada instrucción.
 - 🚀 Me siento preparada para seguir avanzando en el aprendizaje de la programación con una base firme y clara.
 

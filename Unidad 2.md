@@ -35,7 +35,26 @@
 
 ---
 
+## 🗂️ CONTENIDOS DE LA UNIDAD
 
+### 1.1. ESTRUCTURAS CONDICIONALES<br>
+	
+### 🔹 Estructura Condicional Simple (if)
+&nbsp;&nbsp;&nbsp;&nbsp;Evalúa una condición booleana. Si la condición es verdadera, ejecuta un bloque de código; si no, no hace nada y continúa.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Es la forma más básica de decisión.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** Elaboración de un algoritmo que acepte un número y muestre en pantalla si es par. <br><br>
+	* **Diagrama de Flujo**<br><p align = "center"><img width="818" height="307" alt="image" src="https://github.com/user-attachments/assets/3cc7a25f-18ce-47c8-b407-c6ddb363b764" /></p>
+	* **Ejercicio en C**
+<p align = "center"><img width="632" height="431" alt="image" src="https://github.com/user-attachments/assets/392727b6-e1da-4ecc-b70c-daa444e648b2" /></p>
+
+
+### 🔹 Estructura Condicional Doble (if - else)
+
+### 🔹 Estructura Condicional Múltiple (switch - case)
+
+### 1.2. ESTRUCTURAS REPETITIVAS
+
+### .3. EJERCICIO COMBINADO
 
 
 

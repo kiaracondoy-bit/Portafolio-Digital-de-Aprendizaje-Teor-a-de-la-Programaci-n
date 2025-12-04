@@ -41,42 +41,48 @@
 	
 ### 🔹 Estructura Condicional Simple (if)
 &nbsp;&nbsp;&nbsp;&nbsp;Evalúa una condición booleana:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Si la condición es verdadera, ejecuta un bloque de código.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✕ Si es falsa, no hace nada y continúa con la ejecución.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;➡ Es la forma más básica de decisión.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** Elaboración de un algoritmo que acepte un número y muestre en pantalla si es par. <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✓** Si la condición es verdadera, ejecuta un bloque de código.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✕** Si es falsa, no hace nada y continúa con la ejecución.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**➡** Es la forma más básica de decisión.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de un algoritmo que acepte un número y muestre en pantalla si es par. <br><br>
 	► **Diagrama de Flujo**<br>
-	<p align = "center"><img width="818" height="307" alt="image" src="https://github.com/user-attachments/assets/3cc7a25f-18ce-47c8-b407-c6ddb363b764" /></p>
+	<p align = "center"><img width="818" height="307" alt="image" src="https://github.com/user-attachments/assets/3cc7a25f-18ce-47c8-b407-c6ddb363b764" /></p><br><p align = "center">*Imagen 1: Diagrama de flujo del ejercicio de la Estructura Condicional Simple (if)* </p><br>
 	► **Ejercicio en C**
-	<p align = "center"><img width="632" height="431" alt="image" src="https://github.com/user-attachments/assets/392727b6-e1da-4ecc-b70c-daa444e648b2" /></p>
+	<p align = "center"><img width="632" height="431" alt="image" src="https://github.com/user-attachments/assets/392727b6-e1da-4ecc-b70c-daa444e648b2" /></p><br><p align = "center">*Imagen 2: Código del ejercicio en C de la Estructura Condicional Simple (if)* </p><br>
 
 ### 🔹 Estructura Condicional Doble (if - else)
 &nbsp;&nbsp;&nbsp;&nbsp;Extiende el if simple para manejar dos caminos posibles:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✓** Uno si la condición es verdadera<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✕** Otro si la condición es falsa.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**➡** Muy útil cuando se debe elegir entre dos opciones mutuamente excluyentes.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** Elaboración de una calculadora que según la letra seleccionada, multiplique, sume, reste o divida.
+&nbsp;&nbsp;&nbsp;&nbsp;**➡** Muy útil cuando se debe elegir entre dos opciones mutuamente excluyentes.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de un algoritmo que acepte un número y muestre en pantalla si es par o impar.<br><br>
 	► **Diagrama de Flujo**<br>
-	<p align = "center"><img width="952" height="303" alt="image" src="https://github.com/user-attachments/assets/d767058d-c352-4be3-9aab-3e9bf00e41ff" />
-</p>
+	<p align = "center"><img width="952" height="303" alt="image" src="https://github.com/user-attachments/assets/d767058d-c352-4be3-9aab-3e9bf00e41ff" /></p><br><p align = "center">*Imagen 3: Diagrama de flujo del ejercicio de la Estructura Condicional Doble (if - else)* </p><br>
 	► **Ejercicio en C**<br>
-	<p align = "center"><img width="628" height="283" alt="image" src="https://github.com/user-attachments/assets/a8efa708-7167-47ac-8f65-eaee0845b99c" /></p>
-
-
+	<br><p align = "center"><img width="628" height="283" alt="image" src="https://github.com/user-attachments/assets/a8efa708-7167-47ac-8f65-eaee0845b99c" /></p><br><p align = "center">*Imagen 4: Código del ejercicio en C de la Estructura Condicional Doble (if - else)* </p><br>
 
 ### 🔹 Estructura Condicional Múltiple (switch - case)
 &nbsp;&nbsp;&nbsp;&nbsp;Permite evaluar distintos casos específicos según el valor de una variable.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Cada valor posible activa un bloque de instrucciones diferente.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Incluye la opción default para manejar cualquier caso no previsto.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**➡** Es práctico cuando existen varias alternativas claramente definidas, como menús o selección de opciones.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** Elaboración de una calculadora que según la letra seleccionada, multiplique, sume, reste o divida.
+&nbsp;&nbsp;&nbsp;&nbsp;**➡** Es práctico cuando existen varias alternativas claramente definidas, como menús o selección de opciones.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de una calculadora que según la letra seleccionada: multiplique, sume, reste o divida.<br><br>
 	► **Diagrama de Flujo**<br>
-	<p align = "center"><img width="1854" height="331" alt="image" src="https://github.com/user-attachments/assets/0fe03695-f0c6-408c-8a31-c5fbe08d6f35" /></p>
+	<p align = "center"><img width="1854" height="331" alt="image" src="https://github.com/user-attachments/assets/0fe03695-f0c6-408c-8a31-c5fbe08d6f35" /></p><br>
 	► **Ejercicio en C**<br>
 	<p align = "center"><img width="1150" height="992" alt="image" src="https://github.com/user-attachments/assets/ba22d11a-a1b0-4ca4-9ca1-bd351280e7c8" /></p>
 
 ### 1.2. ESTRUCTURAS REPETITIVAS
-
+### 🔹 Estructura del Ciclo Mientras (While) 
+&nbsp;&nbsp;&nbsp;&nbsp;Es un bucle condicional en el cual el número de repeticiones depende de las instrucciones y los datos a procesar.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;La condición se comprueba al inicio del ciclo:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➡** Si la condición es verdadera, se ejecuta el bloque de instrucciones; si es falsa, el ciclo no se ejecuta.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Es comúnmente usada cuando no se conoce la cantidad exacta de veces que se repetirá el ciclo.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de un programa donde se sumen los 5 primeros numeros enteros positivos.
+	► **Diagrama de Flujo**<br>
+	<p align = "center"></p>
+	► **Ejercicio en C**<br>
+	<p align = "center"><img width="535" height="359" alt="image" src="https://github.com/user-attachments/assets/8b2a9c21-71a9-4a68-9bfa-134b7b94b446" /></p>
 ### .3. EJERCICIO COMBINADO
 
 

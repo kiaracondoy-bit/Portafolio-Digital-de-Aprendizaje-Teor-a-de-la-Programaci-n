@@ -68,9 +68,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**➡** Es práctico cuando existen varias alternativas claramente definidas, como menús o selección de opciones.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de una calculadora que según la letra seleccionada: multiplique, sume, reste o divida.<br><br>
 	► **Diagrama de Flujo**<br>
-	<p align = "center"><img width="1854" height="331" alt="image" src="https://github.com/user-attachments/assets/0fe03695-f0c6-408c-8a31-c5fbe08d6f35" /></p><br>
+	<p align = "center"><img width="1854" height="331" alt="image" src="https://github.com/user-attachments/assets/0fe03695-f0c6-408c-8a31-c5fbe08d6f35" /></p><br><p align = "center">*Imagen 5: Diagrama de flujo del ejercicio de la Estructura Condicional Múltiple (switch - case)* </p><br>
 	► **Ejercicio en C**<br>
-	<p align = "center"><img width="1150" height="992" alt="image" src="https://github.com/user-attachments/assets/ba22d11a-a1b0-4ca4-9ca1-bd351280e7c8" /></p>
+	<p align = "center"><img width="1150" height="992" alt="image" src="https://github.com/user-attachments/assets/ba22d11a-a1b0-4ca4-9ca1-bd351280e7c8" /></p><br><p align = "center">*Imagen 6: Código del ejercicio en C de la Estructura Condicional Múltiple (switch - case)* </p><br>
 
 ### 1.2. ESTRUCTURAS REPETITIVAS
 ### 🔹 Estructura del Ciclo Mientras (While) 
@@ -78,11 +78,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;La condición se comprueba al inicio del ciclo:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**➡** Si la condición es verdadera, se ejecuta el bloque de instrucciones; si es falsa, el ciclo no se ejecuta.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Es comúnmente usada cuando no se conoce la cantidad exacta de veces que se repetirá el ciclo.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de un programa donde se sumen los 5 primeros numeros enteros positivos.
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de un programa donde se sumen los 5 primeros numeros enteros positivos.<br><br>
 	► **Diagrama de Flujo**<br>
-	<p align = "center"></p>
+	<p align = "center"><img width="436" height="321" alt="image" src="https://github.com/user-attachments/assets/fb7bc693-5c40-4717-af55-2ac950fc0766" /></p><br><p align = "center"> *Imagen 7: Diagrama de flujo del ejercicio de la Estructura del Ciclo Mientras (While)* </p><br>
 	► **Ejercicio en C**<br>
-	<p align = "center"><img width="535" height="359" alt="image" src="https://github.com/user-attachments/assets/8b2a9c21-71a9-4a68-9bfa-134b7b94b446" /></p>
+	<p align = "center"><img width="535" height="359" alt="image" src="https://github.com/user-attachments/assets/8b2a9c21-71a9-4a68-9bfa-134b7b94b446" /></p><br><p align = "center">*Imagen 8: Código del ejercicio en C de la Estructura del Ciclo Mientras (While)* </p><br>
+	
 ### .3. EJERCICIO COMBINADO
 
 

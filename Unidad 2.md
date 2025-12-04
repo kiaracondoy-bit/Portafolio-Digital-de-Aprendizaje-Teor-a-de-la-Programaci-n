@@ -85,10 +85,33 @@
 	<p align = "center"><img width="535" height="359" alt="image" src="https://github.com/user-attachments/assets/8b2a9c21-71a9-4a68-9bfa-134b7b94b446" /></p><p align = "center">*Imagen 8: Código del ejercicio en C de la Estructura del Ciclo Mientras (While)* </p><br>
 
 ### 🔹 Estructura del Ciclo Hacer .. Mientras (Do - while)
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;	
+&nbsp;&nbsp;&nbsp;&nbsp;Es un bucle condicional que comprueba la condición al final del ciclo.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Garantiza que las instrucciones dentro del bucle se ejecuten al menos una vez, independientemente de la condición.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;El ciclo termina cuando la condición se cumple.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Se utiliza cuando se desea asegurar la ejecución inicial de las instrucciones antes de evaluar la condición.<br>
+	► **Diagrama de Flujo**<br>
+	<p align = "center"></p><p align = "center"> *Imagen 9: Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)* </p><br>
+	► **Ejercicio en C**<br>
+	<p align = "center"></p><p align = "center">*Imagen 10: Código del ejercicio en C de la Estructura del Ciclo Hacer .. Mientras (Do - while)* </p><br>
+
+### 🔹 Estructura del Cuclo Para (For)
+&nbsp;&nbsp;&nbsp;&nbsp;Es un bucle de control que repite las acciones del cuerpo del ciclo por un número específico de veces.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Requiere un contador que controla la cantidad de iteraciones.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Se debe especificar:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- El valor de inicio del contador.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- El valor final del contador.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- El valor del paso (incremento o decremento).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Es útil cuando se conoce de antemano la cantidad exacta de repeticiones necesarias.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** Elaboración de un programa donde se sumen los 5 primeros numeros enteros positivos.<br><br>
+	► **Diagrama de Flujo**<br>
+	<p align = "center"></p><p align = "center"> *Imagen 11: Diagrama de flujo del ejercicio de la Estructura del Ciclo Mientras (While)* </p><br>
+	► **Ejercicio en C**<br>
+	<p align = "center"></p><p align = "center">*Imagen 12: Código del ejercicio en C de la Estructura del Ciclo Mientras (While)* </p><br>
+
+
+
+
+
 ### .3. EJERCICIO COMBINADO
 
 

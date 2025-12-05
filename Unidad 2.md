@@ -33,15 +33,15 @@
    * Aplicación de estructuras repetitivas en la resolución de problemas
 
 ## 📘 ÍNDICE DE IMÁGENES
-- [Imagen 1](): Diagrama de flujo del ejercicio de la Estructura Condicional Simple (if)
-- [Imagen 2](): Código del ejercicio en C de la Estructura Condicional Simple (if)
+- [Imagen 1](Unidad%202.md#imagen-1-diagrama-de-flujo-del-ejercicio-de-la-estructura-condicional-simple-if-): Diagrama de flujo del ejercicio de la Estructura Condicional Simple (if)
+- [Imagen 2](Unidad%202.md#imagen-2-c%C3%B3digo-del-ejercicio-en-c-de-la-estructura-condicional-simple-if-): Código del ejercicio en C de la Estructura Condicional Simple (if)
 - [Imagen 3](): Diagrama de flujo del ejercicio de la Estructura Condicional Doble (if - else)
-- [Imagen 4](): Código del ejercicio en C de la Estructura Condicional Doble (if - else)
-- [Imagen 5](): Diagrama de flujo del ejercicio de la Estructura Condicional Múltiple (switch - case)
-- [Imagen 6](): Código del ejercicio en C de la Estructura Condicional Múltiple (switch - case)
-- [Imagen 7](): Diagrama de flujo del ejercicio de la Estructura del Ciclo Mientras (While)
-- [Imagen 8](): Código del ejercicio en C de la Estructura del Ciclo Mientras (While)
-- [Imagen 9](): Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)
+- [Imagen 4](Unidad%202.md#imagen-4-c%C3%B3digo-del-ejercicio-en-c-de-la-estructura-condicional-doble-if---else-): Código del ejercicio en C de la Estructura Condicional Doble (if - else)
+- [Imagen 5](Unidad%202.md#imagen-5-diagrama-de-flujo-del-ejercicio-de-la-estructura-condicional-m%C3%BAltiple-switch---case-): Diagrama de flujo del ejercicio de la Estructura Condicional Múltiple (switch - case)
+- [Imagen 6](Unidad%202.md#imagen-6-c%C3%B3digo-del-ejercicio-en-c-de-la-estructura-condicional-m%C3%BAltiple-switch---case-): Código del ejercicio en C de la Estructura Condicional Múltiple (switch - case)
+- [Imagen 7](Unidad%202.md#-imagen-7-diagrama-de-flujo-del-ejercicio-de-la-estructura-del-ciclo-mientras-while-): Diagrama de flujo del ejercicio de la Estructura del Ciclo Mientras (While)
+- [Imagen 8](Unidad%202.md#imagen-8-c%C3%B3digo-del-ejercicio-en-c-de-la-estructura-del-ciclo-mientras-while-): Código del ejercicio en C de la Estructura del Ciclo Mientras (While)
+- [Imagen 9](Unidad%202.md#-imagen-9-diagrama-de-flujo-del-ejercicio-de-la-estructura-del-ciclo-hacer--mientras-do---while-): Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)
 - [Imagen 10](): Código del ejercicio en C de la Estructura del Ciclo Hacer .. Mientras (Do - while)
   
 ---

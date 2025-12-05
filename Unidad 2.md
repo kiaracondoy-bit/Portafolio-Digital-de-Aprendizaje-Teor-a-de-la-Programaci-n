@@ -105,7 +105,7 @@
 	► **Diagrama de Flujo**<br>
 	<p align = "center"><img width="701" height="460" alt="image" src="https://github.com/user-attachments/assets/978d4687-c109-4537-913a-3aaee99fac93" /></p><p align = "center"> *Imagen 9: Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)* </p><br>
 	► **Ejercicio en C**<br><br>
-	<p align = "center"></p><img width="763" height="433" alt="image" src="https://github.com/user-attachments/assets/6b813939-d52f-4270-8c2d-567b632b1d7f" /><p align = "center">*Imagen 10: Código del ejercicio en C de la Estructura del Ciclo Hacer .. Mientras (Do - while)* </p><br>
+	<p align = "center"><img width="763" height="433" alt="image" src="https://github.com/user-attachments/assets/6b813939-d52f-4270-8c2d-567b632b1d7f" /></p><p align = "center">*Imagen 10: Código del ejercicio en C de la Estructura del Ciclo Hacer .. Mientras (Do - while)* </p><br>
 
 ### 🔹 Estructura del Ciclo Para (For)
 &nbsp;&nbsp;&nbsp;&nbsp;Es un bucle de control que repite las acciones del cuerpo del ciclo por un número específico de veces.<br>

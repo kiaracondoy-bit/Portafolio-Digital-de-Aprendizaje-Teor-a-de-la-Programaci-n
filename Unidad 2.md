@@ -134,10 +134,10 @@
 <br><br>
 	► **Diagrama de Flujo**<br>
 	<p align = "center"><img width="1253" height="562" alt="image" src="https://github.com/user-attachments/assets/a7682b30-16e2-48c7-806f-f9e04dc0c9b1" /></p>
-#### <p align = "center"> *Imagen 11: Diagrama de flujo del ejercicio de la Estructura del Ciclo Mientras (While)* </p><br>
+#### <p align = "center"> *Imagen 11: Diagrama de flujo del ejercicio de la Estructura del Ciclo  Para (For)* </p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;► **Ejercicio en C**<br><br>
 	<p align = "center"><img width="527" height="455" alt="image" src="https://github.com/user-attachments/assets/f0de149a-84f4-4f82-b58f-6d6105a57b4d" /></p>
-#### <p align = "center">*Imagen 12: Código del ejercicio en C de la Estructura del Ciclo Mientras (While)* </p><br>
+#### <p align = "center">*Imagen 12: Código del ejercicio en C de la Estructura del Ciclo  Para (For)* </p><br>
 	
 ---
 ### 1.3. EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA EN PYTHON<br>

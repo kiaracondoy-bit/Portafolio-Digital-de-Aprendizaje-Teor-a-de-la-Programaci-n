@@ -5,32 +5,31 @@
 
 ## 📘 ÍNDICE DE CONTENIDOS
 
-### 1. Contenidos de la Unidad
+### Contenidos de la Unidad
 
-- ***1.1.** [Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)]()*
-  - [Estructura Condicional Simple (Si ..Entonces)]()
-  - [Estructura Condicional Doble (Si ..Entonces, Sino ..)]()
-  - [Estructura Condicional Múltiple (En caso de ....)]()
-- ***1.2.** [Estructuras repetitivas (tipos y ejercicios en diagrama de fl ujo y en C)]()*
-  - [Estructura Mientras]()
-  - [Estructura Hacer .. Mientras (Repetir ..Hasta)]()
-  - [Estructura Para]()
-- ***1.3.** [Ejercicio combinando estructura condicional y repetitiva en Python]()*  
-  - [Descripción del problema]()  
-  - [Diagrama de flujo simplificado]()
-  - [Programa]()
-  - [Verificación]()
-- ***1.4.** [Principales dificultades en la aplicación de los contenidos.]()*  
-- ***1.5.** [Reflexión crítica de los aprendizajes de la unidad.]()*  
-
-### 2. Tareas entregadas y elaboradas
-
-- ***2.1.** [Aprendizaje Autónomo]()*
-   * Diferencias entre los tipos de estructuras condicionales
-   * Cuadro comparativo entre las estructuras repetitivas
-- ***2.3.** [Aprendizaje Práctico Experimental]()*
-   * Aplicación de estructuras condicionales en la resolución de problemas
-   * Aplicación de estructuras repetitivas en la resolución de problemas
+- ***1.** [Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)](Unidad%202.md#11-estructuras-condicionales)*
+  - [Estructura Condicional Simple (Si ..Entonces)](Unidad%202.md#-estructura-condicional-simple-if)
+  - [Estructura Condicional Doble (Si ..Entonces, Sino ..)](Unidad%202.md#-estructura-condicional-doble-if---else)
+  - [Estructura Condicional Múltiple (En caso de ....)](Unidad%202.md#-estructura-condicional-m%C3%BAltiple-switch---case)
+- ***2.** [Estructuras repetitivas (tipos y ejercicios en diagrama de fl ujo y en C)](Unidad%202.md#12-estructuras-repetitivas)*
+  - [Estructura Mientras](Unidad%202.md#-estructura-del-ciclo-mientras-while)
+  - [Estructura Hacer .. Mientras (Repetir ..Hasta)](Unidad%202.md#-estructura-del-ciclo-hacer--mientras-do---while)
+  - [Estructura Para](Unidad%202.md#-estructura-del-ciclo-para-for)
+- ***3.** [Ejercicio combinando estructura condicional y repetitiva en Python](Unidad%202.md#13-ejercicio-combinando-estructura-condicional-y-repetitiva-en-python)*  
+  - [Descripción del problema](Unidad%202.md#-descripci%C3%B3n-del-problema)  
+  - [Diagrama de flujo simplificado](Unidad%202.md#-diagrama-de-flujo-simplificado)
+  - [Programa](Unidad%202.md#-programa)
+  - [Verificación](Unidad%202.md#-verificaci%C3%B3n)
+- ***4.** [Principales dificultades en la aplicación de los contenidos]()*  
+- ***5.** [Reflexión crítica de los aprendizajes de la unidad]()*
+- ***6.** Tareas entregadas y elaboradas*
+	- ***6.1.** [Aprendizaje Autónomo]()*
+   		* Diferencias entre los tipos de estructuras condicionales
+   		* Cuadro comparativo entre las estructuras repetitivas
+	- ***6.2.** [Aprendizaje Práctico Experimental]()*
+   		* Aplicación de estructuras condicionales en la resolución de problemas
+   		* Aplicación de estructuras repetitivas en la resolución de problemas
+  
 
 ## 📘 ÍNDICE DE IMÁGENES
 - [Imagen 1](Unidad%202.md#imagen-1-diagrama-de-flujo-del-ejercicio-de-la-estructura-condicional-simple-if-): Diagrama de flujo del ejercicio de la Estructura Condicional Simple (if)
@@ -43,12 +42,14 @@
 - [Imagen 8](Unidad%202.md#imagen-8-c%C3%B3digo-del-ejercicio-en-c-de-la-estructura-del-ciclo-mientras-while-): Código del ejercicio en C de la Estructura del Ciclo Mientras (While)
 - [Imagen 9](Unidad%202.md#-imagen-9-diagrama-de-flujo-del-ejercicio-de-la-estructura-del-ciclo-hacer--mientras-do---while-): Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)
 - [Imagen 10](): Código del ejercicio en C de la Estructura del Ciclo Hacer .. Mientras (Do - while)
+- [Imagen 11](): Diagrama de flujo del ejercicio de la Estructura del Ciclo  Para (For)
+- [Imagen 12](): Código del ejercicio en C de la Estructura del Ciclo  Para (For)
   
 ---
 
 ## 🗂️ CONTENIDOS DE LA UNIDAD
 
-### 1.1. ESTRUCTURAS CONDICIONALES<br>
+### 1. ESTRUCTURAS CONDICIONALES<br>
 	
 ### 🔹 Estructura Condicional Simple (if)
 &nbsp;&nbsp;&nbsp;&nbsp;Evalúa una condición booleana:<br>
@@ -94,7 +95,7 @@
 	<p align = "center"><img width="1150" height="992" alt="image" src="https://github.com/user-attachments/assets/ba22d11a-a1b0-4ca4-9ca1-bd351280e7c8" /></p>
 #### <p align = "center">*Imagen 6: Código del ejercicio en C de la Estructura Condicional Múltiple (switch - case)* </p><br>
 
-### 1.2. ESTRUCTURAS REPETITIVAS
+### 2. ESTRUCTURAS REPETITIVAS
 ### 🔹 Estructura del Ciclo Mientras (While) 
 &nbsp;&nbsp;&nbsp;&nbsp;Es un bucle condicional en el cual el número de repeticiones depende de las instrucciones y los datos a procesar.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;La condición se comprueba al inicio del ciclo:<br>
@@ -140,7 +141,7 @@
 #### <p align = "center">*Imagen 12: Código del ejercicio en C de la Estructura del Ciclo  Para (For)* </p><br>
 	
 ---
-### 1.3. EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA EN PYTHON<br>
+### 3. EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA EN PYTHON<br>
 ### 🔹 Descripción del problema
 
 ### 🔹 Diagrama de flujo simplificado
@@ -152,9 +153,22 @@
 
 
 
+### 4. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
+
+### 5. REFELXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
 
 
 
+
+
+### 🗂️ 6. TAREAS ENTREGADAS
+
+### 6.1. APRENDIZAJE AUTÓNOMO (AA)
+### 🔹 [Diferencias entre los tipos de estructuras condicionales]()
+### 🔹 [Cuadro comparativo entre las estructuras repetitivas]()
+### 6.2. APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
+### 🔹 [Aplicación de estructuras condicionales en la resolución de problemas]()
+### 🔹 [Aplicación de estructuras repetitivas en la resolución de problemas]()
 
 
 

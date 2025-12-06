@@ -27,14 +27,14 @@
 
 ***5.** [Reflexión crítica de los aprendizajes de la unidad]()*<br>
 
-***6.** Tareas entregadas y elaboradas*<br>
-	- ***6.1.** [Aprendizaje Autónomo]()*
-   		* Diferencias entre los tipos de estructuras condicionales
-   		* Cuadro comparativo entre las estructuras repetitivas
-	- ***6.2.** [Aprendizaje Práctico Experimental]()*
-   		* Aplicación de estructuras condicionales en la resolución de problemas
-   		* Aplicación de estructuras repetitivas en la resolución de problemas
-  
+***6.** [Tareas entregadas y elaboradas]()*<br>
+- [Aprendizaje Autónomo]()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Diferencias entre los tipos de estructuras condicionales<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Cuadro comparativo entre las estructuras repetitivas<br>
+
+- [Aprendizaje Práctico Experimental]()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Aplicación de estructuras condicionales en la resolución de problemas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Aplicación de estructuras repetitivas en la resolución de problemas<br>  
 
 ## 📘 ÍNDICE DE IMÁGENES
 - [Imagen 1](Unidad%202.md#imagen-1-diagrama-de-flujo-del-ejercicio-de-la-estructura-condicional-simple-if-): Diagrama de flujo del ejercicio de la Estructura Condicional Simple (if)

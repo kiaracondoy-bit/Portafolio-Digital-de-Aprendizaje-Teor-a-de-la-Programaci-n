@@ -23,16 +23,16 @@
   - [Programa](Unidad%202.md#-programa)
   - [Verificación](Unidad%202.md#-verificaci%C3%B3n)<br>
 
-***4.** [Principales dificultades en la aplicación de los contenidos]()*<br>
+***4.** [Principales dificultades en la aplicación de los contenidos](Unidad%202.md#4-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)*<br>
 
-***5.** [Reflexión crítica de los aprendizajes de la unidad]()*<br>
+***5.** [Reflexión crítica de los aprendizajes de la unidad](Unidad%202.md#5-refelxi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)*<br>
 
-***6.** [Tareas entregadas y elaboradas]()*<br>
-- [Aprendizaje Autónomo]()<br>
+***6.** [Tareas entregadas y elaboradas](Unidad%202.md#%EF%B8%8F-6-tareas-entregadas)*<br>
+- [Aprendizaje Autónomo](Unidad%202.md#61-aprendizaje-aut%C3%B3nomo-aa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Diferencias entre los tipos de estructuras condicionales<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Cuadro comparativo entre las estructuras repetitivas<br>
 
-- [Aprendizaje Práctico Experimental]()<br>
+- [Aprendizaje Práctico Experimental](Unidad%202.md#62-aprendizaje-pr%C3%A1ctico-experimental-ape)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Aplicación de estructuras condicionales en la resolución de problemas<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Aplicación de estructuras repetitivas en la resolución de problemas<br>  
 
@@ -204,9 +204,3 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 
 ### 🔹 [Aplicación de estructuras repetitivas en la resolución de problemas](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20APE%202.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;El APE2 fue una continuación del APE1, en el que se implementaron estructuras repetitivas para controlar los datos ingresados por el <br>&nbsp;&nbsp;&nbsp;&nbsp;usuario, asegurando que las notas estuvieran dentro del rango permitido. Se añadió un bucle for que permitió aplicar el programa a <br>&nbsp;&nbsp;&nbsp;&nbsp;toda una clase, ingresando la cantidad de alumnos a evaluar y repitiendo las instrucciones las veces necesarias. Finalmente, se <br>&nbsp;&nbsp;&nbsp;&nbsp;elaboró la documentación correspondiente del ejercicio, junto con las respuestas a las preguntas de control, conclusiones y <br>&nbsp;&nbsp;&nbsp;&nbsp;recomendaciones.
-
----
-
-### 3. [📎 ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
-
----

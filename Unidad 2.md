@@ -10,19 +10,19 @@
 ***1.** [Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)](Unidad%202.md#11-estructuras-condicionales)*
   - [Estructura Condicional Simple (Si ..Entonces)](Unidad%202.md#-estructura-condicional-simple-if)
   - [Estructura Condicional Doble (Si ..Entonces, Sino ..)](Unidad%202.md#-estructura-condicional-doble-if---else)
-  - [Estructura Condicional Múltiple (En caso de ....)](Unidad%202.md#-estructura-condicional-m%C3%BAltiple-switch---case)
+  - [Estructura Condicional Múltiple (En caso de ....)](Unidad%202.md#-estructura-condicional-m%C3%BAltiple-switch---case)<br>
 ***2.** [Estructuras repetitivas (tipos y ejercicios en diagrama de fl ujo y en C)](Unidad%202.md#12-estructuras-repetitivas)*
   - [Estructura Mientras](Unidad%202.md#-estructura-del-ciclo-mientras-while)
   - [Estructura Hacer .. Mientras (Repetir ..Hasta)](Unidad%202.md#-estructura-del-ciclo-hacer--mientras-do---while)
   - [Estructura Para](Unidad%202.md#-estructura-del-ciclo-para-for)
-***3.** [Ejercicio combinando estructura condicional y repetitiva en Python](Unidad%202.md#13-ejercicio-combinando-estructura-condicional-y-repetitiva-en-python)*  
+***3.** [Ejercicio combinando estructura condicional y repetitiva en Python](Unidad%202.md#13-ejercicio-combinando-estructura-condicional-y-repetitiva-en-python)*<br>  
   - [Descripción del problema](Unidad%202.md#-descripci%C3%B3n-del-problema)  
   - [Diagrama de flujo simplificado](Unidad%202.md#-diagrama-de-flujo-simplificado)
   - [Programa](Unidad%202.md#-programa)
-  - [Verificación](Unidad%202.md#-verificaci%C3%B3n)
-***4.** [Principales dificultades en la aplicación de los contenidos]()*  
-***5.** [Reflexión crítica de los aprendizajes de la unidad]()*
-***6.** Tareas entregadas y elaboradas*
+  - [Verificación](Unidad%202.md#-verificaci%C3%B3n)<br>
+***4.** [Principales dificultades en la aplicación de los contenidos]()*<br>  
+***5.** [Reflexión crítica de los aprendizajes de la unidad]()*<br>
+***6.** Tareas entregadas y elaboradas*<br>
 	- ***6.1.** [Aprendizaje Autónomo]()*
    		* Diferencias entre los tipos de estructuras condicionales
    		* Cuadro comparativo entre las estructuras repetitivas

@@ -177,7 +177,7 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 &nbsp;&nbsp;&nbsp;&nbsp;Soy consciente de que los conocimientos obtenidos en esta unidad con respecto a los temas de estructuras condicionales y repetitivas son <br>&nbsp;&nbsp;&nbsp;&nbsp;y serán fundamentales a lo largo de mi formación como programadora, ya que permiten **facilitar y optimizar la resolución de <br>&nbsp;&nbsp;&nbsp;&nbsp;problemas** en distintos contextos.
 
 ❃ ***Aporte de la docente en el proceso***  
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **precisa y esencial**, lo que contribuyó de manera significativa al <br>&nbsp;&nbsp;&nbsp;&nbsp;entendimiento y correcta aplicación de las **estructuras condicionales y repetitivas**.
+&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **precisa y esencial**, lo que contribuyó de manera significativa al <br>&nbsp;&nbsp;&nbsp;&nbsp;entendimiento y correcta aplicación de las **estructuras condicionales y repetitivas**.
 
 ❃ ***Valor de los diagramas de flujo***
 <br>&nbsp;&nbsp;&nbsp;&nbsp;El trabajo constante con **diagramas de flujo** resultó especialmente interesante y, al reflexionar, reconozco que es una herramienta <br>&nbsp;&nbsp;&nbsp;&nbsp;muy importante. Estos diagramas permiten **sintetizar la lógica detrás del programa**, lo cual es imperativo en proyectos donde se <br>&nbsp;&nbsp;&nbsp;&nbsp;requiere diseñar soluciones antes de codificarlas. Comprendí que dominar estas herramientas no solo mejora la calidad del código, <br>&nbsp;&nbsp;&nbsp;&nbsp;sino también la **capacidad de planificar soluciones eficientes**. Esto será clave en mi desarrollo profesional y en la creación de <br>&nbsp;&nbsp;&nbsp;&nbsp;programas más estructurados y claros.
@@ -186,7 +186,7 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 ### 🗂️ 6. TAREAS ENTREGADAS
 
 ### 6.1. APRENDIZAJE AUTÓNOMO (AA)
-### 🔹 [Diferencias entre los tipos de estructuras condicionales](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20AA%201.pdf)}
+### 🔹 [Diferencias entre los tipos de estructuras condicionales](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20AA%201.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA1 se elaboró una infografía enfocada en el tema de estructuras condicionales. Para ello, se realizó una investigación 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;que permitió definir los tres tipos de estructuras condicionales revisadas en clase, junto con su respectiva forma de uso. Además, se <br>&nbsp;&nbsp;&nbsp;&nbsp;desarrolló un ejercicio en la plataforma HackerRank, aplicando de manera práctica los conocimientos adquiridos.
 

@@ -156,31 +156,31 @@
 ### 4. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
 Durante el proceso de aprendizaje enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:  
 
-❀ **Estructuras repetitivas (bucles)**  
+❀ ***Estructuras repetitivas (bucles)***  
 &nbsp;&nbsp;&nbsp;&nbsp;Al inicio me resultó complicado comprender el uso de **contadores** y **acumuladores**. No entendía en qué momento debía inicializar cada <br>&nbsp;&nbsp;&nbsp;&nbsp;uno ni cómo aplicarlos según el problema. Con la ayuda del docente y la práctica constante, poco a poco estos conceptos se fueron <br>&nbsp;&nbsp;&nbsp;&nbsp;aclarando y se volvieron más manejables.  
 
-❀ **Comprensión de la lógica detrás del código**  
+❀ ***Comprensión de la lógica detrás del código***  
 &nbsp;&nbsp;&nbsp;&nbsp;En ocasiones me costaba visualizar cómo las instrucciones se ejecutaban paso a paso dentro de un ciclo. Aprendí que es útil trazar el <br>&nbsp;&nbsp;&nbsp;&nbsp;programa manualmente (simularlo en papel) mediante **pruebas de esctritorio** para entender mejor su funcionamiento.  
 
-❀ **Aplicación en diferentes lenguajes**  
+❀ ***Aplicación en diferentes lenguajes***  
 &nbsp;&nbsp;&nbsp;&nbsp;Al principio me limité a trabajar solo en C, pero comprendí que es importante **practicar en otros lenguajes** como Python o Java para <br>&nbsp;&nbsp;&nbsp;&nbsp;fortalecer la lógica y no depender de una sola sintaxis.  
 
-❀ **Gestión del tiempo en la resolución de problemas**  
+❀ ***Gestión del tiempo en la resolución de problemas***  
 &nbsp;&nbsp;&nbsp;&nbsp;Me tomó más tiempo de lo esperado resolver algunos ejercicios, especialmente los que combinaban condicionales y repetitivas. Aprendí que <br>&nbsp;&nbsp;&nbsp;&nbsp;la **organización previa del algoritmo** facilita mucho la codificación posterior.  
 
-❀ **Confianza en mis habilidades**  
+❀ ***Confianza en mis habilidades***  
 &nbsp;&nbsp;&nbsp;&nbsp;Al inicio sentía inseguridad al enfrentar problemas nuevos. Con la práctica y el acompañamiento de la docente, fui ganando confianza y <br>&nbsp;&nbsp;&nbsp;&nbsp;entendí que equivocarse es parte del proceso de aprendizaje.  
 
 ---
 ### 5. REFELXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
-❃ **Importancia de los aprendizajes adquiridos**  
+❃ ***Importancia de los aprendizajes adquiridos***  
 &nbsp;&nbsp;&nbsp;&nbsp;Soy consciente de que los conocimientos obtenidos en esta unidad con respecto a los temas de estructuras condicionales y repetitivas son <br>&nbsp;&nbsp;&nbsp;&nbsp;y serán fundamentales a lo largo de mi formación como programadora, ya que permiten **facilitar y optimizar la resolución de <br>&nbsp;&nbsp;&nbsp;&nbsp;problemas** en distintos contextos.
 
-❃ **Aporte de la docente en el proceso**  
-&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **precisa y esencial**, lo que contribuyó de manera significativa al <br>&nbsp;&nbsp;&nbsp;&nbsp;entendimiento y correcta aplicación de las **estructuras condicionales y repetitivas**.
+❃ ***Aporte de la docente en el proceso***  
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **precisa y esencial**, lo que contribuyó de manera significativa al <br>&nbsp;&nbsp;&nbsp;&nbsp;entendimiento y correcta aplicación de las **estructuras condicionales y repetitivas**.
 
-❃ **Valor de los diagramas de flujo**
-&nbsp;&nbsp;&nbsp;&nbsp;El trabajo constante con **diagramas de flujo** resultó especialmente interesante y, al reflexionar, reconozco que es una herramienta muy <br>&nbsp;&nbsp;&nbsp;&nbsp;importante. Estos diagramas permiten **sintetizar la lógica detrás del programa**, lo cual es imperativo en proyectos donde se <br>&nbsp;&nbsp;&nbsp;&nbsp;requiere diseñar soluciones antes de codificarlas. Comprendí que dominar estas herramientas no solo mejora la calidad del código, <br>&nbsp;&nbsp;&nbsp;&nbsp;sino también la **capacidad de planificar soluciones eficientes**. Esto será clave en mi desarrollo profesional y en la creación de <br>&nbsp;&nbsp;&nbsp;&nbsp;programas más estructurados y claros.
+❃ ***Valor de los diagramas de flujo***
+<br>&nbsp;&nbsp;&nbsp;&nbsp;El trabajo constante con **diagramas de flujo** resultó especialmente interesante y, al reflexionar, reconozco que es una herramienta <br>&nbsp;&nbsp;&nbsp;&nbsp;muy importante. Estos diagramas permiten **sintetizar la lógica detrás del programa**, lo cual es imperativo en proyectos donde se <br>&nbsp;&nbsp;&nbsp;&nbsp;requiere diseñar soluciones antes de codificarlas. Comprendí que dominar estas herramientas no solo mejora la calidad del código, <br>&nbsp;&nbsp;&nbsp;&nbsp;sino también la **capacidad de planificar soluciones eficientes**. Esto será clave en mi desarrollo profesional y en la creación de <br>&nbsp;&nbsp;&nbsp;&nbsp;programas más estructurados y claros.
 
 ---
 ### 🗂️ 6. TAREAS ENTREGADAS

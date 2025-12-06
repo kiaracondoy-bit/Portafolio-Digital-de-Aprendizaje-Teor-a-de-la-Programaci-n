@@ -155,6 +155,7 @@
 
 ### 4. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
 
+
 ### 5. REFELXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
 
 
@@ -164,14 +165,19 @@
 ### 🗂️ 6. TAREAS ENTREGADAS
 
 ### 6.1. APRENDIZAJE AUTÓNOMO (AA)
-### 🔹 [Diferencias entre los tipos de estructuras condicionales]()
-### 🔹 [Cuadro comparativo entre las estructuras repetitivas]()
+### 🔹 [Diferencias entre los tipos de estructuras condicionales](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20AA%201.pdf)}
+&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA1 se elaboró una infografía enfocada en el tema de estructuras condicionales. Para ello, se realizó una investigación que &nbsp;&nbsp;&nbsp;&nbsp;permitió definir los tres tipos de estructuras condicionales revisadas en clase, junto con su respectiva forma de uso. Además, se &nbsp;&nbsp;&nbsp;&nbsp;desarrolló un ejercicio en la plataforma HackerRank, aplicando de manera práctica los conocimientos adquiridos.
+
+
+### 🔹 [Cuadro comparativo entre las estructuras repetitivas](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20AA%202.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA2 se presentó un informe sobre las estructuras o bucles repetitivos. Se llevó a cabo una investigación para definir tres &nbsp;&nbsp;&nbsp;&nbsp;tipos de bucles, describiendo su estructura y mostrando un ejemplo sencillo de aplicación. Posteriormente, se resolvió un ejercicio &nbsp;&nbsp;&nbsp;&nbsp;propuesto en la plataforma OmegaUp, en el cual se implementaron estas estructuras repetitivas. El código fue desarrollado, validado y &nbsp;&nbsp;&nbsp;&nbsp;registrado como evidencia del aprendizaje.
+
 ### 6.2. APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
-### 🔹 [Aplicación de estructuras condicionales en la resolución de problemas]()
-### 🔹 [Aplicación de estructuras repetitivas en la resolución de problemas]()
+### 🔹 [Aplicación de estructuras condicionales en la resolución de problemas](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20APE%201.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo la práctica de las estructuras condicionales. Para ello, se utilizó el ejercicio desarrollado en el examen de &nbsp;&nbsp;&nbsp;&nbsp;la primera unidad, al cual se le añadió una calificación cualitativa para los estudiantes según su nota. Además, se realizó la validación &nbsp;&nbsp;&nbsp;&nbsp;del código y se registraron las respuestas a las preguntas de control, demostrando el dominio del tema.
 
-
-
+### 🔹 [Aplicación de estructuras repetitivas en la resolución de problemas](UNIDAD%202/Teoría%20de%20la%20programación%20-U2-%20APE%202.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;El APE2 fue una continuación del APE1, en el que se implementaron estructuras repetitivas para controlar los datos ingresados por el &nbsp;&nbsp;&nbsp;&nbsp;usuario, asegurando que las notas estuvieran dentro del rango permitido. Se añadió un bucle for que permitió aplicar el programa a toda &nbsp;&nbsp;&nbsp;&nbsp;una clase, ingresando la cantidad de alumnos a evaluar y repitiendo las instrucciones las veces necesarias. Finalmente, se elaboró la &nbsp;&nbsp;&nbsp;&nbsp;documentación correspondiente del ejercicio, junto con las respuestas a las preguntas de control, conclusiones y recomendaciones.
 
 ### 3. [📎 ANEXOS](Unidad%201.md#%EF%B8%8F-anexos)
 

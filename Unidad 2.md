@@ -115,7 +115,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Garantiza que las instrucciones dentro del bucle se ejecuten al menos una vez, independientemente de la condición.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;El ciclo termina cuando la condición se cumple.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Se utiliza cuando se desea asegurar la ejecución inicial de las instrucciones antes de evaluar la condición.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** *Elaboración de un programa donde se cuenta los números positivos introducidos por teclado y se detiene el bucle cuando &nbsp;&nbsp;&nbsp;&nbsp;se lee un número negativo o cero.<br><br>*
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** *Elaboración de un programa donde se cuenta los números positivos introducidos por teclado y se detiene el bucle cuando <br>&nbsp;&nbsp;&nbsp;&nbsp;se lee un número negativo o cero.<br><br>*
 	► **Diagrama de Flujo**<br>
 	<p align = "center"><img width="701" height="460" alt="image" src="https://github.com/user-attachments/assets/978d4687-c109-4537-913a-3aaee99fac93" /></p>
 #### <p align = "center"> *Imagen 9: Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)* </p><br>
@@ -131,7 +131,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- El valor final del contador.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- El valor del paso (incremento o decremento).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Es útil cuando se conoce de antemano la cantidad exacta de repeticiones necesarias.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** *Elaboración de un algoritmo que muestre en pantalla la suma de las siguientes sumas sucesivas: 1/2 + 1/3 + 1/4 + 1/5 &nbsp;&nbsp;&nbsp;&nbsp;+...+ 1/50.*
+&nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** *Elaboración de un algoritmo que muestre en pantalla la suma de las siguientes sumas sucesivas: 1/2 + 1/3 + 1/4 + 1/5 <br>&nbsp;&nbsp;&nbsp;&nbsp;+...+ 1/50.*
 <br><br>
 	► **Diagrama de Flujo**<br>
 	<p align = "center"><img width="1253" height="562" alt="image" src="https://github.com/user-attachments/assets/a7682b30-16e2-48c7-806f-f9e04dc0c9b1" /></p>

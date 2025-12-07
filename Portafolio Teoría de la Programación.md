@@ -19,21 +19,10 @@
 - [UNIDAD 1](Unidad%201.md)
 - [UNIDAD 2]() 🧠
 - [UNIDAD 3]() 🛠️
-- [CONCLUSIONES]() 📝
 - [DECLARACIÓN DE IA]()
 - [BIBLIOGRAFÍA]() 📚
    
 <br><br>
-
----
-### UNIDAD 3 🛠️
-
-
-
----
-### CONCLUSIONES 📝
-
-
 
 ---
 ### DECLARACIÓN DE IA 📚

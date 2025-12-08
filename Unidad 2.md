@@ -29,12 +29,12 @@
 
 ***6.** [Tareas entregadas y elaboradas](Unidad%202.md#%EF%B8%8F-6-tareas-entregadas)*<br>
 - [Aprendizaje Autónomo](Unidad%202.md#61-aprendizaje-aut%C3%B3nomo-aa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Diferencias entre los tipos de estructuras condicionales<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Cuadro comparativo entre las estructuras repetitivas<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [Diferencias entre los tipos de estructuras condicionales](Unidad%202.md#-diferencias-entre-los-tipos-de-estructuras-condicionales)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [Cuadro comparativo entre las estructuras repetitivas](Unidad%202.md#-cuadro-comparativo-entre-las-estructuras-repetitivas)<br>
 
 - [Aprendizaje Práctico Experimental](Unidad%202.md#62-aprendizaje-pr%C3%A1ctico-experimental-ape)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Aplicación de estructuras condicionales en la resolución de problemas<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Aplicación de estructuras repetitivas en la resolución de problemas<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [Aplicación de estructuras condicionales en la resolución de problemas](Unidad%202.md#-aplicaci%C3%B3n-de-estructuras-condicionales-en-la-resoluci%C3%B3n-de-problemas)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [Aplicación de estructuras repetitivas en la resolución de problemas](Unidad%202.md#-aplicaci%C3%B3n-de-estructuras-repetitivas-en-la-resoluci%C3%B3n-de-problemas)<br>  
 
 ## 📘 ÍNDICE DE IMÁGENES
 - [Imagen 1](Unidad%202.md#imagen-1-diagrama-de-flujo-del-ejercicio-de-la-estructura-condicional-simple-if-): Diagrama de flujo del ejercicio de la Estructura Condicional Simple (if)

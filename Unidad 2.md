@@ -148,14 +148,24 @@
 ---
 ### 3. EJERCICIO COMBINANDO ESTRUCTURA CONDICIONAL Y REPETITIVA EN PYTHON<br>
 ### 🔹 Descripción del problema
+Se necesita elaborar un registro de edades. En este:
+- Se pide al usuario ingresar edades de varias personas.
+- Si la edad es negativa, se muestra un mensaje de error y se vuelve a pedir la edad.
+- El ciclo termina cuando se ingresa una edad igual a cero.
+- Luego se muestra cuántas personas son mayores de edad y cúantas con menores
 
 ### 🔹 Diagrama de flujo simplificado
+<p align = "center"><img width="1454" height="1062" alt="image" src="https://github.com/user-attachments/assets/1977d799-387a-4830-aaae-1798c5296a0e" /></p>
 
 ### 🔹 Programa
+<p align = "center"><img width="974" height="573" alt="image" src="https://github.com/user-attachments/assets/bf485165-3c35-48c1-ad77-3f0c778350a2" /></p>
 
 ### 🔹 Verificación
+- Caso 1
+<p align = "center"><img width="969" height="578" alt="image" src="https://github.com/user-attachments/assets/32c42c79-b79a-46ef-aa8f-1c07d4306508" /></p>
 
-
+- Caso 2
+<p align = "center"><img width="605" height="178" alt="image" src="https://github.com/user-attachments/assets/702f317b-7d40-4098-92bc-ca88788c9001" /></p>
 
 ---
 ### 4. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS

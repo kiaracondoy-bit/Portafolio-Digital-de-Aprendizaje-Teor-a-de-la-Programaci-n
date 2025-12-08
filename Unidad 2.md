@@ -162,7 +162,7 @@ Se necesita elaborar un registro de edades. En este:
 
 ### 🔹 Verificación
 - Caso 1
-<p align = "center"><img width="969" height="578" alt="image" src="https://github.com/user-attachments/assets/32c42c79-b79a-46ef-aa8f-1c07d4306508" /></p>
+<p align = "center"><img width="617" height="400" alt="image" src="https://github.com/user-attachments/assets/5207b470-bd0c-4b4c-bbca-2443d2a5b0b2" /></p>
 
 - Caso 2
 <p align = "center"><img width="605" height="178" alt="image" src="https://github.com/user-attachments/assets/702f317b-7d40-4098-92bc-ca88788c9001" /></p>

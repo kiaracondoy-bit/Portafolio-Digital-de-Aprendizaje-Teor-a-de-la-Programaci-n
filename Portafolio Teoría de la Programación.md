@@ -19,8 +19,8 @@
 - [UNIDAD 1](Unidad%201.md)💼
 - [UNIDAD 2](Unidad%202.md) 🧠
 - [UNIDAD 3](Unidad%203.md) 🛠️
-- [DECLARACIÓN DE IA]()
-- [BIBLIOGRAFÍA]() 📚
+- [DECLARACIÓN DE IA](Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#declaraci%C3%B3n-de-ia-)
+- [BIBLIOGRAFÍA](Portafolio%20Teor%C3%ADa%20de%20la%20Programaci%C3%B3n.md#bibliograf%C3%ADa-) 📚
    
 <br><br>
 

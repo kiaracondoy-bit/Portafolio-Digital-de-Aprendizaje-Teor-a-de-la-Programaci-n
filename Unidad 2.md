@@ -48,7 +48,7 @@
 - [Imagen 9](Unidad%202.md#-estructura-del-ciclo-hacer--mientras-do---while): Diagrama de flujo del ejercicio de la Estructura del Ciclo Hacer .. Mientras (Do - while)
 - [Imagen 10](Unidad%202.md#-imagen-9-diagrama-de-flujo-del-ejercicio-de-la-estructura-del-ciclo-hacer--mientras-do---while-): Código del ejercicio en C de la Estructura del Ciclo Hacer .. Mientras (Do - while)
 - [Imagen 11](Unidad%202.md#-estructura-del-ciclo-para-for): Diagrama de flujo del ejercicio de la Estructura del Ciclo Para (For)
-- [Imagen 12](Unidad%202.md#-imagen-11-diagrama-de-flujo-del-ejercicio-de-la-estructura-del-ciclo-para---for-): Código del ejercicio en C de la Estructura del Ciclo Para (For)
+- [Imagen 12](Unidad%202.md#-imagen-11-diagrama-de-flujo-del-ejercicio-de-la-estructura-del-ciclo-para-for-): Código del ejercicio en C de la Estructura del Ciclo Para (For)
   
 ---
 

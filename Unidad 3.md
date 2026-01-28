@@ -33,11 +33,11 @@
 ---
 
 ## 📘 ÍNDICE DE IMÁGENES
-- [Imagen 1: Ejemplo de Paso por Valor: Duplicar un Número]()
-- [Imagen 2: Intercambio de Valores Usando Paso por Referencia]()
-- [Imagen 3: Mostrar el arreglo Unideimensional o lista]()
-- [Imagen 4: Mostrar el arreglo bidimensional o matriz]()
-- [Imagen 5: Mostrar el arreglo tridimensional]()
+- [Imagen 1: Ejemplo de Paso por Valor: Duplicar un Número](Unidad%203.md#-ejemplo-con-pase-de-par%C3%A1metro-por-valor)
+- [Imagen 2: Intercambio de Valores Usando Paso por Referencia](Unidad%203.md#-ejemplo-con-pase-por-referencia)
+- [Imagen 3: Mostrar el arreglo Unideimensional o lista](Unidad%203.md#-unidimensionales-vectorlista)
+- [Imagen 4: Mostrar el arreglo bidimensional o matriz](Unidad%203.md#-bidimensionales--matriz)
+- [Imagen 5: Mostrar el arreglo tridimensional](Unidad%203.md#-tridimensionales)
 
 ---
 
@@ -47,7 +47,7 @@
 	
 ### 🔹 Teoría
 &nbsp;&nbsp;&nbsp;&nbsp;La modularidad consiste en dividir un programa en partes más pequeñas y manejables llamadas módulos. Cada módulo es<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;independiente y cumple una función específica dentro del sistema.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;independiente y cumple una función específica dentro del sistema [4].<br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;***❀ Características principales:*** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Independencia: cada módulo puede desarrollarse, probarse y mantenerse por separado.<br> 
@@ -62,7 +62,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Facilita el trabajo en equipo (cada programador puede trabajar en un módulo distinto).<br> 
 
 ### 🔹 Funciones
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una función es un bloque de código que realiza una tarea específica y puede ser llamado desde cualquier parte del programa.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una función es un bloque de código que realiza una tarea específica y puede ser llamado desde cualquier parte del programa[5].<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Las funciones son una forma de implementar modularidad.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un programa modular se compone de múltiples funciones (o clases/módulos en otros lenguajes).<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada función debe cumplir una sola responsabilidad (principio SRP).<br> <br> 
@@ -173,7 +173,7 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 ❀ ***Comprensión de la lógica detrás de las funciones y arreglos***  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Al principio me resultaba difícil entender cómo se recorrían los arreglos y cómo se integraban con las funciones. Esto ocasionaba <br> &nbsp;&nbsp;&nbsp;&nbsp;errores en la lógica de mis programas. Sin embargo, mediante ejercicios guiados y la repetición de ejemplos prácticos, logré asimilar<br> &nbsp;&nbsp;&nbsp;&nbsp;la importancia de los bucles y la correcta indexación de los arreglos. Ahora reconozco que estas estructuras son esenciales para <br> &nbsp;&nbsp;&nbsp;&nbsp;organizar datos y resolver problemas de manera sistemática.<br>
 
-❀ ***- Aplicación de la modularidad en proyectos***<br>
+❀ ***Aplicación de la modularidad en proyectos***<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Otra dificultad fue dividir correctamente un problema en módulos independientes. Tendía a concentrar demasiada lógica en una sola<br> &nbsp;&nbsp;&nbsp;&nbsp;función, lo que hacía el código menos legible. Con la práctica comprendí que la modularidad no solo facilita la lectura y <br> &nbsp;&nbsp;&nbsp;&nbsp;mantenimiento del programa, sino que también permite reutilizar funciones en diferentes contextos.<br>
 
 ---

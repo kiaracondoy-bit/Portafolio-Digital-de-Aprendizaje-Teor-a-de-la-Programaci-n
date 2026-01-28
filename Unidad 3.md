@@ -33,7 +33,12 @@
 ---
 
 ## 📘 ÍNDICE DE IMÁGENES
-- [Imagen 1](): 
+- [Imagen 1: Ejemplo de Paso por Valor: Duplicar un Número]()
+- [Imagen 2: Intercambio de Valores Usando Paso por Referencia]()
+- [Imagen 3: Mostrar el arreglo Unideimensional o lista]()
+- [Imagen 4: Mostrar el arreglo bidimensional o matriz]()
+- [Imagen 5: Mostrar el arreglo tridimensional]()
+- 
 
 
 ## 🗂️ CONTENIDOS DE LA UNIDAD
@@ -41,7 +46,7 @@
 ### 1. MODULARIDAD<br>
 	
 ### 🔹 Teoría
-&nbsp;&nbsp;&nbsp;&nbsp;La modularidad consiste en dividir un programa en partes más pequeñas y manejables llamadas módulos. Cada módulo es 
+&nbsp;&nbsp;&nbsp;&nbsp;La modularidad consiste en dividir un programa en partes más pequeñas y manejables llamadas módulos. Cada módulo es<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;independiente y cumple una función específica dentro del sistema.<br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;***❀ Características principales:*** <br> 
@@ -124,12 +129,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;***❀ Definición:*** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo unidimensional es una estructura de datos que permite almacenar un conjunto de elementos del mismo<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tipo. Cada elemento del arreglo se identifica mediante un índice, que indica su posición dentro del arreglo.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La primera posición del arreglo tiene un índice de 0, la segunda posición tiene un índice de 1, y así sucesivamente.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La primera posición del arreglo tiene un índice de 0, la segunda posición tiene un índice de 1, y así &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sucesivamente.<br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo unideimensional o lista<br><br>*
 <p align = "center"><img width="676" height="432" alt="image" src="https://github.com/user-attachments/assets/e8a000bb-852d-43c0-a975-2a3760baead8" /></p>
 
-#### <p align = "center">*Imagen 2: Mostrar el arreglo Unideimensional o lista* </p><br>
+#### <p align = "center">*Imagen 3: Mostrar el arreglo Unideimensional o lista* </p><br>
 
 
 ### 🔹 Bidimensionales  (Matriz)
@@ -141,20 +146,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo bidimensional o matriz<br><br>*
 <p align = "center"><img width="906" height="669" alt="image" src="https://github.com/user-attachments/assets/3afb3eb5-c078-4163-8c76-2c31c39d0160" /></p>
 
-#### <p align = "center">*Imagen 2: Mostrar el arreglo bidimensional o matriz* </p><br>
+#### <p align = "center">*Imagen 4: Mostrar el arreglo bidimensional o matriz* </p><br>
 
 
 ### 🔹 Tridimensionales
 
 &nbsp;&nbsp;&nbsp;&nbsp;***❀ Definición:*** <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo tridimensional es una estructura de datos que almacena elementos en tres dimensiones: capas, filas y<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;columnas. Se puede imaginar como una pila de matrices bidimensionales, donde cada matriz representa una capa.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo tridimensional es una estructura de datos que almacena elementos en tres dimensiones: capas, filas <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;y columnas. Se puede imaginar como una pila de matrices bidimensionales, donde cada matriz representa una capa.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En C, se declara especificando el tamaño de cada dimensión.<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo tridimensional<br><br>*
 <p align = "center"><img width="1117" height="718" alt="image" src="https://github.com/user-attachments/assets/5c14e8ef-f91d-455e-a427-afd1ee38851b" /></p>
 
-#### <p align = "center">*Imagen 2: Mostrar el arreglo tridimensional* </p><br>
+#### <p align = "center">*Imagen 5: Mostrar el arreglo tridimensional* </p><br>
 
 
 ---
@@ -162,25 +167,29 @@
 Durante el proceso de aprendizaje enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:  
 
 ❀ ***Parámetros por paso de referencia***  
-&nbsp;&nbsp;&nbsp;&nbsp;Al inicio no comprendía cómo ni por qué se utilizaban los punteros en las funciones. Esto generaba confusión respecto a la modificación<br> &nbsp;&nbsp;&nbsp;&nbsp;de valores dentro de los procedimientos. Con la práctica entendí que el paso por referencia permite que una función altere directamente<br> &nbsp;&nbsp;&nbsp;&nbsp;el valor de las variables originales, lo cual es fundamental para acumular resultados sin necesidad de recurrir a variables globales.<br> &nbsp;&nbsp;&nbsp;&nbsp;Esta comprensión fue clave para mejorar la eficiencia y claridad de mis programas
+&nbsp;&nbsp;&nbsp;&nbsp;Al inicio no comprendía cómo ni por qué se utilizaban los punteros en las funciones. Esto generaba confusión respecto a la <br> &nbsp;&nbsp;&nbsp;&nbsp;modificación de valores dentro de los procedimientos. Con la práctica entendí que el paso por referencia permite que una función <br>
+&nbsp;&nbsp;&nbsp;&nbsp;altere directamente el valor de las variables originales, lo cual es fundamental para acumular resultados sin necesidad de recurrir a<br> &nbsp;&nbsp;&nbsp;&nbsp;variables globales. Esta comprensión fue clave para mejorar la eficiencia y claridad de mis programas.<br>
 
 ❀ ***Comprensión de la lógica detrás de las funciones y arreglos***  
-&nbsp;&nbsp;&nbsp;&nbsp;Al principio me resultaba difícil entender cómo se recorrían los arreglos y cómo se integraban con las funciones. Esto ocasionaba errores<br> &nbsp;&nbsp;&nbsp;&nbsp;en la lógica de mis programas. Sin embargo, mediante ejercicios guiados y la repetición de ejemplos prácticos, logré asimilar la<br> &nbsp;&nbsp;&nbsp;&nbsp;importancia de los bucles y la correcta indexación de los arreglos. Ahora reconozco que estas estructuras son esenciales para organizar<br> &nbsp;&nbsp;&nbsp;&nbsp;datos y resolver problemas de manera sistemática.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Al principio me resultaba difícil entender cómo se recorrían los arreglos y cómo se integraban con las funciones. Esto ocasionaba <br> &nbsp;&nbsp;&nbsp;&nbsp;errores en la lógica de mis programas. Sin embargo, mediante ejercicios guiados y la repetición de ejemplos prácticos, logré asimilar<br> &nbsp;&nbsp;&nbsp;&nbsp;la importancia de los bucles y la correcta indexación de los arreglos. Ahora reconozco que estas estructuras son esenciales para <br> &nbsp;&nbsp;&nbsp;&nbsp;organizar datos y resolver problemas de manera sistemática.<br>
 
 ❀ ***- Aplicación de la modularidad en proyectos***
-&nbsp;&nbsp;&nbsp;&nbsp;Otra dificultad fue dividir correctamente un problema en módulos independientes. Tendía a concentrar demasiada lógica en una sola<br> &nbsp;&nbsp;&nbsp;&nbsp;función, lo que hacía el código menos legible. Con la práctica comprendí que la modularidad no solo facilita la lectura y mantenimiento<br> &nbsp;&nbsp;&nbsp;&nbsp;del programa, sino que también permite reutilizar funciones en diferentes contextos.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Otra dificultad fue dividir correctamente un problema en módulos independientes. Tendía a concentrar demasiada lógica en una sola<br> &nbsp;&nbsp;&nbsp;&nbsp;función, lo que hacía el código menos legible. Con la práctica comprendí que la modularidad no solo facilita la lectura y <br> &nbsp;&nbsp;&nbsp;&nbsp;mantenimiento del programa, sino que también permite reutilizar funciones en diferentes contextos.<br>
 
 ---
 ### 4. REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
 ❃ ***Importancia de los aprendizajes adquiridos***  
-&nbsp;&nbsp;&nbsp;&nbsp;Los contenidos vistos en esta unidad los considero fundamentales, ya que demuestran cómo la programación estructurada y modular permite<br> &nbsp;&nbsp;&nbsp;&nbsp;resolver problemas de manera más ordenada y eficiente. Estos conocimientos no solo son aplicables en el ámbito académico, sino también en<br> &nbsp;&nbsp;&nbsp;&nbsp;el profesional, donde la claridad y la reutilización del código son altamente valoradas.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Los contenidos vistos en esta unidad los considero fundamentales, ya que demuestran cómo la programación estructurada y modular<br>
+&nbsp;&nbsp;&nbsp;&nbsp;permite resolver problemas de manera más ordenada y eficiente. Estos conocimientos no solo son aplicables en el ámbito académico, sino<br>
+&nbsp;&nbsp;&nbsp;&nbsp;también en el profesional, donde la claridad y la reutilización del código son altamente valoradas.<br>
 
 
 ❃ ***Aporte de la docente en el proceso***  
 &nbsp;&nbsp;&nbsp;&nbsp;La enseñanza impartida por la docente fue óptima, pues se enfocó en que los estudiantes comprendieran los conceptos antes de avanzar.<br> &nbsp;&nbsp;&nbsp;&nbsp;Gracias a ello, la modularidad y el manejo de estructuras de datos estáticas fueron asimilados con mayor facilidad. El acompañamiento<br> &nbsp;&nbsp;&nbsp;&nbsp;constante permitió que las dudas se resolvieran oportunamente, generando confianza en el proceso de aprendizaje<br>
 
 ❃ ***- Autocrítica y proyección personal*** 
-&nbsp;&nbsp;&nbsp;&nbsp;Considero que los temas de arreglos y modularidad requieren un estudio más profundo por cuenta propia, ya que el tiempo en clase no fue<br> &nbsp;&nbsp;&nbsp;&nbsp;suficiente para alcanzar un dominio completo. Es necesario reforzar estos conocimientos mediante práctica adicional y proyectos <br>&nbsp;&nbsp;&nbsp;&nbsp;personales, lo que permitirá afianzar la lógica de programación y adquirir mayor seguridad al enfrentar problemas más complejos.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Considero que los temas de arreglos y modularidad requieren un estudio más profundo por cuenta propia, ya que el tiempo en clase no<br> &nbsp;&nbsp;&nbsp;&nbsp;fue suficiente para alcanzar un dominio completo. Es necesario reforzar estos conocimientos mediante práctica adicional y proyectos<br>
+&nbsp;&nbsp;&nbsp;&nbsp;personales, lo que permitirá afianzar la lógica de programación y adquirir mayor seguridad al enfrentar problemas más complejos.<br>
 
 
 ---
@@ -194,9 +203,9 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 
 ### 5.2. APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
 ### 🔹 [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%201.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp;El APE1 iene como propósito introducir y reforzar los fundamentos de la programación modular, destacando el uso de funciones y el manejo<br>
-&nbsp;&nbsp;&nbsp;&nbsp;de parámetros por valor y por referencia. Se plantea como una guía teórica y práctica para que el estudiante comprenda cómo dividir un<br> &nbsp;&nbsp;&nbsp;&nbsp;problema en módulos más pequeños y manejables, logrando así programas más claros, reutilizables y fáciles de mantener.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;El APE espera que el estudiante experimente y consolide los conceptos de modularidad y funciones, aplicándolos en problemas guiados por<br> &nbsp;&nbsp;&nbsp;&nbsp;el docente. De esta manera, se fortalece la capacidad de análisis, diseño y codificación de soluciones estructuradas en programación.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;El APE1 iene como propósito introducir y reforzar los fundamentos de la programación modular, destacando el uso de funciones y el <br>
+&nbsp;&nbsp;&nbsp;&nbsp;manejo de parámetros por valor y por referencia. Se plantea como una guía teórica y práctica para que el estudiante comprenda cómo <br> &nbsp;&nbsp;&nbsp;&nbsp;dividir un problema en módulos más pequeños y manejables, logrando así programas más claros, reutilizables y fáciles de mantener.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;El APE espera que el estudiante experimente y consolide los conceptos de modularidad y funciones, aplicándolos en problemas guiados <br> &nbsp;&nbsp;&nbsp;&nbsp;por el docente. De esta manera, se fortalece la capacidad de análisis, diseño y codificación de soluciones estructuradas en programación.<br>
 
 
 

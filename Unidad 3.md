@@ -161,23 +161,25 @@
 Durante el proceso de aprendizaje enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:  
 
 ❀ ***Parámetros por paso de referencia***  
-&nbsp;&nbsp;&nbsp;&nbsp;Al inicio no comprendía el como 
+&nbsp;&nbsp;&nbsp;&nbsp;Al inicio no comprendía cómo ni por qué se utilizaban los punteros en las funciones. Esto generaba confusión respecto a la modificación<br> &nbsp;&nbsp;&nbsp;&nbsp;de valores dentro de los procedimientos. Con la práctica entendí que el paso por referencia permite que una función altere directamente<br> &nbsp;&nbsp;&nbsp;&nbsp;el valor de las variables originales, lo cual es fundamental para acumular resultados sin necesidad de recurrir a variables globales.<br> &nbsp;&nbsp;&nbsp;&nbsp;Esta comprensión fue clave para mejorar la eficiencia y claridad de mis programas
 
-❀ ***Comprensión de la lógica detrás del código***  
-&nbsp;&nbsp;&nbsp;&nbsp;En ocasiones me costaba visualizar cómo las instrucciones se ejecutaban paso a paso dentro de un ciclo. Aprendí que es útil trazar el <br>&nbsp;&nbsp;&nbsp;&nbsp;programa manualmente (simularlo en papel) mediante **pruebas de esctritorio** para entender mejor su funcionamiento.  
+❀ ***Comprensión de la lógica detrás de las funciones y arreglos***  
+&nbsp;&nbsp;&nbsp;&nbsp;Al principio me resultaba difícil entender cómo se recorrían los arreglos y cómo se integraban con las funciones. Esto ocasionaba errores<br> &nbsp;&nbsp;&nbsp;&nbsp;en la lógica de mis programas. Sin embargo, mediante ejercicios guiados y la repetición de ejemplos prácticos, logré asimilar la<br> &nbsp;&nbsp;&nbsp;&nbsp;importancia de los bucles y la correcta indexación de los arreglos. Ahora reconozco que estas estructuras son esenciales para organizar<br> &nbsp;&nbsp;&nbsp;&nbsp;datos y resolver problemas de manera sistemática.<br>
 
-
+❀ ***- Aplicación de la modularidad en proyectos***
+&nbsp;&nbsp;&nbsp;&nbsp;Otra dificultad fue dividir correctamente un problema en módulos independientes. Tendía a concentrar demasiada lógica en una sola<br> &nbsp;&nbsp;&nbsp;&nbsp;función, lo que hacía el código menos legible. Con la práctica comprendí que la modularidad no solo facilita la lectura y mantenimiento<br> &nbsp;&nbsp;&nbsp;&nbsp;del programa, sino que también permite reutilizar funciones en diferentes contextos.<br>
 
 ---
 ### 4. REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
 ❃ ***Importancia de los aprendizajes adquiridos***  
-&nbsp;&nbsp;&nbsp;&nbsp;Los contenidos cistos en esta unidad los considero fundamentales ya que destaca el como la programación estructurada sirve para resolver de mejor manera un problema. Lo cual también será aplicable en el ámbito laboral.
+&nbsp;&nbsp;&nbsp;&nbsp;Los contenidos vistos en esta unidad los considero fundamentales, ya que demuestran cómo la programación estructurada y modular permite<br> &nbsp;&nbsp;&nbsp;&nbsp;resolver problemas de manera más ordenada y eficiente. Estos conocimientos no solo son aplicables en el ámbito académico, sino también en<br> &nbsp;&nbsp;&nbsp;&nbsp;el profesional, donde la claridad y la reutilización del código son altamente valoradas.<br>
 
 
 ❃ ***Aporte de la docente en el proceso***  
-&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **óptima** dado que se concetró siempre en que los alumnos aprendieron. Esto hizo que los conceptos de modularidad y estructura de datos estáticas se compredieron de mejor manera.
+&nbsp;&nbsp;&nbsp;&nbsp;La enseñanza impartida por la docente fue óptima, pues se enfocó en que los estudiantes comprendieran los conceptos antes de avanzar.<br> &nbsp;&nbsp;&nbsp;&nbsp;Gracias a ello, la modularidad y el manejo de estructuras de datos estáticas fueron asimilados con mayor facilidad. El acompañamiento<br> &nbsp;&nbsp;&nbsp;&nbsp;constante permitió que las dudas se resolvieran oportunamente, generando confianza en el proceso de aprendizaje<br>
 
-Creo que los conocimientos de arreglos y modularidad deben ser estudiados más a profunidad por propia cuengta de cada uno ya que 
+❃ ***- Autocrítica y proyección personal*** 
+&nbsp;&nbsp;&nbsp;&nbsp;Considero que los temas de arreglos y modularidad requieren un estudio más profundo por cuenta propia, ya que el tiempo en clase no fue<br> &nbsp;&nbsp;&nbsp;&nbsp;suficiente para alcanzar un dominio completo. Es necesario reforzar estos conocimientos mediante práctica adicional y proyectos <br>&nbsp;&nbsp;&nbsp;&nbsp;personales, lo que permitirá afianzar la lógica de programación y adquirir mayor seguridad al enfrentar problemas más complejos.<br>
 
 
 ---
@@ -191,9 +193,21 @@ Creo que los conocimientos de arreglos y modularidad deben ser estudiados más a
 
 ### 5.2. APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
 ### 🔹 [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%201.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo aplicar los fundamentos de la programación modular mediante la construcción y uso de funciones y<br>
-&nbsp;&nbsp;&nbsp;&nbsp;procedimientos, para resolver un problema real, garantizando un código estructurado, reutilizable y correctamente documentado.
+&nbsp;&nbsp;&nbsp;&nbsp;El APE1 iene como propósito introducir y reforzar los fundamentos de la programación modular, destacando el uso de funciones y el manejo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;de parámetros por valor y por referencia. Se plantea como una guía teórica y práctica para que el estudiante comprenda cómo dividir un<br> &nbsp;&nbsp;&nbsp;&nbsp;problema en módulos más pequeños y manejables, logrando así programas más claros, reutilizables y fáciles de mantener.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;El APE espera que el estudiante experimente y consolide los conceptos de modularidad y funciones, aplicándolos en problemas guiados por<br> &nbsp;&nbsp;&nbsp;&nbsp;el docente. De esta manera, se fortalece la capacidad de análisis, diseño y codificación de soluciones estructuradas en programación.<br>
 
-### 🔹 [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%202.c)
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+### 🔹 [APE1. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia.](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%202.c)
+&nbsp;&nbsp;&nbsp;&nbsp;El APE2 tuvo como propósito que el estudiante consolidara sus conocimientos sobre programación modular y el uso de funciones con paso de<br>
+&nbsp;&nbsp;&nbsp;&nbsp;parámetros por valor y por referencia. Se desarrolló un programa que simula la atención de clientes en un local de videojuegos,<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;calculando el valor a pagar según la consola utilizada y acumulando el total recaudado en el día.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Se trabajó en cuatro fases principales:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Análisis del problema: identificación de entradas, procesos y salidas.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Diseño modular: definición de funciones para el cálculo individual y acumulado.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Codificación: implementación en un lenguaje de programación aplicando buenas prácticas.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Pruebas: verificación de resultados y manejo de errores en datos inválidos.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;El resultado fue un programa funcional que permitió reforzar la comprensión de la modularidad y el manejo de parámetros, logrando un<br> &nbsp;&nbsp;&nbsp;&nbsp;aprendizaje práctico y guiado.<br>
+
 

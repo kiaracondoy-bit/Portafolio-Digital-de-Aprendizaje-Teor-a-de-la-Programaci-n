@@ -201,8 +201,7 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 
 
 ### 🔹 [APE2. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia.](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%202.c)
-&nbsp;&nbsp;&nbsp;&nbsp;El APE2 tuvo como propósito que el estudiante consolidara sus conocimientos sobre programación modular y el uso de funciones con paso de<br>
-&nbsp;&nbsp;&nbsp;&nbsp;parámetros por valor y por referencia. Se desarrolló un programa que simula la atención de clientes en un local de videojuegos,<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;El APE2 tuvo como propósito que el estudiante consolidara sus conocimientos sobre programación modular y el uso de funciones con paso<br> &nbsp;&nbsp;&nbsp;&nbsp;de parámetros por valor y por referencia. Se desarrolló un programa que simula la atención de clientes en un local de videojuegos,<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;calculando el valor a pagar según la consola utilizada y acumulando el total recaudado en el día.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Se trabajó en cuatro fases principales:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Análisis del problema: identificación de entradas, procesos y salidas.<br>

@@ -171,26 +171,25 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 ---
 ### 4. REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
 ❃ ***Importancia de los aprendizajes adquiridos***  
-&nbsp;&nbsp;&nbsp;&nbsp;Soy consciente de que los conocimientos obtenidos en esta unidad con respecto a los temas de estructuras condicionales y repetitivas son <br>&nbsp;&nbsp;&nbsp;&nbsp;y serán fundamentales a lo largo de mi formación como programadora, ya que permiten **facilitar y optimizar la resolución de <br>&nbsp;&nbsp;&nbsp;&nbsp;problemas** en distintos contextos.
+&nbsp;&nbsp;&nbsp;&nbsp;Los contenidos cistos en esta unidad los considero fundamentales ya que destaca el como la programación estructurada sirve para resolver de mejor manera un problema. Lo cual también será aplicable en el ámbito laboral.
+
 
 ❃ ***Aporte de la docente en el proceso***  
-&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **precisa y esencial**, lo que contribuyó de manera significativa al <br>&nbsp;&nbsp;&nbsp;&nbsp;entendimiento y correcta aplicación de las **estructuras condicionales y repetitivas**.
+&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **óptima** dado que se concetró siempre en que los alumnos aprendieron. Esto hizo que los conceptos de modularidad y estructura de datos estáticas se compredieron de mejor manera.
+
+Creo que los conocimientos de arreglos y modularidad deben ser estudiados más a profunidad por propia cuengta de cada uno ya que 
 
 
 ---
 ### 🗂️ 5. TAREAS ENTREGADAS
 
 ### 5.1. APRENDIZAJE AUTÓNOMO (AA)
-### 🔹 []()
-&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA1 se elaboró una infografía enfocada en el tema de estructuras condicionales. Para ello, se realizó una investigación 
-
-### 🔹 []()
-&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA2 se presentó un informe sobre las estructuras o bucles repetitivos. Se llevó a cabo una investigación para definir tres 
+### 🔹 [AA1. Curso Fundamentos de Python 1. Computación UNL](UNIDAD%203/Actividades/AA1%20-%20Python_Essentials_1_certificate_kiaracondoy.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA1 se desarrolló el Curso virtual de Fundamentos de Python de Cisco Networking Academy. En el mismo se desarrollaron<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ejercicios y actividades para aprender la sintaxis y lógica usada en este lenguaje de alto nivel.<br>
 
 
 ### 5.2. APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
-### 🔹 []()
-&nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo la práctica de las estructuras condicionales. Para ello, se utilizó el ejercicio desarrollado en el examen de 
-
-### 🔹 []()
-
+### 🔹 [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%201.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo aplicar los fundamentos de la programación modular mediante la construcción y uso de funciones y<br>
+&nbsp;&nbsp;&nbsp;&nbsp;procedimientos, para resolver un problema real, garantizando un código estructurado, reutilizable y correctamente documentado.

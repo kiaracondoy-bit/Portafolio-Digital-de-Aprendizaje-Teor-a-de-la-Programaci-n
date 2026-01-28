@@ -24,12 +24,11 @@
 
 ***5.** [Tareas entregadas y elaboradas](Unidad%203.md#%EF%B8%8F-5-tareas-entregadas)*<br>
 - [Aprendizaje Autónomo](Unidad%203.md#51-aprendizaje-autónomo-aa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [AA1. Curso Fundamentos de Python 1. Computación UNL]()<br>
 
 - [Aprendizaje Práctico Experimental](Unidad%203.md#52-aprendizaje-práctico-experimental-ape)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [APE1. Construcción de funciones y procedimientos en un lenguaje de programaciónA]()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [APE2. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia]()<br>  
 
 ---
 
@@ -201,7 +200,7 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 
 
 
-### 🔹 [APE1. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia.](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%202.c)
+### 🔹 [APE2. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia.](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%202.c)
 &nbsp;&nbsp;&nbsp;&nbsp;El APE2 tuvo como propósito que el estudiante consolidara sus conocimientos sobre programación modular y el uso de funciones con paso de<br>
 &nbsp;&nbsp;&nbsp;&nbsp;parámetros por valor y por referencia. Se desarrolló un programa que simula la atención de clientes en un local de videojuegos,<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;calculando el valor a pagar según la consola utilizada y acumulando el total recaudado en el día.<br>

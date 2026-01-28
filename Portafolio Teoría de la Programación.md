@@ -41,3 +41,6 @@
 
 [4]  M. Goin, *Caminando junto al Lenguaje C*. Viedma, Argentina: Editorial UNRN, 2022. [En línea]. Disponible en: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c
 
+[5] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, Programando en C desde la práctica: problemas resueltos. Puerto Madero Editorial, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288
+
+

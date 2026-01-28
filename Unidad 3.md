@@ -160,8 +160,8 @@
 ### 3. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
 Durante el proceso de aprendizaje enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:  
 
-❀ ***Estructuras repetitivas (bucles)***  
-&nbsp;&nbsp;&nbsp;&nbsp;Al inicio me resultó complicado comprender el uso de **contadores** y **acumuladores**. No entendía en qué momento debía inicializar cada <br>&nbsp;&nbsp;&nbsp;&nbsp;uno ni cómo aplicarlos según el problema. Con la ayuda del docente y la práctica constante, poco a poco estos conceptos se fueron <br>&nbsp;&nbsp;&nbsp;&nbsp;aclarando y se volvieron más manejables.  
+❀ ***Parámetros por paso de referencia***  
+&nbsp;&nbsp;&nbsp;&nbsp;Al inicio no comprendía el como 
 
 ❀ ***Comprensión de la lógica detrás del código***  
 &nbsp;&nbsp;&nbsp;&nbsp;En ocasiones me costaba visualizar cómo las instrucciones se ejecutaban paso a paso dentro de un ciclo. Aprendí que es útil trazar el <br>&nbsp;&nbsp;&nbsp;&nbsp;programa manualmente (simularlo en papel) mediante **pruebas de esctritorio** para entender mejor su funcionamiento.  
@@ -193,3 +193,5 @@ Creo que los conocimientos de arreglos y modularidad deben ser estudiados más a
 ### 🔹 [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%201.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo aplicar los fundamentos de la programación modular mediante la construcción y uso de funciones y<br>
 &nbsp;&nbsp;&nbsp;&nbsp;procedimientos, para resolver un problema real, garantizando un código estructurado, reutilizable y correctamente documentado.
+
+

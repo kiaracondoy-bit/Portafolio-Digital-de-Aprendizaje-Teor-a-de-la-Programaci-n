@@ -7,27 +7,27 @@
 
 ### Contenidos de la Unidad
 
-***1.** [Modularidad]()*
-  - [Teoría]()
-  - [Funciones]()
-  - [Ejemplo con pase de parámetro por valor]()
-  - [Ejemplo con pase por referencia]()<br>
+***1.** [Modularidad](Unidad%203.md#1-modularidad)*
+  - [Teoría](Unidad%203.md#-teoría)
+  - [Funciones](Unidad%203.md#-funciones)
+  - [Ejemplo con pase de parámetro por valor](Unidad%203.md#-ejemplo-con-pase-de-parámetro-por-valor)
+  - [Ejemplo con pase por referencia](Unidad%203.md#-ejemplo-con-pase-por-referencia)<br>
 
-***2.** [Arreglos]()*
-  - [Unidimensionales (Vector/Lista)]()
-  - [Bidimensionales  (Matriz)]()
-  - [Tridimensionales]()<br>
+***2.** [Arreglos](Unidad%203.md#2-arreglos)*
+  - [Unidimensionales (Vector/Lista)](Unidad%203.md#-unidimensionales-vectorlista)
+  - [Bidimensionales  (Matriz)](Unidad%203.md#-bidimensionales--matriz)
+  - [Tridimensionales](Unidad%203.md#-tridimensionales)<br>
 
-***3.** [Principales dificultades en la aplicación de los contenidos]()*<br>
+***3.** [Principales dificultades en la aplicación de los contenidos](Unidad%203.md#3-principales-dificultades-en-la-aplicación-de-los-contenidos)*<br>
 
-***4.** [Reflexión crítica de los aprendizajes de la unidad]()*<br>
+***4.** [Reflexión crítica de los aprendizajes de la unidad](Unidad%203.md#4-reflexión-crítica-de-los-aprendizajes-de-la-unidad)*<br>
 
-***5.** [Tareas entregadas y elaboradas]()*<br>
-- [Aprendizaje Autónomo]()<br>
+***5.** [Tareas entregadas y elaboradas](Unidad%203.md#%EF%B8%8F-5-tareas-entregadas)*<br>
+- [Aprendizaje Autónomo](Unidad%203.md#51-aprendizaje-autónomo-aa)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
 
-- [Aprendizaje Práctico Experimental]()<br>
+- [Aprendizaje Práctico Experimental](Unidad%203.md#52-aprendizaje-práctico-experimental-ape)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>  
 
@@ -169,7 +169,7 @@ Durante el proceso de aprendizaje enfrenté varias dificultades que logré super
 
 
 ---
-### 4. REFELXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
+### 4. REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
 ❃ ***Importancia de los aprendizajes adquiridos***  
 &nbsp;&nbsp;&nbsp;&nbsp;Soy consciente de que los conocimientos obtenidos en esta unidad con respecto a los temas de estructuras condicionales y repetitivas son <br>&nbsp;&nbsp;&nbsp;&nbsp;y serán fundamentales a lo largo de mi formación como programadora, ya que permiten **facilitar y optimizar la resolución de <br>&nbsp;&nbsp;&nbsp;&nbsp;problemas** en distintos contextos.
 

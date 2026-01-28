@@ -64,18 +64,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada función debe cumplir una sola responsabilidad (principio SRP).<br> <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Estructura general de una función (ejemplo en C):* <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Elaboración de un algoritmo use una función que sume dos números. <br><br>*
-   
+
+```c
+
     #include <stdio.h>
     int sumar(int a, int b) {
         return a + b; 
     }
-    
     int main() {
         int x = 5, y = 3;
         int resultado = sumar(x, y); 
         printf("La suma es: %d\n", resultado);
         return 0;
     }
+```
 
 ### 🔹 Ejemplo con pase de parámetro por valor
 &nbsp;&nbsp;&nbsp;&nbsp;Cuando se utiliza el pase de parámetros por valor, se crea una copia del valor de la variable que se pasa a la función. Esto significa <br>&nbsp;&nbsp;&nbsp;&nbsp;que cualquier cambio realizado en la variable dentro de la función no afectará a la variable original fuera de ella<br><br>

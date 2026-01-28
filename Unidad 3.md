@@ -194,4 +194,6 @@ Creo que los conocimientos de arreglos y modularidad deben ser estudiados más a
 &nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo aplicar los fundamentos de la programación modular mediante la construcción y uso de funciones y<br>
 &nbsp;&nbsp;&nbsp;&nbsp;procedimientos, para resolver un problema real, garantizando un código estructurado, reutilizable y correctamente documentado.
 
+### 🔹 [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](UNIDAD%203/Actividades/Teoría%20de%20la%20programación%20-U3-%20APE%202.c)
+&nbsp;&nbsp;&nbsp;&nbsp;
 

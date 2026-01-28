@@ -78,6 +78,7 @@
     }
 
 ### 🔹 Ejemplo con pase de parámetro por valor
+&nbsp;&nbsp;&nbsp;&nbsp;Cuando se utiliza el pase de parámetros por valor, se crea una copia del valor de la variable que se pasa a la función. Esto significa <br>&nbsp;&nbsp;&nbsp;&nbsp;que cualquier cambio realizado en la variable dentro de la función no afectará a la variable original fuera de ella<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** *Ejemplo de Paso por Valor: Duplicar un Número <br><br>*
 <p align = "center"><img width="666" height="432" alt="image" src="https://github.com/user-attachments/assets/7d374349-e492-4f2a-aafc-08c0f5e05193" /></p>
 
@@ -89,6 +90,8 @@
 
 
 ### 🔹 Ejemplo con pase por referencia
+&nbsp;&nbsp;&nbsp;&nbsp;El pase de parámetros por referencia es un método en programación donde, en lugar de pasar una copia del valor de una variable <br>
+&nbsp;&nbsp;&nbsp;&nbsp;a una función, se pasa una referencia a la variable original. Esto significa que cualquier cambio realizado en el parámetro dentro de<br> &nbsp;&nbsp;&nbsp;&nbsp;la función afectará directamente a la variable original.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;***EJERCICIO:*** *Intercambio de Valores Usando Paso por Referencia<br><br>*
 <p align = "center"><img width="799" height="481" alt="image" src="https://github.com/user-attachments/assets/11bca9e0-040d-49d2-8d4d-fb876bf5a9da" /></p>
 
@@ -117,11 +120,41 @@
 
 ### 🔹 Unidimensionales (Vector/Lista)
 
+&nbsp;&nbsp;&nbsp;&nbsp;***❀ Definición:*** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo unidimensional es una estructura de datos que permite almacenar un conjunto de elementos del mismo<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tipo. Cada elemento del arreglo se identifica mediante un índice, que indica su posición dentro del arreglo.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La primera posición del arreglo tiene un índice de 0, la segunda posición tiene un índice de 1, y así sucesivamente.<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo unideimensional o lista<br><br>*
+<p align = "center"><img width="676" height="432" alt="image" src="https://github.com/user-attachments/assets/e8a000bb-852d-43c0-a975-2a3760baead8" /></p>
+
+#### <p align = "center">*Imagen 2: Mostrar el arreglo Unideimensional o lista* </p><br>
+
 
 ### 🔹 Bidimensionales  (Matriz)
 
+&nbsp;&nbsp;&nbsp;&nbsp;***❀ Definición:*** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo bidimensional, también conocido como matriz, es una estructura de datos que permite almacenar un <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;conjunto de elementos en una tabla de filas y columnas. Cada elemento de la matriz se identifica mediante dos<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;índices: uno para la fila y otro para la columna.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo bidimensional o matriz<br><br>*
+<p align = "center"><img width="906" height="669" alt="image" src="https://github.com/user-attachments/assets/3afb3eb5-c078-4163-8c76-2c31c39d0160" /></p>
+
+#### <p align = "center">*Imagen 2: Mostrar el arreglo bidimensional o matriz* </p><br>
+
 
 ### 🔹 Tridimensionales
+
+&nbsp;&nbsp;&nbsp;&nbsp;***❀ Definición:*** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo tridimensional es una estructura de datos que almacena elementos en tres dimensiones: capas, filas y<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;columnas. Se puede imaginar como una pila de matrices bidimensionales, donde cada matriz representa una capa.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En C, se declara especificando el tamaño de cada dimensión.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo tridimensional<br><br>*
+<p align = "center"><img width="1117" height="718" alt="image" src="https://github.com/user-attachments/assets/5c14e8ef-f91d-455e-a427-afd1ee38851b" /></p>
+
+#### <p align = "center">*Imagen 2: Mostrar el arreglo tridimensional* </p><br>
+
 
 ---
 ### 3. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS

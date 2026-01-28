@@ -24,11 +24,11 @@
 
 ***5.** [Tareas entregadas y elaboradas](Unidad%203.md#%EF%B8%8F-5-tareas-entregadas)*<br>
 - [Aprendizaje Autónomo](Unidad%203.md#51-aprendizaje-autónomo-aa)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [AA1. Curso Fundamentos de Python 1. Computación UNL]()<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [AA1. Curso Fundamentos de Python 1. Computación UNL](Unidad%203.md#-aa1-curso-fundamentos-de-python-1-computaci%C3%B3n-unl)<br>
 
 - [Aprendizaje Práctico Experimental](Unidad%203.md#52-aprendizaje-práctico-experimental-ape)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [APE1. Construcción de funciones y procedimientos en un lenguaje de programaciónA]()<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [APE2. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia]()<br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [APE1. Construcción de funciones y procedimientos en un lenguaje de programación](Unidad%203.md#-ape1-construcci%C3%B3n-de-funciones-y-procedimientos-en-un-lenguaje-de-programaci%C3%B3n)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ [APE2. Implementación de funciones utilizando elpaso de parámetros por valor y porreferencia](Unidad%203.md#-ape2-implementaci%C3%B3n-de-funciones-utilizando-elpaso-de-par%C3%A1metros-por-valor-y-porreferencia)<br>  
 
 ---
 
@@ -38,8 +38,8 @@
 - [Imagen 3: Mostrar el arreglo Unideimensional o lista]()
 - [Imagen 4: Mostrar el arreglo bidimensional o matriz]()
 - [Imagen 5: Mostrar el arreglo tridimensional]()
-- 
 
+---
 
 ## 🗂️ CONTENIDOS DE LA UNIDAD
 
@@ -166,28 +166,28 @@
 ### 3. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
 Durante el proceso de aprendizaje enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:  
 
-❀ ***Parámetros por paso de referencia***  
+❀ ***Parámetros por paso de referencia***  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Al inicio no comprendía cómo ni por qué se utilizaban los punteros en las funciones. Esto generaba confusión respecto a la <br> &nbsp;&nbsp;&nbsp;&nbsp;modificación de valores dentro de los procedimientos. Con la práctica entendí que el paso por referencia permite que una función <br>
 &nbsp;&nbsp;&nbsp;&nbsp;altere directamente el valor de las variables originales, lo cual es fundamental para acumular resultados sin necesidad de recurrir a<br> &nbsp;&nbsp;&nbsp;&nbsp;variables globales. Esta comprensión fue clave para mejorar la eficiencia y claridad de mis programas.<br>
 
-❀ ***Comprensión de la lógica detrás de las funciones y arreglos***  
+❀ ***Comprensión de la lógica detrás de las funciones y arreglos***  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Al principio me resultaba difícil entender cómo se recorrían los arreglos y cómo se integraban con las funciones. Esto ocasionaba <br> &nbsp;&nbsp;&nbsp;&nbsp;errores en la lógica de mis programas. Sin embargo, mediante ejercicios guiados y la repetición de ejemplos prácticos, logré asimilar<br> &nbsp;&nbsp;&nbsp;&nbsp;la importancia de los bucles y la correcta indexación de los arreglos. Ahora reconozco que estas estructuras son esenciales para <br> &nbsp;&nbsp;&nbsp;&nbsp;organizar datos y resolver problemas de manera sistemática.<br>
 
-❀ ***- Aplicación de la modularidad en proyectos***
+❀ ***- Aplicación de la modularidad en proyectos***<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Otra dificultad fue dividir correctamente un problema en módulos independientes. Tendía a concentrar demasiada lógica en una sola<br> &nbsp;&nbsp;&nbsp;&nbsp;función, lo que hacía el código menos legible. Con la práctica comprendí que la modularidad no solo facilita la lectura y <br> &nbsp;&nbsp;&nbsp;&nbsp;mantenimiento del programa, sino que también permite reutilizar funciones en diferentes contextos.<br>
 
 ---
 ### 4. REFLEXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
-❃ ***Importancia de los aprendizajes adquiridos***  
+❃ ***Importancia de los aprendizajes adquiridos***  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Los contenidos vistos en esta unidad los considero fundamentales, ya que demuestran cómo la programación estructurada y modular<br>
 &nbsp;&nbsp;&nbsp;&nbsp;permite resolver problemas de manera más ordenada y eficiente. Estos conocimientos no solo son aplicables en el ámbito académico, sino<br>
 &nbsp;&nbsp;&nbsp;&nbsp;también en el profesional, donde la claridad y la reutilización del código son altamente valoradas.<br>
 
 
-❃ ***Aporte de la docente en el proceso***  
+❃ ***Aporte de la docente en el proceso***  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;La enseñanza impartida por la docente fue óptima, pues se enfocó en que los estudiantes comprendieran los conceptos antes de avanzar.<br> &nbsp;&nbsp;&nbsp;&nbsp;Gracias a ello, la modularidad y el manejo de estructuras de datos estáticas fueron asimilados con mayor facilidad. El acompañamiento<br> &nbsp;&nbsp;&nbsp;&nbsp;constante permitió que las dudas se resolvieran oportunamente, generando confianza en el proceso de aprendizaje<br>
 
-❃ ***- Autocrítica y proyección personal*** 
+❃ ***Autocrítica y proyección personal*** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Considero que los temas de arreglos y modularidad requieren un estudio más profundo por cuenta propia, ya que el tiempo en clase no<br> &nbsp;&nbsp;&nbsp;&nbsp;fue suficiente para alcanzar un dominio completo. Es necesario reforzar estos conocimientos mediante práctica adicional y proyectos<br>
 &nbsp;&nbsp;&nbsp;&nbsp;personales, lo que permitirá afianzar la lógica de programación y adquirir mayor seguridad al enfrentar problemas más complejos.<br>
 

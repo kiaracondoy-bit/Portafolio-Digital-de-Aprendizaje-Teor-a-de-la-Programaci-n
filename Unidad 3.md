@@ -31,6 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ []()<br>  
 
+---
+
 ## 📘 ÍNDICE DE IMÁGENES
 - [Imagen 1](): 
 
@@ -109,6 +111,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• Al volver a main(), se imprimen nuevamente a y b, mostrando que sí cambiaron fuera de la función, gracias al paso por <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;referencia.<br> 
 
+---
 
 ### 2. ARREGLOS<br>
 
@@ -120,4 +123,41 @@
 
 ### 🔹 Tridimensionales
 
+---
+### 3. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
+Durante el proceso de aprendizaje enfrenté varias dificultades que logré superar con práctica y acompañamiento. Entre ellas destaco:  
+
+❀ ***Estructuras repetitivas (bucles)***  
+&nbsp;&nbsp;&nbsp;&nbsp;Al inicio me resultó complicado comprender el uso de **contadores** y **acumuladores**. No entendía en qué momento debía inicializar cada <br>&nbsp;&nbsp;&nbsp;&nbsp;uno ni cómo aplicarlos según el problema. Con la ayuda del docente y la práctica constante, poco a poco estos conceptos se fueron <br>&nbsp;&nbsp;&nbsp;&nbsp;aclarando y se volvieron más manejables.  
+
+❀ ***Comprensión de la lógica detrás del código***  
+&nbsp;&nbsp;&nbsp;&nbsp;En ocasiones me costaba visualizar cómo las instrucciones se ejecutaban paso a paso dentro de un ciclo. Aprendí que es útil trazar el <br>&nbsp;&nbsp;&nbsp;&nbsp;programa manualmente (simularlo en papel) mediante **pruebas de esctritorio** para entender mejor su funcionamiento.  
+
+
+
+---
+### 4. REFELXIÓN CRÍTICA DE LOS APRENDIZAJES DE LA UNIDAD
+❃ ***Importancia de los aprendizajes adquiridos***  
+&nbsp;&nbsp;&nbsp;&nbsp;Soy consciente de que los conocimientos obtenidos en esta unidad con respecto a los temas de estructuras condicionales y repetitivas son <br>&nbsp;&nbsp;&nbsp;&nbsp;y serán fundamentales a lo largo de mi formación como programadora, ya que permiten **facilitar y optimizar la resolución de <br>&nbsp;&nbsp;&nbsp;&nbsp;problemas** en distintos contextos.
+
+❃ ***Aporte de la docente en el proceso***  
+&nbsp;&nbsp;&nbsp;&nbsp;Considero que la enseñanza impartida por la docente fue **precisa y esencial**, lo que contribuyó de manera significativa al <br>&nbsp;&nbsp;&nbsp;&nbsp;entendimiento y correcta aplicación de las **estructuras condicionales y repetitivas**.
+
+
+---
+### 🗂️ 5. TAREAS ENTREGADAS
+
+### 5.1. APRENDIZAJE AUTÓNOMO (AA)
+### 🔹 []()
+&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA1 se elaboró una infografía enfocada en el tema de estructuras condicionales. Para ello, se realizó una investigación 
+
+### 🔹 []()
+&nbsp;&nbsp;&nbsp;&nbsp;En el trabajo AA2 se presentó un informe sobre las estructuras o bucles repetitivos. Se llevó a cabo una investigación para definir tres 
+
+
+### 5.2. APRENDIZAJE PRÁCTICO EXPERIMENTAL (APE)
+### 🔹 []()
+&nbsp;&nbsp;&nbsp;&nbsp;El APE1 tuvo como objetivo la práctica de las estructuras condicionales. Para ello, se utilizó el ejercicio desarrollado en el examen de 
+
+### 🔹 []()
 

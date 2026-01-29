@@ -62,7 +62,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Facilita el trabajo en equipo (cada programador puede trabajar en un módulo distinto).<br> 
 
 ### 🔹 Funciones
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una función es un bloque de código que realiza una tarea específica y puede ser llamado desde cualquier parte del programa[5].<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Una función es un bloque de código que realiza una tarea específica y puede ser llamado desde cualquier parte del programa [5].<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Las funciones son una forma de implementar modularidad.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un programa modular se compone de múltiples funciones (o clases/módulos en otros lenguajes).<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada función debe cumplir una sola responsabilidad (principio SRP).<br> <br> 
@@ -129,7 +129,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;***❀ Definición:*** <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Un arreglo unidimensional es una estructura de datos que permite almacenar un conjunto de elementos del mismo<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tipo. Cada elemento del arreglo se identifica mediante un índice, que indica su posición dentro del arreglo.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La primera posición del arreglo tiene un índice de 0, la segunda posición tiene un índice de 1, y así &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sucesivamente.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La primera posición del arreglo tiene un índice de 0, la segunda posición tiene un índice de 1, y así sucesivamente.<br> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;***Ejemplo:*** *Mostrar el arreglo unideimensional o lista<br><br>*
 <p align = "center"><img width="676" height="432" alt="image" src="https://github.com/user-attachments/assets/e8a000bb-852d-43c0-a975-2a3760baead8" /></p>

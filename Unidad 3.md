@@ -136,6 +136,9 @@
 
 #### <p align = "center">*Imagen 3: Mostrar el arreglo Unideimensional o lista* </p><br>
 
+&nbsp;&nbsp;&nbsp;***◈ Explicación del ejercicio:*** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;Este ejemplo en C lo que hace es trabajar con un arreglo unidimensional y mostrar cómo acceder a cada uno de sus elementos mediante un<br>
+&nbsp;&nbsp;&nbsp;&nbsp;bucle for y el contador para la posición del arreglo.
 
 ### 🔹 Bidimensionales  (Matriz)
 
@@ -148,6 +151,10 @@
 
 #### <p align = "center">*Imagen 4: Mostrar el arreglo bidimensional o matriz* </p><br>
 
+&nbsp;&nbsp;&nbsp;***◈ Explicación del ejercicio:*** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;Este ejemplo en C lo que hace es trabajar con un arreglo bidimensional y mostrar cómo acceder a cada uno de sus elementos de forma<br>
+&nbsp;&nbsp;&nbsp;&nbsp;similar a un arreglo unidimensional, es decir, con un bucle for, con la diferencia que se usan dos bucles para recrrer filas y <br>
+&nbsp;&nbsp;&nbsp;&nbsp;columnas del arreglo. <br>
 
 ### 🔹 Tridimensionales
 
@@ -161,6 +168,8 @@
 
 #### <p align = "center">*Imagen 5: Mostrar el arreglo tridimensional* </p><br>
 
+&nbsp;&nbsp;&nbsp;***◈ Explicación del ejercicio:*** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;Este ejemplo en C lo que hace es trabajar con un arreglo tridimensional y mostrar cómo acceder a cada uno de sus elementos mediante <br> &nbsp;&nbsp;&nbsp;&nbsp;la implementación de tres bucles for, los cuales recorren, capas, filas y columnas.<br>
 
 ---
 ### 3. PRINCIPALES DIFICULTADES EN LA APLICACIÓN DE LOS CONTENIDOS
